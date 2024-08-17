@@ -2484,7 +2484,7 @@
 		<FlightLevel>0</FlightLevel>
 		<Velocity>8</Velocity>
 		<TurnRate>3600</TurnRate>
-		<Hitpoints>500</Hitpoints>
+		<Hitpoints>2000</Hitpoints>
 		<ObstructionRadiusX>0.5</ObstructionRadiusX>
 		<ObstructionRadiusY>0.5</ObstructionRadiusY>
 		<ObstructionRadiusZ>0.5</ObstructionRadiusZ>

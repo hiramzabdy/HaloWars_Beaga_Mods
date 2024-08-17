@@ -523,7 +523,7 @@
 		<Attributes>
 			<PowerType>Repair</PowerType>
 			<Cost Supplies="100" />
-			<AutoRecharge>90000</AutoRecharge>
+			<AutoRecharge>60000</AutoRecharge>
 			<UIRadius>75</UIRadius>
 			<DisplayNameID>5000</DisplayNameID>
 			<RolloverTextID>5001</RolloverTextID>
@@ -566,7 +566,7 @@
 		<Attributes>
 			<PowerType>Disruption</PowerType>
 			<Cost Supplies="100" />
-			<AutoRecharge>360000</AutoRecharge>
+			<AutoRecharge>24000</AutoRecharge>
 			<UIRadius>70</UIRadius>
 			<DisplayNameID>5008</DisplayNameID>
 			<RolloverTextID>5009</RolloverTextID>
@@ -702,22 +702,22 @@
 			<DataLevel level="0">
 				<Data type="protoobject" name="Projectile">pow_gp_macCannonSmall</Data>
 				<Data type="protoobject" name="Effect">pow_gp_macCannonVisualSmall</Data>
-				<Data type="int" name="NumShots">1</Data>
+				<Data type="int" name="NumShots">2</Data>
 			</DataLevel>
 			<DataLevel level="1">
 				<Data type="protoobject" name="Projectile">pow_gp_macCannonSmall</Data>
 				<Data type="protoobject" name="Effect">pow_gp_macCannonVisualMedium</Data>
-				<Data type="int" name="NumShots">2</Data>
+				<Data type="int" name="NumShots">4</Data>
 			</DataLevel>
 			<DataLevel level="2">
 				<Data type="protoobject" name="Projectile">pow_gp_macCannonSmall</Data>
 				<Data type="protoobject" name="Effect">pow_gp_macCannonVisualMedium</Data>
-				<Data type="int" name="NumShots">3</Data>
+				<Data type="int" name="NumShots">6</Data>
 			</DataLevel>
 			<DataLevel level="3">
 				<Data type="protoobject" name="Projectile">pow_gp_macCannonSmall</Data>
 				<Data type="protoobject" name="Effect">pow_gp_macCannonVisualLarge</Data>
-				<Data type="int" name="NumShots">4</Data>
+				<Data type="int" name="NumShots">8</Data>
 			</DataLevel>
 			<DataLevel level="66">
 				<Data type="protoobject" name="Projectile">pow_gp_macCannonSmall</Data>
