@@ -453,7 +453,7 @@
 	</Power>
 	<Power name="UnscLeaderCryo">
 		<Attributes>
-			<Cost Supplies="500" Power="10" />
+			<Cost Supplies="500" Power="0" />
 			<AutoRecharge>120000</AutoRecharge>
 			<PowerType>Cryo</PowerType>
 			<UIRadius>35</UIRadius>

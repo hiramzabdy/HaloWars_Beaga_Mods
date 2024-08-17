@@ -6367,7 +6367,7 @@
 		<TurnRate>60</TurnRate>
 		<Hitpoints>10000</Hitpoints>
 		<LOS>55</LOS>
-		<Pop Type="Unit">2</Pop>
+		<Pop Type="Unit">0</Pop>
 		<CombatValue>16</CombatValue>
 		<Bounty>12</Bounty>
 		<Veterancy Level="1" XP="36" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
@@ -6458,7 +6458,7 @@
 		<TurnRate>60</TurnRate>
 		<Hitpoints>10000</Hitpoints>
 		<LOS>55</LOS>
-		<Pop Type="Unit">2</Pop>
+		<Pop Type="Unit">0</Pop>
 		<CombatValue>16</CombatValue>
 		<Bounty>12</Bounty>
 		<Veterancy Level="1" XP="36" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
@@ -9084,7 +9084,7 @@
 		<AttackGradeDPS>0</AttackGradeDPS>
 		<CombatValue>10</CombatValue>
 		<LOS>55</LOS>
-		<Pop Type="Unit">1</Pop>
+		<Pop Type="Unit">0</Pop>
 		<Bounty>5</Bounty>
 		<Veterancy Level="1" XP="0" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
 		<Veterancy Level="2" XP="0" Damage="1.25" Velocity="1" Accuracy="1.70000005" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.800000012" />
