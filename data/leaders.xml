@@ -24,7 +24,7 @@
 		<RepairCost Type="Supplies">35</RepairCost>
 		<RepairTime>30</RepairTime>
 		<Pop Type="Unit" Max="99">40</Pop>
-		<Pop Type="Spartan" Max="3">3</Pop>
+		<Pop Type="Spartan" Max="10">10</Pop>
 	</Leader>
 	<Leader Name="Forge" Icon="ui\game\icon\unsc\leader\Sergeant Forge" LeaderPickerOrder="3" StatsID="2" DefaultPlayerSlotFlags="0x2">
 		<Civ>UNSC</Civ>
@@ -40,14 +40,14 @@
 		<Resource Type="CampaignFoo">0</Resource>
 		<Resource Type="Power">0</Resource>
 		<StartingUnit Offset="0,0,0" BuildOther="unsc_bldg_command_02" DoppleOnStart="true">game_base_socket_01</StartingUnit>
-		<StartingSquad FlyIn="false" Offset="60,0,-20">unsc_veh_warthog_01</StartingSquad>
+		<StartingSquad FlyIn="false" Offset="60,0,-20">unsc_veh_grizzly_01</StartingSquad>
 		<RallyPointOffset>50,0,0</RallyPointOffset>
 		<RepairRate>1</RepairRate>
 		<RepairDelay>20</RepairDelay>
 		<RepairCost Type="Supplies">35</RepairCost>
 		<RepairTime>30</RepairTime>
-		<Pop Type="Unit" Max="99">30</Pop>
-		<Pop Type="Spartan" Max="5">5</Pop>
+		<Pop Type="Unit" Max="99">40</Pop>
+		<Pop Type="Spartan" Max="10">10</Pop>
 	</Leader>
 	<Leader Name="Anders" Icon="ui\game\icon\unsc\leader\Serina" Alpha="0" LeaderPickerOrder="4" StatsID="3" DefaultPlayerSlotFlags="0x4">
 		<Civ>UNSC</Civ>
@@ -63,13 +63,14 @@
 		<Resource Type="CampaignFoo">0</Resource>
 		<Resource Type="Power">1</Resource>
 		<StartingUnit Offset="0,0,0" BuildOther="unsc_bldg_command_02" DoppleOnStart="true">game_base_socket_01</StartingUnit>
+		<StartingSquad FlyIn="false" Offset="60,0,-20">unsc_air_hawk_01</StartingSquad>
 		<RallyPointOffset>50,0,0</RallyPointOffset>
 		<RepairRate>1</RepairRate>
 		<RepairDelay>20</RepairDelay>
 		<RepairCost Type="Supplies">35</RepairCost>
 		<RepairTime>30</RepairTime>
-		<Pop Type="Unit" Max="99">30</Pop>
-		<Pop Type="Spartan" Max="3">3</Pop>
+		<Pop Type="Unit" Max="99">40</Pop>
+		<Pop Type="Spartan" Max="3">10</Pop>
 	</Leader>
 	<Leader Name="Random UNSC" LeaderPickerOrder="1" Random="true">
 		<Civ>UNSC</Civ>
@@ -100,7 +101,7 @@
 		<RepairCost Type="Supplies">35</RepairCost>
 		<RepairTime>30</RepairTime>
 		<ReverseHotDropCost Type="Supplies">100</ReverseHotDropCost>
-		<Pop Type="Unit" Max="99">55</Pop>
+		<Pop Type="Unit" Max="99">50</Pop>
 		<Pop Type="Leader" Max="1">1</Pop>
 		<Pop Type="Temple" Max="1">1</Pop>
 	</Leader>
@@ -125,7 +126,7 @@
 		<RepairCost Type="Supplies">35</RepairCost>
 		<RepairTime>30</RepairTime>
 		<ReverseHotDropCost Type="Supplies">100</ReverseHotDropCost>
-		<Pop Type="Unit" Max="99">40</Pop>
+		<Pop Type="Unit" Max="99">50</Pop>
 		<Pop Type="Temple" Max="1">1</Pop>
 		<Pop Type="Leader" Max="1">1</Pop>
 	</Leader>
@@ -150,7 +151,7 @@
 		<RepairCost Type="Supplies">35</RepairCost>
 		<RepairTime>30</RepairTime>
 		<ReverseHotDropCost Type="Supplies">10</ReverseHotDropCost>
-		<Pop Type="Unit" Max="99">40</Pop>
+		<Pop Type="Unit" Max="99">50</Pop>
 		<Pop Type="Leader" Max="1">1</Pop>
 		<Pop Type="Temple" Max="1">1</Pop>
 	</Leader>

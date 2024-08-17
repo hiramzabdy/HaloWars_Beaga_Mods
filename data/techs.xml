@@ -4657,7 +4657,7 @@
 		<DBID>1915</DBID>
 		<DisplayNameID>24394</DisplayNameID>
 		<RolloverTextID>24395</RolloverTextID>
-		<Cost resourcetype="Supplies">350</Cost>
+		<Cost resourcetype="Supplies">300</Cost>
 		<Cost resourcetype="Power">1</Cost>
 		<ResearchPoints>60</ResearchPoints>
 		<Status>OBTAINABLE</Status>
@@ -4679,7 +4679,7 @@
 		<DBID>1915</DBID>
 		<DisplayNameID>24396</DisplayNameID>
 		<RolloverTextID>24397</RolloverTextID>
-		<Cost resourcetype="Supplies">700</Cost>
+		<Cost resourcetype="Supplies">500</Cost>
 		<Cost resourcetype="Power">2</Cost>
 		<ResearchPoints>60</ResearchPoints>
 		<Status>OBTAINABLE</Status>
@@ -5491,6 +5491,12 @@
 			<Effect type="Data" amount="1" subtype="CommandEnable" commandType="Research" CommandData="unsc_odst_upgrade1" relativity="Absolute">
 				<Target type="ProtoUnit">unsc_bldg_barracks_01</Target>
 			</Effect>
+			<Effect type="Data" amount="1" subtype="CommandEnable" commandType="Research" CommandData="unsc_grizzly_upgrade1" relativity="Absolute">
+				<Target type="ProtoUnit">unsc_bldg_vehicleDepot_01</Target>
+			</Effect>
+			<Effect type="Data" amount="1" subtype="CommandEnable" commandType="Research" CommandData="unsc_hawk_upgrade1" relativity="Absolute">
+				<Target type="ProtoUnit">unsc_bldg_airpad_01</Target>
+			</Effect>
 			<Effect type="Data" amount="1" subtype="CommandEnable" commandType="Research" CommandData="unsc_elephant_upgrade1" relativity="Absolute">
 				<Target type="ProtoUnit">unsc_bldg_command_01</Target>
 			</Effect>
@@ -5545,12 +5551,19 @@
 		<Flag>Shadow</Flag>
 		<Effects>
 			<Effect type="GodPower" amount="1">UnscLeaderCarpetBombing</Effect>
+			<Effect type="GodPower" amount="1">UnscLeaderCryo</Effect>
 			<Effect type="Data" amount="1" subtype="Enable" relativity="Absolute">
 				<Target type="ProtoUnit">unsc_bldg_supplyPad_02</Target>
 			</Effect>
 			<Effect type="TransformProtoUnit" FromType="unsc_bldg_supplyPad_01" ToType="unsc_bldg_supplyPad_02" />
+			<Effect type="Data" amount="1" subtype="CommandEnable" commandType="Research" CommandData="unsc_hawk_upgrade1" relativity="Absolute">
+				<Target type="ProtoUnit">unsc_bldg_airpad_01</Target>
+			</Effect>
 			<Effect type="Data" amount="1" subtype="CommandEnable" commandType="Research" CommandData="unsc_grizzly_upgrade1" relativity="Absolute">
 				<Target type="ProtoUnit">unsc_bldg_vehicleDepot_01</Target>
+			</Effect>
+			<Effect type="Data" amount="1" subtype="CommandEnable" commandType="Research" CommandData="unsc_odst_upgrade1" relativity="Absolute">
+				<Target type="ProtoUnit">unsc_bldg_barracks_01</Target>
 			</Effect>
 			<Effect type="Data" amount="1" subtype="CommandEnable" commandType="Research" CommandData="unsc_cyclops_upgrade1" relativity="Absolute">
 				<Target type="ProtoUnit">unsc_bldg_command_01</Target>
@@ -5606,6 +5619,12 @@
 		<Flag>Shadow</Flag>
 		<Effects>
 			<Effect type="GodPower" amount="1">UnscLeaderCryo</Effect>
+			<Effect type="Data" amount="1" subtype="CommandEnable" commandType="Research" CommandData="unsc_odst_upgrade1" relativity="Absolute">
+				<Target type="ProtoUnit">unsc_bldg_barracks_01</Target>
+			</Effect>
+			<Effect type="Data" amount="1" subtype="CommandEnable" commandType="Research" CommandData="unsc_grizzly_upgrade1" relativity="Absolute">
+				<Target type="ProtoUnit">unsc_bldg_vehicleDepot_01</Target>
+			</Effect>
 			<Effect type="Data" subtype="Cost" Resource="Supplies" amount="0.75" relativity="Percent">
 				<Target type="Tech">unsc_marine_upgrade1</Target>
 			</Effect>
@@ -6664,16 +6683,16 @@
 	<Tech name="skull_14" type="Normal">
 		<Status>OBTAINABLE</Status>
 		<Effects>
-			<Effect type="Data" amount="1.25" subtype="WorkRate" action="GatherSupplies" relativity="Percent">
+			<Effect type="Data" amount="1.5" subtype="WorkRate" action="GatherSupplies" relativity="Percent">
 				<Target type="ProtoUnit">unsc_bldg_supplyPad_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.25" subtype="WorkRate" action="GatherSupplies" relativity="Percent">
+			<Effect type="Data" amount="1.5" subtype="WorkRate" action="GatherSupplies" relativity="Percent">
 				<Target type="ProtoUnit">unsc_bldg_supplyPad_02</Target>
 			</Effect>
-			<Effect type="Data" amount="1.25" subtype="WorkRate" action="GatherSupplies" relativity="Percent">
+			<Effect type="Data" amount="1.5" subtype="WorkRate" action="GatherSupplies" relativity="Percent">
 				<Target type="ProtoUnit">cov_bldg_supplyDepot_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.25" subtype="WorkRate" action="GatherSupplies" relativity="Percent">
+			<Effect type="Data" amount="1.5" subtype="WorkRate" action="GatherSupplies" relativity="Percent">
 				<Target type="ProtoUnit">cov_bldg_supplyDepot_02</Target>
 			</Effect>
 		</Effects>

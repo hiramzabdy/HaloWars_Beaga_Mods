@@ -295,7 +295,7 @@
 	</Power>
 	<Power name="UnscLeaderCarpetBombing">
 		<Attributes>
-			<Cost Supplies="600" Power="1" />
+			<Cost Supplies="500" Power="0" />
 			<AutoRecharge>120000</AutoRecharge>
 			<PowerType>CarpetBombing</PowerType>
 			<UIRadius>35</UIRadius>
@@ -339,7 +339,7 @@
 				<Data type="sound" name="HudStopEnvSound">hud_carpetbomb_confirmed</Data>
 			</BaseDataLevel>
 			<DataLevel level="0">
-				<Data type="int" name="MaxBombs">8</Data>
+				<Data type="int" name="MaxBombs">20</Data>
 				<Data type="float" name="MaxBombOffset">8</Data>
 				<Data type="float" name="BombSpacing">6</Data>
 				<Data type="float" name="LengthMultiplier">40</Data>
@@ -347,7 +347,7 @@
 				<Data type="float" name="WedgeMinOffset">2</Data>
 			</DataLevel>
 			<DataLevel level="1">
-				<Data type="int" name="MaxBombs">15</Data>
+				<Data type="int" name="MaxBombs">30</Data>
 				<Data type="float" name="MaxBombOffset">8</Data>
 				<Data type="float" name="BombSpacing">6</Data>
 				<Data type="float" name="LengthMultiplier">50</Data>
@@ -355,7 +355,7 @@
 				<Data type="float" name="WedgeMinOffset">3</Data>
 			</DataLevel>
 			<DataLevel level="2">
-				<Data type="int" name="MaxBombs">25</Data>
+				<Data type="int" name="MaxBombs">40</Data>
 				<Data type="float" name="MaxBombOffset">16</Data>
 				<Data type="float" name="BombSpacing">14</Data>
 				<Data type="float" name="LengthMultiplier">60</Data>
@@ -363,7 +363,7 @@
 				<Data type="float" name="WedgeMinOffset">4</Data>
 			</DataLevel>
 			<DataLevel level="3">
-				<Data type="int" name="MaxBombs">40</Data>
+				<Data type="int" name="MaxBombs">60</Data>
 				<Data type="float" name="MaxBombOffset">16</Data>
 				<Data type="float" name="BombSpacing">14</Data>
 				<Data type="float" name="LengthMultiplier">80</Data>
@@ -453,7 +453,7 @@
 	</Power>
 	<Power name="UnscLeaderCryo">
 		<Attributes>
-			<Cost Supplies="400" Power="1" />
+			<Cost Supplies="500" Power="0" />
 			<AutoRecharge>120000</AutoRecharge>
 			<PowerType>Cryo</PowerType>
 			<UIRadius>35</UIRadius>
@@ -503,17 +503,17 @@
 				<Data type="float" name="FrozenThawTime">5</Data>
 			</DataLevel>
 			<DataLevel level="1">
-				<Data type="float" name="MaxKillHp">8000</Data>
+				<Data type="float" name="MaxKillHp">3000</Data>
 				<Data type="float" name="FrozenThawTime">8</Data>
 				<Data type="float" name="CryoRadius">30</Data>
 			</DataLevel>
 			<DataLevel level="2">
-				<Data type="float" name="MaxKillHp">13000</Data>
+				<Data type="float" name="MaxKillHp">3000</Data>
 				<Data type="float" name="FrozenThawTime">12</Data>
 				<Data type="float" name="CryoRadius">50</Data>
 			</DataLevel>
 			<DataLevel level="3">
-				<Data type="float" name="MaxKillHp">20000</Data>
+				<Data type="float" name="MaxKillHp">3000</Data>
 				<Data type="float" name="FrozenThawTime">17</Data>
 				<Data type="float" name="CryoRadius">75</Data>
 			</DataLevel>
@@ -522,7 +522,7 @@
 	<Power name="UnscLeaderRepair">
 		<Attributes>
 			<PowerType>Repair</PowerType>
-			<Cost Supplies="650" />
+			<Cost Supplies="100" />
 			<AutoRecharge>90000</AutoRecharge>
 			<UIRadius>75</UIRadius>
 			<DisplayNameID>5000</DisplayNameID>
@@ -565,7 +565,7 @@
 	<Power name="UnscLeaderDisruption">
 		<Attributes>
 			<PowerType>Disruption</PowerType>
-			<Cost Supplies="350" />
+			<Cost Supplies="100" />
 			<AutoRecharge>360000</AutoRecharge>
 			<UIRadius>70</UIRadius>
 			<DisplayNameID>5008</DisplayNameID>
@@ -614,7 +614,7 @@
 	<Power name="UnscOdstDrop">
 		<Attributes>
 			<PowerType>ODST</PowerType>
-			<Cost Supplies="100" Power="1" />
+			<Cost Supplies="100" Power="0" />
 			<Pop type="Unit">1</Pop>
 			<AutoRecharge>7500</AutoRecharge>
 			<SequentialRecharge />
@@ -653,7 +653,7 @@
 	<Power name="UnscLeaderOrbitalBombard">
 		<Attributes>
 			<PowerType>Orbital</PowerType>
-			<Cost Supplies="800" Power="1" />
+			<Cost Supplies="800" Power="0" />
 			<AutoRecharge>120000</AutoRecharge>
 			<UIRadius>18</UIRadius>
 			<DisplayNameID>5026</DisplayNameID>
@@ -702,22 +702,22 @@
 			<DataLevel level="0">
 				<Data type="protoobject" name="Projectile">pow_gp_macCannonSmall</Data>
 				<Data type="protoobject" name="Effect">pow_gp_macCannonVisualSmall</Data>
-				<Data type="int" name="NumShots">2</Data>
+				<Data type="int" name="NumShots">1</Data>
 			</DataLevel>
 			<DataLevel level="1">
 				<Data type="protoobject" name="Projectile">pow_gp_macCannonSmall</Data>
 				<Data type="protoobject" name="Effect">pow_gp_macCannonVisualMedium</Data>
-				<Data type="int" name="NumShots">3</Data>
+				<Data type="int" name="NumShots">2</Data>
 			</DataLevel>
 			<DataLevel level="2">
 				<Data type="protoobject" name="Projectile">pow_gp_macCannonSmall</Data>
 				<Data type="protoobject" name="Effect">pow_gp_macCannonVisualMedium</Data>
-				<Data type="int" name="NumShots">4</Data>
+				<Data type="int" name="NumShots">3</Data>
 			</DataLevel>
 			<DataLevel level="3">
 				<Data type="protoobject" name="Projectile">pow_gp_macCannonSmall</Data>
 				<Data type="protoobject" name="Effect">pow_gp_macCannonVisualLarge</Data>
-				<Data type="int" name="NumShots">6</Data>
+				<Data type="int" name="NumShots">4</Data>
 			</DataLevel>
 			<DataLevel level="66">
 				<Data type="protoobject" name="Projectile">pow_gp_macCannonSmall</Data>
