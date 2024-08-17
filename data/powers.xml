@@ -295,7 +295,7 @@
 	</Power>
 	<Power name="UnscLeaderCarpetBombing">
 		<Attributes>
-			<Cost Supplies="600" Power="1" />
+			<Cost Supplies="500" Power="1" />
 			<AutoRecharge>120000</AutoRecharge>
 			<PowerType>CarpetBombing</PowerType>
 			<UIRadius>35</UIRadius>
@@ -363,7 +363,7 @@
 				<Data type="float" name="WedgeMinOffset">4</Data>
 			</DataLevel>
 			<DataLevel level="3">
-				<Data type="int" name="MaxBombs">40</Data>
+				<Data type="int" name="MaxBombs">80</Data>
 				<Data type="float" name="MaxBombOffset">16</Data>
 				<Data type="float" name="BombSpacing">14</Data>
 				<Data type="float" name="LengthMultiplier">80</Data>
@@ -374,8 +374,8 @@
 	</Power>
 	<Power name="UnscLeaderCarpetBombingNoReactor">
 		<Attributes>
-			<Cost Supplies="600" />
-			<AutoRecharge>180000</AutoRecharge>
+			<Cost Supplies="500" />
+			<AutoRecharge>120000</AutoRecharge>
 			<PowerType>CarpetBombing</PowerType>
 			<UIRadius>35</UIRadius>
 			<DisplayNameID>5006</DisplayNameID>
@@ -453,7 +453,7 @@
 	</Power>
 	<Power name="UnscLeaderCryo">
 		<Attributes>
-			<Cost Supplies="400" Power="1" />
+			<Cost Supplies="500" Power="1" />
 			<AutoRecharge>120000</AutoRecharge>
 			<PowerType>Cryo</PowerType>
 			<UIRadius>35</UIRadius>
@@ -503,17 +503,17 @@
 				<Data type="float" name="FrozenThawTime">5</Data>
 			</DataLevel>
 			<DataLevel level="1">
-				<Data type="float" name="MaxKillHp">8000</Data>
+				<Data type="float" name="MaxKillHp">3000</Data>
 				<Data type="float" name="FrozenThawTime">8</Data>
 				<Data type="float" name="CryoRadius">30</Data>
 			</DataLevel>
 			<DataLevel level="2">
-				<Data type="float" name="MaxKillHp">13000</Data>
+				<Data type="float" name="MaxKillHp">3000</Data>
 				<Data type="float" name="FrozenThawTime">12</Data>
 				<Data type="float" name="CryoRadius">50</Data>
 			</DataLevel>
 			<DataLevel level="3">
-				<Data type="float" name="MaxKillHp">20000</Data>
+				<Data type="float" name="MaxKillHp">3000</Data>
 				<Data type="float" name="FrozenThawTime">17</Data>
 				<Data type="float" name="CryoRadius">75</Data>
 			</DataLevel>
@@ -546,7 +546,7 @@
 			<DataLevel level="0">
 				<Data type="protoobject" name="RepairObject">fx_repairPower</Data>
 				<Data type="protoobject" name="RepairAttachment">fx_repairing</Data>
-				<Data type="float" name="RepairRadius">75</Data>
+				<Data type="float" name="RepairRadius">100</Data>
 				<Data type="objecttype" name="FilterType">Military</Data>
 				<Data type="float" name="TickDuration">0.125</Data>
 				<Data type="int" name="NumTicks">200</Data>
@@ -592,7 +592,7 @@
 				<Data type="protoobject" name="PulseObject">fx_disruptionRing</Data>
 				<Data type="protoobject" name="StrikeObject">fx_disruptionLightningBeam</Data>
 				<Data type="float" name="PulseSpacing">0.25</Data>
-				<Data type="float" name="DisruptionRadius">70</Data>
+				<Data type="float" name="DisruptionRadius">100</Data>
 				<Data type="float" name="DisruptionTimeSec">60</Data>
 				<Data type="float" name="DisruptionStartTime">2.5999999</Data>
 				<Data type="sound" name="HudUpSound">play_unsc_disruption_vo_ready</Data>

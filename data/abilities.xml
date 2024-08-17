@@ -93,7 +93,7 @@
 		<TargetType>Unit</TargetType>
 		<RecoverStart>Attack</RecoverStart>
 		<RecoverType>Ability</RecoverType>
-		<RecoverTime>10</RecoverTime>
+		<RecoverTime>5</RecoverTime>
 	</Ability>
 	<Ability Name="UnscScorpionSpecial">
 		<DisplayNameID>24553</DisplayNameID>
@@ -119,7 +119,7 @@
 		<TargetType>Unit</TargetType>
 		<RecoverStart>Attack</RecoverStart>
 		<RecoverType>Ability</RecoverType>
-		<RecoverTime>30</RecoverTime>
+		<RecoverTime>600</RecoverTime>
 		<DontInterruptAttack>true</DontInterruptAttack>
 		<SmartTargetRange>30.0f</SmartTargetRange>
 	</Ability>
