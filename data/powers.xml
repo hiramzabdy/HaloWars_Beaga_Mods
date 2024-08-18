@@ -295,7 +295,7 @@
 	</Power>
 	<Power name="UnscLeaderCarpetBombing">
 		<Attributes>
-			<Cost Supplies="500" Power="0" />
+			<Cost Supplies="500" Power="6" />
 			<AutoRecharge>120000</AutoRecharge>
 			<PowerType>CarpetBombing</PowerType>
 			<UIRadius>35</UIRadius>
@@ -347,7 +347,7 @@
 				<Data type="float" name="WedgeMinOffset">2</Data>
 			</DataLevel>
 			<DataLevel level="1">
-				<Data type="int" name="MaxBombs">30</Data>
+				<Data type="int" name="MaxBombs">40</Data>
 				<Data type="float" name="MaxBombOffset">8</Data>
 				<Data type="float" name="BombSpacing">6</Data>
 				<Data type="float" name="LengthMultiplier">50</Data>
@@ -355,7 +355,7 @@
 				<Data type="float" name="WedgeMinOffset">3</Data>
 			</DataLevel>
 			<DataLevel level="2">
-				<Data type="int" name="MaxBombs">40</Data>
+				<Data type="int" name="MaxBombs">80</Data>
 				<Data type="float" name="MaxBombOffset">16</Data>
 				<Data type="float" name="BombSpacing">14</Data>
 				<Data type="float" name="LengthMultiplier">60</Data>
@@ -363,7 +363,7 @@
 				<Data type="float" name="WedgeMinOffset">4</Data>
 			</DataLevel>
 			<DataLevel level="3">
-				<Data type="int" name="MaxBombs">80</Data>
+				<Data type="int" name="MaxBombs">160</Data>
 				<Data type="float" name="MaxBombOffset">16</Data>
 				<Data type="float" name="BombSpacing">14</Data>
 				<Data type="float" name="LengthMultiplier">80</Data>

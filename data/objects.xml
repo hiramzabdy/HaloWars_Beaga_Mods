@@ -6956,7 +6956,7 @@
 		<AttackGradeDPS>702</AttackGradeDPS>
 		<CombatValue>36</CombatValue>
 		<LOS>80</LOS>
-		<Pop Type="Unit">6</Pop>
+		<Pop Type="Unit">4</Pop>
 		<Bounty>36</Bounty>
 		<Veterancy Level="1" XP="72" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
 		<Veterancy Level="2" XP="180" Damage="1.25" Velocity="1" Accuracy="1.70000005" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.800000012" />
