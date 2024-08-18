@@ -5335,7 +5335,7 @@
 		<AttackGradeDPS>15</AttackGradeDPS>
 		<CombatValue>1</CombatValue>
 		<LOS>55</LOS>
-		<Pop Type="Unit">0.25</Pop>
+		<Pop Type="Unit">0</Pop>
 		<Bounty>1</Bounty>
 		<RamDodgeFactor>0.5</RamDodgeFactor>
 		<Veterancy Level="1" XP="1" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
@@ -5416,6 +5416,7 @@
 		<AttackGradeDPS>15</AttackGradeDPS>
 		<CombatValue>0.00999999978</CombatValue>
 		<LOS>55</LOS>
+		<Pop Type="Unit">0</Pop>
 		<Bounty>0</Bounty>
 		<RamDodgeFactor>0.5</RamDodgeFactor>
 		<Veterancy Level="1" XP="1" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
@@ -5580,7 +5581,7 @@
 		<AttackGradeDPS>15</AttackGradeDPS>
 		<CombatValue>0.800000012</CombatValue>
 		<LOS>55</LOS>
-		<Pop Type="Unit">0.200000003</Pop>
+		<Pop Type="Unit">0</Pop>
 		<Bounty>0.800000012</Bounty>
 		<RamDodgeFactor>0.5</RamDodgeFactor>
 		<Veterancy Level="1" XP="1" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
@@ -5747,11 +5748,11 @@
 		<Pop Type="Spartan">1</Pop>
 		<Bounty>12</Bounty>
 		<RamDodgeFactor>1</RamDodgeFactor>
-		<Veterancy Level="1" XP="24" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
-		<Veterancy Level="2" XP="60" Damage="1.25" Velocity="1" Accuracy="1.70000005" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.800000012" />
-		<Veterancy Level="3" XP="108" Damage="1.35000002" Velocity="1" Accuracy="1.79999995" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.74000001" />
-		<Veterancy Level="4" XP="0" Damage="2" Velocity="1" Accuracy="1.10000002" WorkRate="2" WeaponRange="1" DamageTaken="0.5" />
-		<Veterancy Level="5" XP="0" Damage="2" Velocity="1" Accuracy="1.20000005" WorkRate="2" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="1" XP="20" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
+		<Veterancy Level="2" XP="50" Damage="1.25" Velocity="1" Accuracy="1.70000005" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.800000012" />
+		<Veterancy Level="3" XP="90" Damage="1.35000002" Velocity="1" Accuracy="1.79999995" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.74000001" />
+		<Veterancy Level="4" XP="120" Damage="2" Velocity="1" Accuracy="1.10000002" WorkRate="2" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="5" XP="200" Damage="2" Velocity="2" Accuracy="1.20000005" WorkRate="2" WeaponRange="1" DamageTaken="0.5" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<Tactics>unsc_inf_spartan_01.tactics</Tactics>
 		<RepairPoints>25</RepairPoints>
@@ -5843,11 +5844,11 @@
 		<Pop Type="Spartan">1</Pop>
 		<Bounty>12</Bounty>
 		<RamDodgeFactor>1</RamDodgeFactor>
-		<Veterancy Level="1" XP="24" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
-		<Veterancy Level="2" XP="60" Damage="1.25" Velocity="1" Accuracy="1.70000005" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.800000012" />
-		<Veterancy Level="3" XP="108" Damage="1.35000002" Velocity="1" Accuracy="1.79999995" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.74000001" />
-		<Veterancy Level="4" XP="0" Damage="2" Velocity="1" Accuracy="1.10000002" WorkRate="2" WeaponRange="1" DamageTaken="0.5" />
-		<Veterancy Level="5" XP="0" Damage="2" Velocity="1" Accuracy="1.20000005" WorkRate="2" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="1" XP="20" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
+		<Veterancy Level="2" XP="50" Damage="1.25" Velocity="1" Accuracy="1.70000005" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.800000012" />
+		<Veterancy Level="3" XP="90" Damage="1.35000002" Velocity="1" Accuracy="1.79999995" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.74000001" />
+		<Veterancy Level="4" XP="120" Damage="2" Velocity="1" Accuracy="1.10000002" WorkRate="2" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="5" XP="200" Damage="2" Velocity="2" Accuracy="1.20000005" WorkRate="2" WeaponRange="1" DamageTaken="0.5" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<Tactics>unsc_inf_spartan_02.tactics</Tactics>
 		<RepairPoints>25</RepairPoints>
@@ -5938,11 +5939,11 @@
 		<Pop Type="Spartan">1</Pop>
 		<Bounty>12</Bounty>
 		<RamDodgeFactor>1</RamDodgeFactor>
-		<Veterancy Level="1" XP="24" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
-		<Veterancy Level="2" XP="60" Damage="1.25" Velocity="1" Accuracy="1.70000005" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.800000012" />
-		<Veterancy Level="3" XP="108" Damage="1.35000002" Velocity="1" Accuracy="1.79999995" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.74000001" />
-		<Veterancy Level="4" XP="0" Damage="2" Velocity="1" Accuracy="1.10000002" WorkRate="2" WeaponRange="1" DamageTaken="0.5" />
-		<Veterancy Level="5" XP="0" Damage="2" Velocity="1" Accuracy="1.20000005" WorkRate="2" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="1" XP="20" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
+		<Veterancy Level="2" XP="50" Damage="1.25" Velocity="1" Accuracy="1.70000005" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.800000012" />
+		<Veterancy Level="3" XP="90" Damage="1.35000002" Velocity="1" Accuracy="1.79999995" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.74000001" />
+		<Veterancy Level="4" XP="120" Damage="2" Velocity="1" Accuracy="1.10000002" WorkRate="2" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="5" XP="200" Damage="2" Velocity="2" Accuracy="1.20000005" WorkRate="2" WeaponRange="1" DamageTaken="0.5" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<Tactics>unsc_inf_spartan_03.tactics</Tactics>
 		<RepairPoints>25</RepairPoints>
@@ -6367,7 +6368,7 @@
 		<TurnRate>60</TurnRate>
 		<Hitpoints>10000</Hitpoints>
 		<LOS>55</LOS>
-		<Pop Type="Unit">2</Pop>
+		<Pop Type="Unit">1</Pop>
 		<CombatValue>16</CombatValue>
 		<Bounty>12</Bounty>
 		<Veterancy Level="1" XP="36" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
@@ -6795,8 +6796,8 @@
 		<Veterancy Level="1" XP="20" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
 		<Veterancy Level="2" XP="50" Damage="1.25" Velocity="1" Accuracy="1.70000005" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.800000012" />
 		<Veterancy Level="3" XP="90" Damage="1.35000002" Velocity="1" Accuracy="1.79999995" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.74000001" />
-		<Veterancy Level="4" XP="0" Damage="2" Velocity="1" Accuracy="1.10000002" WorkRate="2" WeaponRange="1" DamageTaken="0.5" />
-		<Veterancy Level="5" XP="0" Damage="2" Velocity="1" Accuracy="1.20000005" WorkRate="2" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="4" XP="140" Damage="2" Velocity="1" Accuracy="1.10000002" WorkRate="2" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="5" XP="200" Damage="2" Velocity="2" Accuracy="1.20000005" WorkRate="2" WeaponRange="1" DamageTaken="0.5" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<AmmoMax>60</AmmoMax>
 		<AmmoRegenRate>1</AmmoRegenRate>
@@ -9077,14 +9078,14 @@
 		<DisplayNameID>24163</DisplayNameID>
 		<RolloverTextID>24164</RolloverTextID>
 		<MovementType>Air</MovementType>
-		<Velocity>36</Velocity>
+		<Velocity>16</Velocity>
 		<Acceleration>12</Acceleration>
 		<TurnRate>360</TurnRate>
 		<Hitpoints>3788</Hitpoints>
 		<AttackGradeDPS>0</AttackGradeDPS>
 		<CombatValue>10</CombatValue>
 		<LOS>55</LOS>
-		<Pop Type="Unit">0</Pop>
+		<Pop Type="Unit">1</Pop>
 		<Bounty>5</Bounty>
 		<Veterancy Level="1" XP="0" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
 		<Veterancy Level="2" XP="0" Damage="1.25" Velocity="1" Accuracy="1.70000005" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.800000012" />
@@ -9234,7 +9235,7 @@
 		<LOS>55</LOS>
 		<Hardpoint name="Torso" autocenter="true" singleboneik="true" relativeToUnit="true" yawrate="360" yawMaxAngle="90" yawattachment="Bip01 Spine1" />
 		<SingleBoneIK>Bip01 Spine1</SingleBoneIK>
-		<Pop Type="Unit">0.250000003</Pop>
+		<Pop Type="Unit">0</Pop>
 		<Bounty>0.800000012</Bounty>
 		<Veterancy Level="1" XP="0.5" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
 		<Veterancy Level="2" XP="1.5" Damage="1.25" Velocity="1" Accuracy="1.70000005" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.800000012" />
@@ -9310,6 +9311,7 @@
 		<AttackGradeDPS>12</AttackGradeDPS>
 		<CombatValue>0.00999999978</CombatValue>
 		<LOS>55</LOS>
+		<Pop Type="Unit">0</Pop>
 		<Hardpoint name="Torso" autocenter="true" singleboneik="true" relativeToUnit="true" yawrate="360" yawMaxAngle="90" yawattachment="Bip01 Spine1" />
 		<SingleBoneIK>Bip01 Spine1</SingleBoneIK>
 		<Veterancy Level="1" XP="0.5" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
@@ -9385,6 +9387,7 @@
 		<AttackGradeDPS>12</AttackGradeDPS>
 		<CombatValue>0.800000012</CombatValue>
 		<LOS>55</LOS>
+		<Pop Type="Unit">0</Pop>
 		<Hardpoint name="Torso" autocenter="true" singleboneik="true" relativeToUnit="true" yawrate="360" yawMaxAngle="90" yawattachment="Bip01 Spine1" />
 		<SingleBoneIK>Bip01 Spine1</SingleBoneIK>
 		<Pop Type="Unit">0.200000003</Pop>
@@ -9461,6 +9464,7 @@
 		<AttackGradeDPS>12</AttackGradeDPS>
 		<CombatValue>0.00999999978</CombatValue>
 		<LOS>55</LOS>
+		<Pop Type="Unit">0</Pop>
 		<Hardpoint name="Torso" autocenter="true" singleboneik="true" relativeToUnit="true" yawrate="360" yawMaxAngle="90" yawattachment="Bip01 Spine1" />
 		<SingleBoneIK>Bip01 Spine1</SingleBoneIK>
 		<Veterancy Level="1" XP="0.5" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
@@ -9535,6 +9539,7 @@
 		<AttackGradeDPS>12</AttackGradeDPS>
 		<CombatValue>0.00999999978</CombatValue>
 		<LOS>55</LOS>
+		<Pop Type="Unit">0</Pop>
 		<Hardpoint name="Torso" autocenter="true" singleboneik="true" relativeToUnit="true" yawrate="360" yawMaxAngle="90" yawattachment="Bip01 Spine1" />
 		<SingleBoneIK>Bip01 Spine1</SingleBoneIK>
 		<Veterancy Level="1" XP="0.5" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
@@ -9610,6 +9615,7 @@
 		<AttackGradeDPS>24.7000008</AttackGradeDPS>
 		<CombatValue>1.60000002</CombatValue>
 		<LOS>55</LOS>
+		<Pop Type="Unit">0</Pop>
 		<Hardpoint name="Torso" autocenter="true" singleboneik="true" relativeToUnit="true" yawrate="360" yawMaxAngle="90" yawattachment="Bip01 Spine" />
 		<SingleBoneIK>Bip01 Spine</SingleBoneIK>
 		<Pop Type="Unit">0.400000006</Pop>
@@ -9773,7 +9779,7 @@
 		<LOS>55</LOS>
 		<Hardpoint name="Torso" autocenter="true" singleboneik="true" relativeToUnit="true" yawrate="360" yawMaxAngle="90" yawattachment="Bip01 Spine" />
 		<SingleBoneIK>Bip01 Spine</SingleBoneIK>
-		<Pop Type="Unit">0.5</Pop>
+		<Pop Type="Unit">1</Pop>
 		<Bounty>3</Bounty>
 		<Veterancy Level="1" XP="6" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
 		<Veterancy Level="2" XP="15" Damage="1.25" Velocity="1" Accuracy="1.70000005" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.800000012" />
@@ -9843,6 +9849,7 @@
 		<AttackGradeDPS>24.7000008</AttackGradeDPS>
 		<CombatValue>1.60000002</CombatValue>
 		<LOS>55</LOS>
+		<Pop Type="Unit">0</Pop>
 		<Hardpoint name="Torso" autocenter="true" singleboneik="true" relativeToUnit="true" yawrate="360" yawMaxAngle="90" yawattachment="Bip01 Spine" />
 		<SingleBoneIK>Bip01 Spine</SingleBoneIK>
 		<Bounty>1.60000002</Bounty>
