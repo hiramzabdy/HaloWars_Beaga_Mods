@@ -2357,7 +2357,7 @@
 			<Effect type="Data" amount="0" subtype="AbilityDisabled" relativity="Absolute">
 				<Target type="ProtoUnit">unsc_veh_scorpion_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.25" subtype="Hitpoints" relativity="Percent">
+			<Effect type="Data" amount="2.5" subtype="Hitpoints" relativity="Percent">
 				<Target type="ProtoUnit">unsc_veh_scorpion_01</Target>
 			</Effect>
 			<Effect type="Data" subtype="Icon" iconType="unit" iconName="unsc_scorpion_upgrade2">
@@ -5484,6 +5484,9 @@
 		<Effects>
 			<Effect type="GodPower" amount="0">UnscOdstDrop</Effect>
 			<Effect type="GodPower" amount="1">UnscLeaderOrbitalBombard</Effect>
+			<Effect type="GodPower" amount="1">UnscLeaderCarpetBombing</Effect>
+			<Effect type="GodPower" amount="1">UnscLeaderCryo</Effect>
+
 			<Effect type="Data" amount="1" subtype="Enable" relativity="Absolute">
 				<Target type="ProtoUnit">unsc_bldg_command_03</Target>
 			</Effect>
@@ -5550,6 +5553,8 @@
 		<Status>UNOBTAINABLE</Status>
 		<Flag>Shadow</Flag>
 		<Effects>
+			<Effect type="GodPower" amount="0">UnscOdstDrop</Effect>
+			<Effect type="GodPower" amount="1">UnscLeaderOrbitalBombard</Effect>
 			<Effect type="GodPower" amount="1">UnscLeaderCarpetBombing</Effect>
 			<Effect type="GodPower" amount="1">UnscLeaderCryo</Effect>
 			<Effect type="Data" amount="1" subtype="Enable" relativity="Absolute">
@@ -5618,6 +5623,9 @@
 		<Status>UNOBTAINABLE</Status>
 		<Flag>Shadow</Flag>
 		<Effects>
+			<Effect type="GodPower" amount="0">UnscOdstDrop</Effect>
+			<Effect type="GodPower" amount="1">UnscLeaderOrbitalBombard</Effect>
+			<Effect type="GodPower" amount="1">UnscLeaderCarpetBombing</Effect>
 			<Effect type="GodPower" amount="1">UnscLeaderCryo</Effect>
 			<Effect type="Data" amount="1" subtype="CommandEnable" commandType="Research" CommandData="unsc_odst_upgrade1" relativity="Absolute">
 				<Target type="ProtoUnit">unsc_bldg_barracks_01</Target>

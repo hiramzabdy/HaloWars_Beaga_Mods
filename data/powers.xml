@@ -295,7 +295,7 @@
 	</Power>
 	<Power name="UnscLeaderCarpetBombing">
 		<Attributes>
-			<Cost Supplies="500" Power="6" />
+			<Cost Supplies="2000" Power="6" />
 			<AutoRecharge>120000</AutoRecharge>
 			<PowerType>CarpetBombing</PowerType>
 			<UIRadius>35</UIRadius>
@@ -305,7 +305,7 @@
 			<ShowLimit />
 			<LeaderPower />
 			<Icon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\orbital_b</Icon>
-			<IconLocation>0</IconLocation>
+			<IconLocation>1</IconLocation>
 			<FlashUI>
 				<CircleMenuFrameIDNormal>12</CircleMenuFrameIDNormal>
 				<CircleMenuFrameIDHighlight>13</CircleMenuFrameIDHighlight>
@@ -339,7 +339,7 @@
 				<Data type="sound" name="HudStopEnvSound">hud_carpetbomb_confirmed</Data>
 			</BaseDataLevel>
 			<DataLevel level="0">
-				<Data type="int" name="MaxBombs">20</Data>
+				<Data type="int" name="MaxBombs">100</Data>
 				<Data type="float" name="MaxBombOffset">8</Data>
 				<Data type="float" name="BombSpacing">6</Data>
 				<Data type="float" name="LengthMultiplier">40</Data>
@@ -347,7 +347,7 @@
 				<Data type="float" name="WedgeMinOffset">2</Data>
 			</DataLevel>
 			<DataLevel level="1">
-				<Data type="int" name="MaxBombs">40</Data>
+				<Data type="int" name="MaxBombs">200</Data>
 				<Data type="float" name="MaxBombOffset">8</Data>
 				<Data type="float" name="BombSpacing">6</Data>
 				<Data type="float" name="LengthMultiplier">50</Data>
@@ -355,7 +355,7 @@
 				<Data type="float" name="WedgeMinOffset">3</Data>
 			</DataLevel>
 			<DataLevel level="2">
-				<Data type="int" name="MaxBombs">80</Data>
+				<Data type="int" name="MaxBombs">300</Data>
 				<Data type="float" name="MaxBombOffset">16</Data>
 				<Data type="float" name="BombSpacing">14</Data>
 				<Data type="float" name="LengthMultiplier">60</Data>
@@ -363,10 +363,10 @@
 				<Data type="float" name="WedgeMinOffset">4</Data>
 			</DataLevel>
 			<DataLevel level="3">
-				<Data type="int" name="MaxBombs">160</Data>
+				<Data type="int" name="MaxBombs">400</Data>
 				<Data type="float" name="MaxBombOffset">16</Data>
 				<Data type="float" name="BombSpacing">14</Data>
-				<Data type="float" name="LengthMultiplier">80</Data>
+				<Data type="float" name="LengthMultiplier">200</Data>
 				<Data type="float" name="WedgeLengthMultiplier">6</Data>
 				<Data type="float" name="WedgeMinOffset">5</Data>
 			</DataLevel>
@@ -453,7 +453,7 @@
 	</Power>
 	<Power name="UnscLeaderCryo">
 		<Attributes>
-			<Cost Supplies="500" Power="0" />
+			<Cost Supplies="500" Power="2" />
 			<AutoRecharge>120000</AutoRecharge>
 			<PowerType>Cryo</PowerType>
 			<UIRadius>35</UIRadius>
@@ -463,7 +463,7 @@
 			<ShowLimit />
 			<LeaderPower />
 			<Icon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\orbital_b</Icon>
-			<IconLocation>0</IconLocation>
+			<IconLocation>7</IconLocation>
 			<FlashUI>
 				<CircleMenuFrameIDNormal>12</CircleMenuFrameIDNormal>
 				<CircleMenuFrameIDHighlight>13</CircleMenuFrameIDHighlight>
@@ -522,7 +522,7 @@
 	<Power name="UnscLeaderRepair">
 		<Attributes>
 			<PowerType>Repair</PowerType>
-			<Cost Supplies="100" />
+			<Cost Supplies="350" />
 			<AutoRecharge>60000</AutoRecharge>
 			<UIRadius>75</UIRadius>
 			<DisplayNameID>5000</DisplayNameID>
@@ -565,7 +565,7 @@
 	<Power name="UnscLeaderDisruption">
 		<Attributes>
 			<PowerType>Disruption</PowerType>
-			<Cost Supplies="100" />
+			<Cost Supplies="450" />
 			<AutoRecharge>240000</AutoRecharge>
 			<UIRadius>70</UIRadius>
 			<DisplayNameID>5008</DisplayNameID>
@@ -575,7 +575,7 @@
 			<LeaderPower />
 			<ShowTargetHighlight ObjectType="Military" Relation="Ally" />
 			<Icon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\odst_drop</Icon>
-			<IconLocation>1</IconLocation>
+			<IconLocation>3</IconLocation>
 			<FlashUI>
 				<CircleMenuFrameIDNormal>12</CircleMenuFrameIDNormal>
 				<CircleMenuFrameIDHighlight>13</CircleMenuFrameIDHighlight>
@@ -626,7 +626,7 @@
 			<ShowLimit />
 			<LeaderPower />
 			<Icon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\odst_drop</Icon>
-			<IconLocation>7</IconLocation>
+			<IconLocation>5</IconLocation>
 			<CameraZoomMin>200</CameraZoomMin>
 			<CameraZoomMax>200</CameraZoomMax>
 			<CameraPitchMin>55</CameraPitchMin>
@@ -653,7 +653,7 @@
 	<Power name="UnscLeaderOrbitalBombard">
 		<Attributes>
 			<PowerType>Orbital</PowerType>
-			<Cost Supplies="500" Power="0" />
+			<Cost Supplies="1000" Power="4" />
 			<AutoRecharge>120000</AutoRecharge>
 			<UIRadius>18</UIRadius>
 			<DisplayNameID>5026</DisplayNameID>
