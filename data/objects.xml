@@ -5751,8 +5751,8 @@
 		<Veterancy Level="1" XP="20" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
 		<Veterancy Level="2" XP="50" Damage="1.25" Velocity="1" Accuracy="1.70000005" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.800000012" />
 		<Veterancy Level="3" XP="80" Damage="1.35000002" Velocity="1" Accuracy="1.79999995" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.74000001" />
-		<Veterancy Level="4" XP="500" Damage="2" Velocity="1" Accuracy="1.10000002" WorkRate="2" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="5" XP="0" Damage="2" Velocity="1.25" Accuracy="1.20000005" WorkRate="2" WeaponRange="1" DamageTaken="0.1" />
+		<Veterancy Level="4" XP="125" Damage="2" Velocity="1" Accuracy="1.10000002" WorkRate="2" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="5" XP="250" Damage="2" Velocity="1" Accuracy="1.20000005" WorkRate="2" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<Tactics>unsc_inf_spartan_01.tactics</Tactics>
 		<RepairPoints>25</RepairPoints>
@@ -5847,8 +5847,8 @@
 		<Veterancy Level="1" XP="20" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
 		<Veterancy Level="2" XP="50" Damage="1.25" Velocity="1" Accuracy="1.70000005" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.800000012" />
 		<Veterancy Level="3" XP="80" Damage="1.35000002" Velocity="1" Accuracy="1.79999995" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.74000001" />
-		<Veterancy Level="4" XP="500" Damage="2" Velocity="1" Accuracy="1.10000002" WorkRate="2" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="5" XP="0" Damage="2" Velocity="1.25" Accuracy="1.20000005" WorkRate="2" WeaponRange="1" DamageTaken="0.1" />
+		<Veterancy Level="4" XP="125" Damage="2" Velocity="1" Accuracy="1.10000002" WorkRate="2" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="5" XP="250" Damage="2" Velocity="1" Accuracy="1.20000005" WorkRate="2" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<Tactics>unsc_inf_spartan_02.tactics</Tactics>
 		<RepairPoints>25</RepairPoints>
@@ -5942,8 +5942,8 @@
 		<Veterancy Level="1" XP="20" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
 		<Veterancy Level="2" XP="50" Damage="1.25" Velocity="1" Accuracy="1.70000005" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.800000012" />
 		<Veterancy Level="3" XP="80" Damage="1.35000002" Velocity="1" Accuracy="1.79999995" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.74000001" />
-		<Veterancy Level="4" XP="500" Damage="2" Velocity="1" Accuracy="1.10000002" WorkRate="2" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="5" XP="0" Damage="2" Velocity="1.25" Accuracy="1.20000005" WorkRate="2" WeaponRange="1" DamageTaken="0.1" />
+		<Veterancy Level="4" XP="125" Damage="2" Velocity="1" Accuracy="1.10000002" WorkRate="2" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="5" XP="250" Damage="2" Velocity="1" Accuracy="1.20000005" WorkRate="2" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<Tactics>unsc_inf_spartan_03.tactics</Tactics>
 		<RepairPoints>25</RepairPoints>
@@ -6787,17 +6787,17 @@
 		<Velocity>35</Velocity>
 		<ReverseSpeed>20.0f</ReverseSpeed>
 		<TurnRate>120</TurnRate>
-		<Hitpoints>5000</Hitpoints>
-		<AttackGradeDPS>350</AttackGradeDPS>
+		<Hitpoints>7000</Hitpoints>
+		<AttackGradeDPS>600</AttackGradeDPS>
 		<CombatValue>10</CombatValue>
 		<LOS>55</LOS>
 		<Pop Type="Unit">2</Pop>
 		<Bounty>10</Bounty>
 		<Veterancy Level="1" XP="20" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
-		<Veterancy Level="2" XP="50" Damage="1.25" Velocity="1" Accuracy="1.70000005" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.800000012" />
-		<Veterancy Level="3" XP="90" Damage="1.35000002" Velocity="1" Accuracy="1.79999995" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.74000001" />
-		<Veterancy Level="4" XP="140" Damage="2" Velocity="1" Accuracy="1.10000002" WorkRate="2" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="5" XP="200" Damage="2" Velocity="2" Accuracy="1.20000005" WorkRate="2" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="2" XP="40" Damage="1.25" Velocity="1" Accuracy="1.70000005" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.800000012" />
+		<Veterancy Level="3" XP="60" Damage="1.35000002" Velocity="1" Accuracy="1.79999995" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.74000001" />
+		<Veterancy Level="4" XP="80" Damage="2" Velocity="1" Accuracy="1.10000002" WorkRate="2" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="5" XP="100" Damage="2" Velocity="2" Accuracy="1.20000005" WorkRate="2" WeaponRange="1" DamageTaken="0.5" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<AmmoMax>60</AmmoMax>
 		<AmmoRegenRate>1</AmmoRegenRate>
@@ -6953,7 +6953,7 @@
 		<Hardpoint name="LeftMissileTurret" autocenter="true" combined="true" yawrate="180" yawattachment="MissleLeft" />
 		<Hardpoint name="RightMissileTurret" autocenter="true" combined="true" yawrate="180" yawattachment="MissleRight" />
 		<Hitpoints>20000</Hitpoints>
-		<AttackGradeDPS>702</AttackGradeDPS>
+		<AttackGradeDPS>750</AttackGradeDPS>
 		<CombatValue>36</CombatValue>
 		<LOS>80</LOS>
 		<Pop Type="Unit">5</Pop>

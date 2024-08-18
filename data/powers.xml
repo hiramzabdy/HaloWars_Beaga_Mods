@@ -295,7 +295,7 @@
 	</Power>
 	<Power name="UnscLeaderCarpetBombing">
 		<Attributes>
-			<Cost Supplies="2000" Power="6" />
+			<Cost Supplies="1000" Power="0" />
 			<AutoRecharge>120000</AutoRecharge>
 			<PowerType>CarpetBombing</PowerType>
 			<UIRadius>35</UIRadius>
@@ -340,33 +340,33 @@
 			</BaseDataLevel>
 			<DataLevel level="0">
 				<Data type="int" name="MaxBombs">100</Data>
-				<Data type="float" name="MaxBombOffset">8</Data>
-				<Data type="float" name="BombSpacing">6</Data>
-				<Data type="float" name="LengthMultiplier">40</Data>
-				<Data type="float" name="WedgeLengthMultiplier">2</Data>
-				<Data type="float" name="WedgeMinOffset">2</Data>
+				<Data type="float" name="MaxBombOffset">16</Data>
+				<Data type="float" name="BombSpacing">14</Data>
+				<Data type="float" name="LengthMultiplier">80</Data>
+				<Data type="float" name="WedgeLengthMultiplier">6</Data>
+				<Data type="float" name="WedgeMinOffset">5</Data>
 			</DataLevel>
 			<DataLevel level="1">
-				<Data type="int" name="MaxBombs">200</Data>
-				<Data type="float" name="MaxBombOffset">8</Data>
-				<Data type="float" name="BombSpacing">6</Data>
-				<Data type="float" name="LengthMultiplier">50</Data>
-				<Data type="float" name="WedgeLengthMultiplier">4</Data>
-				<Data type="float" name="WedgeMinOffset">3</Data>
+				<Data type="int" name="MaxBombs">100</Data>
+				<Data type="float" name="MaxBombOffset">16</Data>
+				<Data type="float" name="BombSpacing">14</Data>
+				<Data type="float" name="LengthMultiplier">80</Data>
+				<Data type="float" name="WedgeLengthMultiplier">6</Data>
+				<Data type="float" name="WedgeMinOffset">5</Data>
 			</DataLevel>
 			<DataLevel level="2">
-				<Data type="int" name="MaxBombs">300</Data>
+				<Data type="int" name="MaxBombs">100</Data>
 				<Data type="float" name="MaxBombOffset">16</Data>
 				<Data type="float" name="BombSpacing">14</Data>
-				<Data type="float" name="LengthMultiplier">60</Data>
-				<Data type="float" name="WedgeLengthMultiplier">4</Data>
-				<Data type="float" name="WedgeMinOffset">4</Data>
+				<Data type="float" name="LengthMultiplier">80</Data>
+				<Data type="float" name="WedgeLengthMultiplier">6</Data>
+				<Data type="float" name="WedgeMinOffset">5</Data>
 			</DataLevel>
 			<DataLevel level="3">
-				<Data type="int" name="MaxBombs">400</Data>
+				<Data type="int" name="MaxBombs">100</Data>
 				<Data type="float" name="MaxBombOffset">16</Data>
 				<Data type="float" name="BombSpacing">14</Data>
-				<Data type="float" name="LengthMultiplier">200</Data>
+				<Data type="float" name="LengthMultiplier">80</Data>
 				<Data type="float" name="WedgeLengthMultiplier">6</Data>
 				<Data type="float" name="WedgeMinOffset">5</Data>
 			</DataLevel>
@@ -453,7 +453,7 @@
 	</Power>
 	<Power name="UnscLeaderCryo">
 		<Attributes>
-			<Cost Supplies="500" Power="2" />
+			<Cost Supplies="500" Power="0" />
 			<AutoRecharge>120000</AutoRecharge>
 			<PowerType>Cryo</PowerType>
 			<UIRadius>35</UIRadius>
@@ -500,17 +500,18 @@
 			</BaseDataLevel>
 			<DataLevel level="0">
 				<Data type="float" name="MaxKillHp">3000</Data>
-				<Data type="float" name="FrozenThawTime">5</Data>
+				<Data type="float" name="FrozenThawTime">17</Data>
+				<Data type="float" name="CryoRadius">75</Data>
 			</DataLevel>
 			<DataLevel level="1">
 				<Data type="float" name="MaxKillHp">3000</Data>
-				<Data type="float" name="FrozenThawTime">8</Data>
-				<Data type="float" name="CryoRadius">30</Data>
+				<Data type="float" name="FrozenThawTime">17</Data>
+				<Data type="float" name="CryoRadius">75</Data>
 			</DataLevel>
 			<DataLevel level="2">
 				<Data type="float" name="MaxKillHp">3000</Data>
-				<Data type="float" name="FrozenThawTime">12</Data>
-				<Data type="float" name="CryoRadius">50</Data>
+				<Data type="float" name="FrozenThawTime">17</Data>
+				<Data type="float" name="CryoRadius">75</Data>
 			</DataLevel>
 			<DataLevel level="3">
 				<Data type="float" name="MaxKillHp">3000</Data>
@@ -523,7 +524,7 @@
 		<Attributes>
 			<PowerType>Repair</PowerType>
 			<Cost Supplies="350" />
-			<AutoRecharge>60000</AutoRecharge>
+			<AutoRecharge>30000</AutoRecharge>
 			<UIRadius>75</UIRadius>
 			<DisplayNameID>5000</DisplayNameID>
 			<RolloverTextID>5001</RolloverTextID>
@@ -653,7 +654,7 @@
 	<Power name="UnscLeaderOrbitalBombard">
 		<Attributes>
 			<PowerType>Orbital</PowerType>
-			<Cost Supplies="1000" Power="4" />
+			<Cost Supplies="1000" Power="0" />
 			<AutoRecharge>120000</AutoRecharge>
 			<UIRadius>18</UIRadius>
 			<DisplayNameID>5026</DisplayNameID>
@@ -701,23 +702,23 @@
 			</BaseDataLevel>
 			<DataLevel level="0">
 				<Data type="protoobject" name="Projectile">pow_gp_macCannonSmall</Data>
-				<Data type="protoobject" name="Effect">pow_gp_macCannonVisualSmall</Data>
-				<Data type="int" name="NumShots">1</Data>
+				<Data type="protoobject" name="Effect">pow_gp_macCannonVisualLarge</Data>
+				<Data type="int" name="NumShots">4</Data>
 			</DataLevel>
 			<DataLevel level="1">
 				<Data type="protoobject" name="Projectile">pow_gp_macCannonSmall</Data>
-				<Data type="protoobject" name="Effect">pow_gp_macCannonVisualMedium</Data>
-				<Data type="int" name="NumShots">2</Data>
+				<Data type="protoobject" name="Effect">pow_gp_macCannonVisualLarge</Data>
+				<Data type="int" name="NumShots">4</Data>
 			</DataLevel>
 			<DataLevel level="2">
 				<Data type="protoobject" name="Projectile">pow_gp_macCannonSmall</Data>
-				<Data type="protoobject" name="Effect">pow_gp_macCannonVisualMedium</Data>
-				<Data type="int" name="NumShots">3</Data>
+				<Data type="protoobject" name="Effect">pow_gp_macCannonVisualLarge</Data>
+				<Data type="int" name="NumShots">4</Data>
 			</DataLevel>
 			<DataLevel level="3">
 				<Data type="protoobject" name="Projectile">pow_gp_macCannonSmall</Data>
 				<Data type="protoobject" name="Effect">pow_gp_macCannonVisualLarge</Data>
-				<Data type="int" name="NumShots">5</Data>
+				<Data type="int" name="NumShots">4</Data>
 			</DataLevel>
 			<DataLevel level="66">
 				<Data type="protoobject" name="Projectile">pow_gp_macCannonSmall</Data>
