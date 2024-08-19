@@ -97,7 +97,7 @@
 		<PrereqTextID>236</PrereqTextID>
 		<RoleTextID>508</RoleTextID>
 		<BuildPoints>60</BuildPoints>
-		<Cost resourcetype="Supplies">2000</Cost>
+		<Cost resourcetype="Supplies">900</Cost>
 		<Cost resourcetype="Power">4</Cost>
 		<SubSelectSort>7200</SubSelectSort>
 		<LeashDistance>15</LeashDistance>
@@ -530,7 +530,7 @@
 		<StatsNameID>25679</StatsNameID>
 		<RoleTextID>500</RoleTextID>
 		<BuildPoints>8</BuildPoints>
-		<Cost resourcetype="Supplies">200</Cost>
+		<Cost resourcetype="Supplies">100</Cost>
 		<SubSelectSort>3000</SubSelectSort>
 		<LeashDistance>55</LeashDistance>
 		<LeashDeadzone>25</LeashDeadzone>
@@ -640,7 +640,7 @@
 		<RolloverTextID>3001</RolloverTextID>
 		<RoleTextID>500</RoleTextID>
 		<BuildPoints>8</BuildPoints>
-		<Cost resourcetype="Supplies">200</Cost>
+		<Cost resourcetype="Supplies">100</Cost>
 		<SubSelectSort>3000</SubSelectSort>
 		<LeashDistance>55</LeashDistance>
 		<LeashDeadzone>25</LeashDeadzone>
@@ -751,7 +751,7 @@
 		<RolloverTextID>3001</RolloverTextID>
 		<RoleTextID>500</RoleTextID>
 		<BuildPoints>8</BuildPoints>
-		<Cost resourcetype="Supplies">200</Cost>
+		<Cost resourcetype="Supplies">100</Cost>
 		<SubSelectSort>3000</SubSelectSort>
 		<LeashDistance>55</LeashDistance>
 		<LeashDeadzone>25</LeashDeadzone>
@@ -931,7 +931,7 @@
 		<PrereqTextID>231</PrereqTextID>
 		<RoleTextID>519</RoleTextID>
 		<BuildPoints>16</BuildPoints>
-		<Cost resourcetype="Supplies">300</Cost>
+		<Cost resourcetype="Supplies">350</Cost>
 		<Cost resourcetype="Power">1</Cost>
 		<SubSelectSort>1000</SubSelectSort>
 		<LeashDistance>35</LeashDistance>
@@ -2271,7 +2271,7 @@
 		<RolloverTextID>24166</RolloverTextID>
 		<RoleTextID>24167</RoleTextID>
 		<BuildPoints>20</BuildPoints>
-		<Cost resourcetype="Supplies">200</Cost>
+		<Cost resourcetype="Supplies">250</Cost>
 		<SubSelectSort>4100</SubSelectSort>
 		<LeashDistance>55</LeashDistance>
 		<LeashDeadzone>25</LeashDeadzone>

@@ -295,7 +295,7 @@
 	</Power>
 	<Power name="UnscLeaderCarpetBombing">
 		<Attributes>
-			<Cost Supplies="1000" Power="0" />
+			<Cost Supplies="600" Power="1" />
 			<AutoRecharge>120000</AutoRecharge>
 			<PowerType>CarpetBombing</PowerType>
 			<UIRadius>35</UIRadius>
@@ -305,7 +305,7 @@
 			<ShowLimit />
 			<LeaderPower />
 			<Icon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\orbital_b</Icon>
-			<IconLocation>1</IconLocation>
+			<IconLocation>0</IconLocation>
 			<FlashUI>
 				<CircleMenuFrameIDNormal>12</CircleMenuFrameIDNormal>
 				<CircleMenuFrameIDHighlight>13</CircleMenuFrameIDHighlight>
@@ -339,31 +339,31 @@
 				<Data type="sound" name="HudStopEnvSound">hud_carpetbomb_confirmed</Data>
 			</BaseDataLevel>
 			<DataLevel level="0">
-				<Data type="int" name="MaxBombs">100</Data>
-				<Data type="float" name="MaxBombOffset">16</Data>
-				<Data type="float" name="BombSpacing">14</Data>
-				<Data type="float" name="LengthMultiplier">80</Data>
-				<Data type="float" name="WedgeLengthMultiplier">6</Data>
-				<Data type="float" name="WedgeMinOffset">5</Data>
+				<Data type="int" name="MaxBombs">8</Data>
+				<Data type="float" name="MaxBombOffset">8</Data>
+				<Data type="float" name="BombSpacing">6</Data>
+				<Data type="float" name="LengthMultiplier">40</Data>
+				<Data type="float" name="WedgeLengthMultiplier">2</Data>
+				<Data type="float" name="WedgeMinOffset">2</Data>
 			</DataLevel>
 			<DataLevel level="1">
-				<Data type="int" name="MaxBombs">100</Data>
-				<Data type="float" name="MaxBombOffset">16</Data>
-				<Data type="float" name="BombSpacing">14</Data>
-				<Data type="float" name="LengthMultiplier">80</Data>
-				<Data type="float" name="WedgeLengthMultiplier">6</Data>
-				<Data type="float" name="WedgeMinOffset">5</Data>
+				<Data type="int" name="MaxBombs">15</Data>
+				<Data type="float" name="MaxBombOffset">8</Data>
+				<Data type="float" name="BombSpacing">6</Data>
+				<Data type="float" name="LengthMultiplier">50</Data>
+				<Data type="float" name="WedgeLengthMultiplier">4</Data>
+				<Data type="float" name="WedgeMinOffset">3</Data>
 			</DataLevel>
 			<DataLevel level="2">
-				<Data type="int" name="MaxBombs">100</Data>
+				<Data type="int" name="MaxBombs">25</Data>
 				<Data type="float" name="MaxBombOffset">16</Data>
 				<Data type="float" name="BombSpacing">14</Data>
-				<Data type="float" name="LengthMultiplier">80</Data>
-				<Data type="float" name="WedgeLengthMultiplier">6</Data>
-				<Data type="float" name="WedgeMinOffset">5</Data>
+				<Data type="float" name="LengthMultiplier">60</Data>
+				<Data type="float" name="WedgeLengthMultiplier">4</Data>
+				<Data type="float" name="WedgeMinOffset">4</Data>
 			</DataLevel>
 			<DataLevel level="3">
-				<Data type="int" name="MaxBombs">100</Data>
+				<Data type="int" name="MaxBombs">40</Data>
 				<Data type="float" name="MaxBombOffset">16</Data>
 				<Data type="float" name="BombSpacing">14</Data>
 				<Data type="float" name="LengthMultiplier">80</Data>
@@ -453,7 +453,7 @@
 	</Power>
 	<Power name="UnscLeaderCryo">
 		<Attributes>
-			<Cost Supplies="500" Power="0" />
+			<Cost Supplies="400" Power="1" />
 			<AutoRecharge>120000</AutoRecharge>
 			<PowerType>Cryo</PowerType>
 			<UIRadius>35</UIRadius>
@@ -463,7 +463,7 @@
 			<ShowLimit />
 			<LeaderPower />
 			<Icon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\orbital_b</Icon>
-			<IconLocation>7</IconLocation>
+			<IconLocation>0</IconLocation>
 			<FlashUI>
 				<CircleMenuFrameIDNormal>12</CircleMenuFrameIDNormal>
 				<CircleMenuFrameIDHighlight>13</CircleMenuFrameIDHighlight>
@@ -500,21 +500,20 @@
 			</BaseDataLevel>
 			<DataLevel level="0">
 				<Data type="float" name="MaxKillHp">3000</Data>
-				<Data type="float" name="FrozenThawTime">17</Data>
-				<Data type="float" name="CryoRadius">75</Data>
+				<Data type="float" name="FrozenThawTime">5</Data>
 			</DataLevel>
 			<DataLevel level="1">
-				<Data type="float" name="MaxKillHp">3000</Data>
-				<Data type="float" name="FrozenThawTime">17</Data>
-				<Data type="float" name="CryoRadius">75</Data>
+				<Data type="float" name="MaxKillHp">8000</Data>
+				<Data type="float" name="FrozenThawTime">8</Data>
+				<Data type="float" name="CryoRadius">30</Data>
 			</DataLevel>
 			<DataLevel level="2">
-				<Data type="float" name="MaxKillHp">3000</Data>
-				<Data type="float" name="FrozenThawTime">17</Data>
-				<Data type="float" name="CryoRadius">75</Data>
+				<Data type="float" name="MaxKillHp">13000</Data>
+				<Data type="float" name="FrozenThawTime">12</Data>
+				<Data type="float" name="CryoRadius">50</Data>
 			</DataLevel>
 			<DataLevel level="3">
-				<Data type="float" name="MaxKillHp">3000</Data>
+				<Data type="float" name="MaxKillHp">20000</Data>
 				<Data type="float" name="FrozenThawTime">17</Data>
 				<Data type="float" name="CryoRadius">75</Data>
 			</DataLevel>
@@ -523,8 +522,8 @@
 	<Power name="UnscLeaderRepair">
 		<Attributes>
 			<PowerType>Repair</PowerType>
-			<Cost Supplies="350" />
-			<AutoRecharge>30000</AutoRecharge>
+			<Cost Supplies="650" />
+			<AutoRecharge>90000</AutoRecharge>
 			<UIRadius>75</UIRadius>
 			<DisplayNameID>5000</DisplayNameID>
 			<RolloverTextID>5001</RolloverTextID>
@@ -566,8 +565,8 @@
 	<Power name="UnscLeaderDisruption">
 		<Attributes>
 			<PowerType>Disruption</PowerType>
-			<Cost Supplies="450" />
-			<AutoRecharge>240000</AutoRecharge>
+			<Cost Supplies="350" />
+			<AutoRecharge>360000</AutoRecharge>
 			<UIRadius>70</UIRadius>
 			<DisplayNameID>5008</DisplayNameID>
 			<RolloverTextID>5009</RolloverTextID>
@@ -576,7 +575,7 @@
 			<LeaderPower />
 			<ShowTargetHighlight ObjectType="Military" Relation="Ally" />
 			<Icon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\odst_drop</Icon>
-			<IconLocation>3</IconLocation>
+			<IconLocation>1</IconLocation>
 			<FlashUI>
 				<CircleMenuFrameIDNormal>12</CircleMenuFrameIDNormal>
 				<CircleMenuFrameIDHighlight>13</CircleMenuFrameIDHighlight>
@@ -615,9 +614,9 @@
 	<Power name="UnscOdstDrop">
 		<Attributes>
 			<PowerType>ODST</PowerType>
-			<Cost Supplies="50" Power="0" />
-			<Pop type="Unit">0</Pop>
-			<AutoRecharge>2000</AutoRecharge>
+			<Cost Supplies="100" Power="1" />
+			<Pop type="Unit">1</Pop>
+			<AutoRecharge>7500</AutoRecharge>
 			<SequentialRecharge />
 			<UIRadius>10</UIRadius>
 			<DisplayNameID>5012</DisplayNameID>
@@ -627,7 +626,7 @@
 			<ShowLimit />
 			<LeaderPower />
 			<Icon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\odst_drop</Icon>
-			<IconLocation>5</IconLocation>
+			<IconLocation>7</IconLocation>
 			<CameraZoomMin>200</CameraZoomMin>
 			<CameraZoomMax>200</CameraZoomMax>
 			<CameraPitchMin>55</CameraPitchMin>
@@ -654,7 +653,7 @@
 	<Power name="UnscLeaderOrbitalBombard">
 		<Attributes>
 			<PowerType>Orbital</PowerType>
-			<Cost Supplies="1000" Power="0" />
+			<Cost Supplies="800" Power="1" />
 			<AutoRecharge>120000</AutoRecharge>
 			<UIRadius>18</UIRadius>
 			<DisplayNameID>5026</DisplayNameID>
@@ -702,23 +701,23 @@
 			</BaseDataLevel>
 			<DataLevel level="0">
 				<Data type="protoobject" name="Projectile">pow_gp_macCannonSmall</Data>
-				<Data type="protoobject" name="Effect">pow_gp_macCannonVisualLarge</Data>
-				<Data type="int" name="NumShots">4</Data>
+				<Data type="protoobject" name="Effect">pow_gp_macCannonVisualSmall</Data>
+				<Data type="int" name="NumShots">2</Data>
 			</DataLevel>
 			<DataLevel level="1">
 				<Data type="protoobject" name="Projectile">pow_gp_macCannonSmall</Data>
-				<Data type="protoobject" name="Effect">pow_gp_macCannonVisualLarge</Data>
-				<Data type="int" name="NumShots">4</Data>
+				<Data type="protoobject" name="Effect">pow_gp_macCannonVisualMedium</Data>
+				<Data type="int" name="NumShots">3</Data>
 			</DataLevel>
 			<DataLevel level="2">
 				<Data type="protoobject" name="Projectile">pow_gp_macCannonSmall</Data>
-				<Data type="protoobject" name="Effect">pow_gp_macCannonVisualLarge</Data>
+				<Data type="protoobject" name="Effect">pow_gp_macCannonVisualMedium</Data>
 				<Data type="int" name="NumShots">4</Data>
 			</DataLevel>
 			<DataLevel level="3">
 				<Data type="protoobject" name="Projectile">pow_gp_macCannonSmall</Data>
 				<Data type="protoobject" name="Effect">pow_gp_macCannonVisualLarge</Data>
-				<Data type="int" name="NumShots">4</Data>
+				<Data type="int" name="NumShots">6</Data>
 			</DataLevel>
 			<DataLevel level="66">
 				<Data type="protoobject" name="Projectile">pow_gp_macCannonSmall</Data>
