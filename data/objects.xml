@@ -4887,11 +4887,11 @@
 		<RoleTextID>516</RoleTextID>
 		<Hardpoint name="Turret" autocenter="true" yawrate="360" pitchrate="180" pitchMinAngle="-80" pitchMaxAngle="90" yawattachment="turret" pitchattachment="gun" />
 		<MovementType>Land</MovementType>
-		<Hitpoints>10000</Hitpoints>
-		<AttackGradeDPS>187</AttackGradeDPS>
+		<Hitpoints>50000</Hitpoints>
+		<AttackGradeDPS>1000</AttackGradeDPS>
 		<CombatValue>12</CombatValue>
 		<LOS>80</LOS>
-		<BuildPoints>30</BuildPoints>
+		<BuildPoints>10</BuildPoints>
 		<Cost ResourceType="Supplies">150</Cost>
 		<Bounty>12</Bounty>
 		<Veterancy Level="1" XP="36" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
@@ -8005,7 +8005,7 @@
 		<Flag>ScaleBuildAnimRate</Flag>
 		<Flag>ForceAnimRate</Flag>
 		<HPBar>COV_Bldg_Health</HPBar>
-	</Object>
+	</Object>	
 	<Object name="cov_bldg_turret_01" id="0" dbid="176">
 		<ObjectClass>Building</ObjectClass>
 		<Visual>covenant\building\turret_01\turret_01.vis</Visual>
@@ -8022,7 +8022,7 @@
 		<AttackGradeDPS>1200</AttackGradeDPS>
 		<CombatValue>12</CombatValue>
 		<LOS>80</LOS>
-		<BuildPoints>15</BuildPoints>
+		<BuildPoints>10</BuildPoints>
 		<Cost ResourceType="Supplies">150</Cost>
 		<Bounty>12</Bounty>
 		<Veterancy Level="1" XP="24" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
