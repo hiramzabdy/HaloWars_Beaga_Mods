@@ -5740,8 +5740,8 @@
 		<Velocity>12</Velocity>
 		<Acceleration>26</Acceleration>
 		<TurnRate>540</TurnRate>
-		<Hitpoints>1740</Hitpoints>
-		<Shieldpoints>5000</Shieldpoints>
+		<Hitpoints>2000</Hitpoints>
+		<Shieldpoints>10000</Shieldpoints>
 		<AttackGradeDPS>180</AttackGradeDPS>
 		<CombatValue>8</CombatValue>
 		<LOS>55</LOS>
@@ -5836,8 +5836,8 @@
 		<Velocity>12</Velocity>
 		<Acceleration>26</Acceleration>
 		<TurnRate>540</TurnRate>
-		<Hitpoints>1740</Hitpoints>
-		<Shieldpoints>5000</Shieldpoints>
+		<Hitpoints>2000</Hitpoints>
+		<Shieldpoints>15000</Shieldpoints>
 		<AttackGradeDPS>240</AttackGradeDPS>
 		<CombatValue>8</CombatValue>
 		<LOS>55</LOS>
@@ -5931,8 +5931,8 @@
 		<Velocity>12</Velocity>
 		<Acceleration>26</Acceleration>
 		<TurnRate>540</TurnRate>
-		<Hitpoints>1740</Hitpoints>
-		<Shieldpoints>5000</Shieldpoints>
+		<Hitpoints>2000</Hitpoints>
+		<Shieldpoints>20000</Shieldpoints>
 		<AttackGradeDPS>320</AttackGradeDPS>
 		<CombatValue>8</CombatValue>
 		<LOS>55</LOS>
@@ -6952,14 +6952,14 @@
 		<Hardpoint name="RightCannonTurret" autocenter="true" combined="true" yawrate="90" yawmaxangle="60" yawattachment="CannonRight" />
 		<Hardpoint name="LeftMissileTurret" autocenter="true" combined="true" yawrate="180" yawattachment="MissleLeft" />
 		<Hardpoint name="RightMissileTurret" autocenter="true" combined="true" yawrate="180" yawattachment="MissleRight" />
-		<Hitpoints>20000</Hitpoints>
-		<AttackGradeDPS>750</AttackGradeDPS>
+		<Hitpoints>40000</Hitpoints>
+		<AttackGradeDPS>1000</AttackGradeDPS>
 		<CombatValue>36</CombatValue>
 		<LOS>80</LOS>
-		<Pop Type="Unit">5</Pop>
+		<Pop Type="Unit">10</Pop>
 		<Bounty>36</Bounty>
 		<Veterancy Level="1" XP="100" Damage="1.14999998" Velocity="1" Accuracy="1.60000002" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.870000005" />
-		<Veterancy Level="2" XP="150" Damage="1.25" Velocity="1" Accuracy="1.70000005" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.800000012" />
+		<Veterancy Level="2" XP="200" Damage="1.25" Velocity="1" Accuracy="1.70000005" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.800000012" />
 		<Veterancy Level="3" XP="300" Damage="1.35000002" Velocity="1" Accuracy="1.79999995" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.74000001" />
 		<Veterancy Level="4" XP="0" Damage="2" Velocity="1" Accuracy="1.10000002" WorkRate="2" WeaponRange="1" DamageTaken="0.5" />
 		<Veterancy Level="5" XP="0" Damage="2" Velocity="1" Accuracy="1.20000005" WorkRate="2" WeaponRange="1" DamageTaken="0.5" />
@@ -7001,7 +7001,7 @@
 		<ObjectType>Unit</ObjectType>
 		<ObjectType>CanCryo</ObjectType>
 		<ObjectType>CanBeProtected</ObjectType>
-		<ObjectType>SpartanBoardFlying</ObjectType>
+
 		<ObjectType>Mechanical</ObjectType>
 		<SurfaceType>Metal</SurfaceType>
 		<RallyPoint>Military</RallyPoint>
@@ -11060,7 +11060,7 @@
 		<ObjectType>CyclopsRepairable</ObjectType>
 		<ObjectType>CanCryo</ObjectType>
 		<ObjectType>CanBeProtected</ObjectType>
-		<ObjectType>SpartanBoard</ObjectType>
+
 		<ObjectType>EmpEffectNormal</ObjectType>
 		<SurfaceType>Metal</SurfaceType>
 		<RallyPoint>Military</RallyPoint>
