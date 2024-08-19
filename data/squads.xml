@@ -97,7 +97,7 @@
 		<PrereqTextID>236</PrereqTextID>
 		<RoleTextID>508</RoleTextID>
 		<BuildPoints>60</BuildPoints>
-		<Cost resourcetype="Supplies">900</Cost>
+		<Cost resourcetype="Supplies">2000</Cost>
 		<Cost resourcetype="Power">4</Cost>
 		<SubSelectSort>7200</SubSelectSort>
 		<LeashDistance>15</LeashDistance>

@@ -2736,7 +2736,7 @@
 			<Effect type="Data" amount="1" subtype="Techlevel" allactions="1" relativity="Absolute">
 				<Target type="ProtoSquad">unsc_veh_elephant_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.75" subtype="Hitpoints" relativity="Percent">
+			<Effect type="Data" amount="5" subtype="Hitpoints" relativity="Percent">
 				<Target type="ProtoUnit">unsc_veh_elephant_01</Target>
 			</Effect>
 		</Effects>
