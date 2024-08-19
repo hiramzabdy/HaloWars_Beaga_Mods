@@ -615,9 +615,9 @@
 	<Power name="UnscOdstDrop">
 		<Attributes>
 			<PowerType>ODST</PowerType>
-			<Cost Supplies="200" Power="0" />
+			<Cost Supplies="100" Power="0" />
 			<Pop type="Unit">0</Pop>
-			<AutoRecharge>10000</AutoRecharge>
+			<AutoRecharge>5000</AutoRecharge>
 			<SequentialRecharge />
 			<UIRadius>10</UIRadius>
 			<DisplayNameID>5012</DisplayNameID>
