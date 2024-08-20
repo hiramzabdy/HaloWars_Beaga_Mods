@@ -97,7 +97,7 @@
 		<PrereqTextID>236</PrereqTextID>
 		<RoleTextID>508</RoleTextID>
 		<BuildPoints>60</BuildPoints>
-		<Cost resourcetype="Supplies">900</Cost>
+		<Cost resourcetype="Supplies">1000</Cost>
 		<Cost resourcetype="Power">4</Cost>
 		<SubSelectSort>7200</SubSelectSort>
 		<LeashDistance>15</LeashDistance>
@@ -1210,7 +1210,7 @@
 		<RolloverTextID>3061</RolloverTextID>
 		<PrereqTextID>246</PrereqTextID>
 		<RoleTextID>508</RoleTextID>
-		<BuildPoints>120</BuildPoints>
+		<BuildPoints>180</BuildPoints>
 		<LeashDistance>15</LeashDistance>
 		<LeashDeadzone>5</LeashDeadzone>
 		<LeashRecallDelay>2500</LeashRecallDelay>
@@ -1412,7 +1412,7 @@
 		<LeashRecallDelay>2500</LeashRecallDelay>
 		<AggroDistance>40</AggroDistance>
 		<Birth anim0="Train" trainerAnim="Research" spawnpoint="bone_spawnPoint01" endPoint="bone_spawnPoint01">Trained</Birth>
-		<HPBar offset="0,10,0">COV_Health</HPBar>
+		<HPBar offset="0,12,0">COV_HealthShield</HPBar>
 		<AbilityRecoveryBar Centered="UNSC_Ability_Centered">UNSC_Ability</AbilityRecoveryBar>
 		<VeterancyBar Centered="UNSC_Star_Centered">UNSC_Star</VeterancyBar>
 		<Units>

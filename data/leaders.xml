@@ -25,7 +25,6 @@
 		<RepairTime>30</RepairTime>
 		<Pop Type="Unit" Max="99">40</Pop>
 		<Pop Type="Spartan" Max="3">3</Pop>
-		<Pop Type="Elephant" Max="3">3</Pop>
 	</Leader>
 	<Leader Name="Forge" Icon="ui\game\icon\unsc\leader\Sergeant Forge" LeaderPickerOrder="3" StatsID="2" DefaultPlayerSlotFlags="0x2">
 		<Civ>UNSC</Civ>
