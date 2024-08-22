@@ -3808,7 +3808,7 @@
 		<RolloverTextID>10001</RolloverTextID>
 		<StatsNameID>25741</StatsNameID>
 		<MovementType>Land</MovementType>
-		<Hitpoints>10000</Hitpoints>
+		<Hitpoints>20000</Hitpoints>
 		<CombatValue>20</CombatValue>
 		<LOS>85</LOS>
 		<BuildPoints>30</BuildPoints>
@@ -3928,7 +3928,7 @@
 		<DisplayNameID>23946</DisplayNameID>
 		<RolloverTextID>23947</RolloverTextID>
 		<MovementType>Land</MovementType>
-		<Hitpoints>15000</Hitpoints>
+		<Hitpoints>30000</Hitpoints>
 		<CombatValue>20</CombatValue>
 		<LOS>85</LOS>
 		<BuildPoints>30</BuildPoints>
@@ -4053,7 +4053,7 @@
 		<DisplayNameID>23948</DisplayNameID>
 		<RolloverTextID>23949</RolloverTextID>
 		<MovementType>Land</MovementType>
-		<Hitpoints>20000</Hitpoints>
+		<Hitpoints>40000</Hitpoints>
 		<CombatValue>20</CombatValue>
 		<LOS>85</LOS>
 		<BuildPoints>30</BuildPoints>
@@ -5728,11 +5728,11 @@
 		<DisplayNameID>10062</DisplayNameID>
 		<RolloverTextID>10063</RolloverTextID>
 		<MovementType>Land</MovementType>
-		<Velocity>12</Velocity>
+		<Velocity>16</Velocity>
 		<Acceleration>26</Acceleration>
 		<TurnRate>540</TurnRate>
 		<Hitpoints>10000</Hitpoints>
-		<Shieldpoints>10000</Shieldpoints>
+		<Shieldpoints>12000</Shieldpoints>
 		<AttackGradeDPS>0</AttackGradeDPS>
 		<CombatValue>8</CombatValue>
 		<LOS>55</LOS>
@@ -5824,7 +5824,7 @@
 		<DisplayNameID>10062</DisplayNameID>
 		<RolloverTextID>10063</RolloverTextID>
 		<MovementType>Land</MovementType>
-		<Velocity>12</Velocity>
+		<Velocity>16</Velocity>
 		<Acceleration>26</Acceleration>
 		<TurnRate>540</TurnRate>
 		<Hitpoints>10000</Hitpoints>
@@ -5919,11 +5919,11 @@
 		<DisplayNameID>10062</DisplayNameID>
 		<RolloverTextID>10063</RolloverTextID>
 		<MovementType>Land</MovementType>
-		<Velocity>12</Velocity>
+		<Velocity>16</Velocity>
 		<Acceleration>26</Acceleration>
 		<TurnRate>540</TurnRate>
 		<Hitpoints>10000</Hitpoints>
-		<Shieldpoints>15000</Shieldpoints>
+		<Shieldpoints>12000</Shieldpoints>
 		<AttackGradeDPS>0</AttackGradeDPS>
 		<CombatValue>8</CombatValue>
 		<LOS>55</LOS>
