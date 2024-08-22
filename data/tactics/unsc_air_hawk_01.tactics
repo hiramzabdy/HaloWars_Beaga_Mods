@@ -3,7 +3,7 @@
 	<Weapon>
 		<Name>Laser</Name>
 		<AttackRate>6</AttackRate>
-		<DamagePerSecond>100</DamagePerSecond>
+		<DamagePerSecond>250</DamagePerSecond>
 		<WeaponType>Missile</WeaponType>
 		<Projectile>fx_proj_hawkLaser_01</Projectile>
 		<ImpactEffect size="Medium">empgrenade</ImpactEffect>
@@ -30,7 +30,7 @@
 	<Weapon>
 		<Name>LeftMachinegun</Name>
 		<AttackRate>0.125</AttackRate>
-		<DamagePerSecond>40</DamagePerSecond>
+		<DamagePerSecond>100</DamagePerSecond>
 		<WeaponType>SmallArms</WeaponType>
 		<Projectile>fx_proj_rotaryMG_01</Projectile>
 		<ImpactEffect size="Medium">unsc_rotarymg_01</ImpactEffect>
@@ -52,7 +52,7 @@
 	<Weapon>
 		<Name>RightMachinegun</Name>
 		<AttackRate>0.125</AttackRate>
-		<DamagePerSecond>40</DamagePerSecond>
+		<DamagePerSecond>100</DamagePerSecond>
 		<WeaponType>SmallArms</WeaponType>
 		<Projectile>fx_proj_rotaryMG_01</Projectile>
 		<ImpactEffect size="Medium">unsc_rotarymg_01</ImpactEffect>
