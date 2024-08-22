@@ -5435,10 +5435,10 @@
 			<Effect type="Data" amount="4" subtype="Techlevel" allactions="1" relativity="Absolute">
 				<Target type="ProtoSquad">cov_veh_scarab_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.95000005" subtype="Damage" allactions="1" relativity="Percent">
+			<Effect type="Data" amount="1" subtype="Damage" allactions="1" relativity="Percent">
 				<Target type="ProtoUnit">cov_veh_scarab_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.95000005" subtype="Hitpoints" relativity="Percent">
+			<Effect type="Data" amount="1" subtype="Hitpoints" relativity="Percent">
 				<Target type="ProtoUnit">cov_veh_scarab_01</Target>
 			</Effect>
 		</Effects>

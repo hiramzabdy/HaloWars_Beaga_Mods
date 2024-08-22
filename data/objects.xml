@@ -5728,11 +5728,11 @@
 		<DisplayNameID>10062</DisplayNameID>
 		<RolloverTextID>10063</RolloverTextID>
 		<MovementType>Land</MovementType>
-		<Velocity>16</Velocity>
+		<Velocity>14</Velocity>
 		<Acceleration>26</Acceleration>
 		<TurnRate>540</TurnRate>
-		<Hitpoints>10000</Hitpoints>
-		<Shieldpoints>12000</Shieldpoints>
+		<Hitpoints>4000</Hitpoints>
+		<Shieldpoints>8000</Shieldpoints>
 		<AttackGradeDPS>0</AttackGradeDPS>
 		<CombatValue>8</CombatValue>
 		<LOS>55</LOS>
@@ -5794,7 +5794,6 @@
 		<ObjectType>infantry</ObjectType>
 		<ObjectType>HardInfection</ObjectType>
 		<ObjectType>_Infantry</ObjectType>
-		<ObjectType>CanBeFlashBanged</ObjectType>
 		<ObjectType>Unit</ObjectType>
 		<ObjectType>_Hero</ObjectType>
 		<ObjectType>CanBeProtected</ObjectType>
@@ -5824,11 +5823,11 @@
 		<DisplayNameID>10062</DisplayNameID>
 		<RolloverTextID>10063</RolloverTextID>
 		<MovementType>Land</MovementType>
-		<Velocity>16</Velocity>
+		<Velocity>14</Velocity>
 		<Acceleration>26</Acceleration>
 		<TurnRate>540</TurnRate>
-		<Hitpoints>10000</Hitpoints>
-		<Shieldpoints>12000</Shieldpoints>
+		<Hitpoints>6000</Hitpoints>
+		<Shieldpoints>10000</Shieldpoints>
 		<AttackGradeDPS>0</AttackGradeDPS>
 		<CombatValue>8</CombatValue>
 		<LOS>55</LOS>
@@ -5889,7 +5888,6 @@
 		<ObjectType>infantry</ObjectType>
 		<ObjectType>HardInfection</ObjectType>
 		<ObjectType>_Infantry</ObjectType>
-		<ObjectType>CanBeFlashBanged</ObjectType>
 		<ObjectType>Unit</ObjectType>
 		<ObjectType>_Hero</ObjectType>
 		<ObjectType>CanBeProtected</ObjectType>
@@ -5919,10 +5917,10 @@
 		<DisplayNameID>10062</DisplayNameID>
 		<RolloverTextID>10063</RolloverTextID>
 		<MovementType>Land</MovementType>
-		<Velocity>16</Velocity>
+		<Velocity>14</Velocity>
 		<Acceleration>26</Acceleration>
 		<TurnRate>540</TurnRate>
-		<Hitpoints>10000</Hitpoints>
+		<Hitpoints>8000</Hitpoints>
 		<Shieldpoints>12000</Shieldpoints>
 		<AttackGradeDPS>0</AttackGradeDPS>
 		<CombatValue>8</CombatValue>
@@ -5984,7 +5982,6 @@
 		<ObjectType>infantry</ObjectType>
 		<ObjectType>HardInfection</ObjectType>
 		<ObjectType>_Infantry</ObjectType>
-		<ObjectType>CanBeFlashBanged</ObjectType>
 		<ObjectType>Unit</ObjectType>
 		<ObjectType>_Hero</ObjectType>
 		<ObjectType>CanCryo</ObjectType>
@@ -10999,8 +10996,8 @@
 		<TurnRate>45</TurnRate>
 		<Hardpoint name="Turret" autocenter="true" combined="true" yawrate="60" yawmaxangle="60" yawattachment="Turret" />
 		<Hardpoint name="ShadeTurret" autocenter="true" yawrate="180" pitchrate="90" pitchMinAngle="-30" pitchMaxAngle="60" yawattachment="FrontShadePitch" pitchattachment="FrontShadeTurret" />
-		<Hitpoints>60000</Hitpoints>
-		<AttackGradeDPS>1200</AttackGradeDPS>
+		<Hitpoints>120000</Hitpoints>
+		<AttackGradeDPS>0</AttackGradeDPS>
 		<CombatValue>120</CombatValue>
 		<Veterancy Level="1" XP="120" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.9" />
 		<Veterancy Level="2" XP="360" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.8" />
