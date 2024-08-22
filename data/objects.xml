@@ -5731,8 +5731,8 @@
 		<Velocity>12</Velocity>
 		<Acceleration>26</Acceleration>
 		<TurnRate>540</TurnRate>
-		<Hitpoints>6000</Hitpoints>
-		<Shieldpoints>8000</Shieldpoints>
+		<Hitpoints>10000</Hitpoints>
+		<Shieldpoints>10000</Shieldpoints>
 		<AttackGradeDPS>0</AttackGradeDPS>
 		<CombatValue>8</CombatValue>
 		<LOS>55</LOS>
@@ -5742,7 +5742,7 @@
 		<Veterancy Level="1" XP="40" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1.2" WeaponRange="1" DamageTaken="0.9" />
 		<Veterancy Level="2" XP="80" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1.2" WeaponRange="1" DamageTaken="0.8" />
 		<Veterancy Level="3" XP="160" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1.2" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="500" Damage="2" Velocity="1" Accuracy="1.5" WorkRate="2" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="4" XP="500" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="2" WeaponRange="1" DamageTaken="0.5" />
 		<Veterancy Level="5" XP="0" Damage="2" Velocity="1" Accuracy="1.20000005" WorkRate="2" WeaponRange="1" DamageTaken="0.5" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<Tactics>unsc_inf_spartan_01.tactics</Tactics>
@@ -5827,8 +5827,8 @@
 		<Velocity>12</Velocity>
 		<Acceleration>26</Acceleration>
 		<TurnRate>540</TurnRate>
-		<Hitpoints>6000</Hitpoints>
-		<Shieldpoints>10000</Shieldpoints>
+		<Hitpoints>10000</Hitpoints>
+		<Shieldpoints>12000</Shieldpoints>
 		<AttackGradeDPS>0</AttackGradeDPS>
 		<CombatValue>8</CombatValue>
 		<LOS>55</LOS>
@@ -5838,7 +5838,7 @@
 		<Veterancy Level="1" XP="40" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1.2" WeaponRange="1" DamageTaken="0.9" />
 		<Veterancy Level="2" XP="80" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1.2" WeaponRange="1" DamageTaken="0.8" />
 		<Veterancy Level="3" XP="160" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1.2" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="500" Damage="2" Velocity="1" Accuracy="1.5" WorkRate="2" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="4" XP="500" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="2" WeaponRange="1" DamageTaken="0.5" />
 		<Veterancy Level="5" XP="0" Damage="2" Velocity="1" Accuracy="1.20000005" WorkRate="2" WeaponRange="1" DamageTaken="0.5" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<Tactics>unsc_inf_spartan_02.tactics</Tactics>
@@ -5922,8 +5922,8 @@
 		<Velocity>12</Velocity>
 		<Acceleration>26</Acceleration>
 		<TurnRate>540</TurnRate>
-		<Hitpoints>6000</Hitpoints>
-		<Shieldpoints>12000</Shieldpoints>
+		<Hitpoints>10000</Hitpoints>
+		<Shieldpoints>15000</Shieldpoints>
 		<AttackGradeDPS>0</AttackGradeDPS>
 		<CombatValue>8</CombatValue>
 		<LOS>55</LOS>
@@ -5933,7 +5933,7 @@
 		<Veterancy Level="1" XP="40" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1.2" WeaponRange="1" DamageTaken="0.9" />
 		<Veterancy Level="2" XP="80" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1.2" WeaponRange="1" DamageTaken="0.8" />
 		<Veterancy Level="3" XP="160" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1.2" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="500" Damage="2" Velocity="1" Accuracy="1.5" WorkRate="2" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="4" XP="500" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="2" WeaponRange="1" DamageTaken="0.5" />
 		<Veterancy Level="5" XP="0" Damage="2" Velocity="1" Accuracy="1.20000005" WorkRate="2" WeaponRange="1" DamageTaken="0.5" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<Tactics>unsc_inf_spartan_03.tactics</Tactics>
@@ -6943,7 +6943,7 @@
 		<Hardpoint name="RightCannonTurret" autocenter="true" combined="true" yawrate="90" yawmaxangle="60" yawattachment="CannonRight" />
 		<Hardpoint name="LeftMissileTurret" autocenter="true" combined="true" yawrate="180" yawattachment="MissleLeft" />
 		<Hardpoint name="RightMissileTurret" autocenter="true" combined="true" yawrate="180" yawattachment="MissleRight" />
-		<Hitpoints>24000</Hitpoints>
+		<Hitpoints>30000</Hitpoints>
 		<AttackGradeDPS>0</AttackGradeDPS>
 		<CombatValue>36</CombatValue>
 		<LOS>80</LOS>

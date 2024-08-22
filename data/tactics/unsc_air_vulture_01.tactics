@@ -3,7 +3,7 @@
 	<Weapon>
 		<Name>LeftMissileLauncher</Name>
 		<AttackRate>3</AttackRate>
-		<DamagePerSecond>120</DamagePerSecond>
+		<DamagePerSecond>240</DamagePerSecond>
 		<WeaponType>AntiAir</WeaponType>
 		<Projectile>fx_proj_missile_01</Projectile>
 		<ImpactEffect size="Medium">Tankshell</ImpactEffect>
@@ -19,7 +19,7 @@
 	<Weapon>
 		<Name>RightMissileLauncher</Name>
 		<AttackRate>3</AttackRate>
-		<DamagePerSecond>120</DamagePerSecond>
+		<DamagePerSecond>240</DamagePerSecond>
 		<WeaponType>AntiAir</WeaponType>
 		<Projectile>fx_proj_missile_01</Projectile>
 		<ImpactEffect size="Medium">Tankshell</ImpactEffect>
@@ -35,7 +35,7 @@
 	<Weapon>
 		<Name>LeftCannon</Name>
 		<AttackRate>3</AttackRate>
-		<DamagePerSecond>240</DamagePerSecond>
+		<DamagePerSecond>320</DamagePerSecond>
 		<WeaponType>Explosive</WeaponType>
 		<Projectile>fx_proj_cannon_01</Projectile>
 		<ImpactEffect size="Medium">Tankshell</ImpactEffect>
@@ -67,7 +67,7 @@
 	<Weapon>
 		<Name>RightCannon</Name>
 		<AttackRate>3</AttackRate>
-		<DamagePerSecond>240</DamagePerSecond>
+		<DamagePerSecond>320</DamagePerSecond>
 		<WeaponType>Explosive</WeaponType>
 		<Projectile>fx_proj_cannon_01</Projectile>
 		<ImpactEffect size="Medium">Tankshell</ImpactEffect>
@@ -107,9 +107,9 @@
 		<MaxVelocityLead>4</MaxVelocityLead>
 		<MaxRange>100</MaxRange>
 		<AirBurstSpan>25.0f</AirBurstSpan>
-		<Accuracy>0</Accuracy>
+		<Accuracy>0.5</Accuracy>
 		<MaxDeviation>10</MaxDeviation>
-		<MovingAccuracy>0</MovingAccuracy>
+		<MovingAccuracy>0.5</MovingAccuracy>
 		<MovingMaxDeviation>15</MovingMaxDeviation>
 		<AccuracyDistanceFactor>0.330000013</AccuracyDistanceFactor>
 		<AccuracyDeviationFactor>0.5</AccuracyDeviationFactor>
@@ -135,9 +135,9 @@
 		<MaxVelocityLead>4</MaxVelocityLead>
 		<MaxRange>100</MaxRange>
 		<AirBurstSpan>25.0f</AirBurstSpan>
-		<Accuracy>0</Accuracy>
+		<Accuracy>0.5</Accuracy>
 		<MaxDeviation>10</MaxDeviation>
-		<MovingAccuracy>0</MovingAccuracy>
+		<MovingAccuracy>0.5</MovingAccuracy>
 		<MovingMaxDeviation>15</MovingMaxDeviation>
 		<AccuracyDistanceFactor>0.330000013</AccuracyDistanceFactor>
 		<AccuracyDeviationFactor>0.5</AccuracyDeviationFactor>
