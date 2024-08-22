@@ -3,7 +3,7 @@
 	<Weapon>
 		<Name>SMG</Name>
 		<AttackRate>0.5</AttackRate>
-		<DamagePerSecond>180</DamagePerSecond>
+		<DamagePerSecond>400</DamagePerSecond>
 		<WeaponType>SmallArms</WeaponType>
 		<Projectile>fx_proj_rotaryMG_01</Projectile>
 		<ImpactEffect size="Medium">unsc_rifle_01</ImpactEffect>
@@ -27,7 +27,7 @@
 	<Weapon>
 		<Name>Melee</Name>
 		<AttackRate>0.5</AttackRate>
-		<DamagePerSecond>180</DamagePerSecond>
+		<DamagePerSecond>400</DamagePerSecond>
 		<WeaponType>SmallArms</WeaponType>
 		<MaxRange>3</MaxRange>
 		<TargetPriority type="Infantry">8</TargetPriority>
@@ -131,7 +131,7 @@
 		<MergeType>Ground</MergeType>
 		<ProtoObject>fx_hijacked</ProtoObject>
 		<JoinType revertDamagePct="0.5" veterancyOverride="true" levels="1" unjoinMaxDist="25">Board</JoinType>
-		<DamageModifiers damage="1.14999998" damageTaken="0.870000005" byCombatValue="false" />
+		<DamageModifiers damage="1.15" damageTaken="0.9" byCombatValue="false" />
 	</Action>
 	<Action>
 		<Name>VehicleTakeOver</Name>

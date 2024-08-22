@@ -2758,10 +2758,10 @@
 			<Effect type="Data" amount="120" subType="TurretYawRate" Hardpoint="MGTurret" allactions="1" relativity="Absolute">
 				<Target type="ProtoUnit">unsc_veh_grizzly_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.95000005" subtype="Damage" allactions="" relativity="Percent">
+			<Effect type="Data" amount="1" subtype="Damage" allactions="" relativity="Percent">
 				<Target type="ProtoUnit">unsc_veh_grizzly_01</Target>
 			</Effect>
-			<Effect type="Data" amount="2.44000006" subtype="Hitpoints" relativity="Percent">
+			<Effect type="Data" amount="1" subtype="Hitpoints" relativity="Percent">
 				<Target type="ProtoUnit">unsc_veh_grizzly_01</Target>
 			</Effect>
 		</Effects>
@@ -2803,13 +2803,13 @@
 				<Target type="ProtoSquad">unsc_inf_spartan_01</Target>
 			</Effect>
 			<Effect type="TransformProtoUnit" FromType="unsc_inf_spartan_01" ToType="unsc_inf_spartan_02" />
-			<Effect type="Data" amount="1.25" subtype="Damage" allactions="1" relativity="Percent">
+			<Effect type="Data" amount="1" subtype="Damage" allactions="1" relativity="Percent">
 				<Target type="ProtoUnit">unsc_inf_spartan_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.25" subtype="Hitpoints" relativity="Percent">
+			<Effect type="Data" amount="1" subtype="Hitpoints" relativity="Percent">
 				<Target type="ProtoUnit">unsc_inf_spartan_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.25" subtype="Shieldpoints" relativity="Percent">
+			<Effect type="Data" amount="1" subtype="Shieldpoints" relativity="Percent">
 				<Target type="ProtoUnit">unsc_inf_spartan_01</Target>
 			</Effect>
 			<Effect type="Data" subtype="Icon" iconType="unit" iconName="unsc_spartan_upgrade1">
@@ -2853,13 +2853,13 @@
 			<Effect type="Data" amount="1" subtype="ActionEnable" action="UpgradedAircraftTakeOver" relativity="Absolute">
 				<Target type="ProtoUnit">unsc_inf_spartan_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.15" subtype="Damage" allactions="1" relativity="Percent">
+			<Effect type="Data" amount="1" subtype="Damage" allactions="1" relativity="Percent">
 				<Target type="ProtoUnit">unsc_inf_spartan_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.15" subtype="Hitpoints" relativity="Percent">
+			<Effect type="Data" amount="1" subtype="Hitpoints" relativity="Percent">
 				<Target type="ProtoUnit">unsc_inf_spartan_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.15" subtype="Shieldpoints" relativity="Percent">
+			<Effect type="Data" amount="1" subtype="Shieldpoints" relativity="Percent">
 				<Target type="ProtoUnit">unsc_inf_spartan_01</Target>
 			</Effect>
 			<Effect type="Data" subtype="Icon" iconType="unit" iconName="unsc_spartan_upgrade2">
@@ -2885,13 +2885,13 @@
 			<Effect type="Data" amount="1" subtype="Techlevel" allactions="1" relativity="Absolute">
 				<Target type="ProtoSquad">unsc_inf_spartan_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.8" subtype="Damage" allactions="1" relativity="Percent">
+			<Effect type="Data" amount="1" subtype="Damage" allactions="1" relativity="Percent">
 				<Target type="ProtoUnit">unsc_inf_spartan_03</Target>
 			</Effect>
-			<Effect type="Data" amount="1.8" subtype="Hitpoints" relativity="Percent">
+			<Effect type="Data" amount="1" subtype="Hitpoints" relativity="Percent">
 				<Target type="ProtoUnit">unsc_inf_spartan_03</Target>
 			</Effect>
-			<Effect type="Data" amount="1.8" subtype="Shieldpoints" relativity="Percent">
+			<Effect type="Data" amount="1" subtype="Shieldpoints" relativity="Percent">
 				<Target type="ProtoUnit">unsc_inf_spartan_03</Target>
 			</Effect>
 			<Effect type="TransformProtoUnit" FromType="unsc_inf_spartan_01" ToType="unsc_inf_spartan_03" />

@@ -3,7 +3,7 @@
 	<Weapon>
 		<Name>LeftMissileLauncher</Name>
 		<AttackRate>3</AttackRate>
-		<DamagePerSecond>50</DamagePerSecond>
+		<DamagePerSecond>120</DamagePerSecond>
 		<WeaponType>AntiAir</WeaponType>
 		<Projectile>fx_proj_missile_01</Projectile>
 		<ImpactEffect size="Medium">Tankshell</ImpactEffect>
@@ -19,7 +19,7 @@
 	<Weapon>
 		<Name>RightMissileLauncher</Name>
 		<AttackRate>3</AttackRate>
-		<DamagePerSecond>50</DamagePerSecond>
+		<DamagePerSecond>120</DamagePerSecond>
 		<WeaponType>AntiAir</WeaponType>
 		<Projectile>fx_proj_missile_01</Projectile>
 		<ImpactEffect size="Medium">Tankshell</ImpactEffect>
@@ -35,7 +35,7 @@
 	<Weapon>
 		<Name>LeftCannon</Name>
 		<AttackRate>3</AttackRate>
-		<DamagePerSecond>200</DamagePerSecond>
+		<DamagePerSecond>240</DamagePerSecond>
 		<WeaponType>Explosive</WeaponType>
 		<Projectile>fx_proj_cannon_01</Projectile>
 		<ImpactEffect size="Medium">Tankshell</ImpactEffect>
@@ -67,7 +67,7 @@
 	<Weapon>
 		<Name>RightCannon</Name>
 		<AttackRate>3</AttackRate>
-		<DamagePerSecond>200</DamagePerSecond>
+		<DamagePerSecond>240</DamagePerSecond>
 		<WeaponType>Explosive</WeaponType>
 		<Projectile>fx_proj_cannon_01</Projectile>
 		<ImpactEffect size="Medium">Tankshell</ImpactEffect>
