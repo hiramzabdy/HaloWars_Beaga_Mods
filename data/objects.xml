@@ -11002,10 +11002,10 @@
 		<Hitpoints>60000</Hitpoints>
 		<AttackGradeDPS>1200</AttackGradeDPS>
 		<CombatValue>120</CombatValue>
-		<Veterancy Level="1" XP="120" Damage="1.1" Velocity="1" Accuracy="1.6" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.9" />
-		<Veterancy Level="2" XP="360" Damage="1.2" Velocity="1" Accuracy="1.7" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="720" Damage="1.3" Velocity="1" Accuracy="1.8" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="1440" Damage="1.5" Velocity="1" Accuracy="2" WorkRate="2" WeaponRange="2" DamageTaken="0.5" />
+		<Veterancy Level="1" XP="120" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.9" />
+		<Veterancy Level="2" XP="360" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.8" />
+		<Veterancy Level="3" XP="720" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1.20000005" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="0" Damage="1.5" Velocity="1" Accuracy="2" WorkRate="2" WeaponRange="2" DamageTaken="0.5" />
 		<Veterancy Level="5" XP="0" Damage="2" Velocity="1" Accuracy="1.20000005" WorkRate="2" WeaponRange="1" DamageTaken="0.5" />
 		<LevelUpEffect>fx_unitLevelUpHigh</LevelUpEffect>
 		<LOS>80</LOS>
