@@ -4429,6 +4429,18 @@
 			<Effect type="Data" amount="1" subtype="ActionEnable" action="FiendishReturn" relativity="Absolute">
 				<Target type="ProtoUnit">cov_inf_arbiter_02</Target>
 			</Effect>
+			<Effect type="Data" hpbar="Cov_HealthShield" subtype="HPBar" relativity="Absolute">
+				<Target type="ProtoSquad">cov_inf_arbiter_01</Target>
+			</Effect>
+			<Effect type="Data" amount="20000" subtype="Shieldpoints" relativity="Absolute">
+				<Target type="ProtoUnit">cov_inf_arbiter_01</Target>
+			</Effect>
+			<Effect type="Data" hpbar="Cov_HealthShield" subtype="HPBar" relativity="Absolute">
+				<Target type="ProtoSquad">cov_inf_arbiter_02</Target>
+			</Effect>
+			<Effect type="Data" amount="20000" subtype="Shieldpoints" relativity="Absolute">
+				<Target type="ProtoUnit">cov_inf_arbiter_02</Target>
+			</Effect>
 		</Effects>
 	</Tech>
 	<Tech name="cov_arbiter_upgrade2" type="Normal">
