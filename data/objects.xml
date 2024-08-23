@@ -6094,7 +6094,7 @@
 		<MovementType>Land</MovementType>
 		<Hardpoint name="Turret" autocenter="true" yawrate="360" pitchrate="180" pitchMinAngle="-30" pitchMaxAngle="60" yawattachment="turret" pitchattachment="turretgun" />
 		<Hardpoint name="PassengerTurret" autocenter="true" yawrate="180" pitchrate="180" pitchMaxAngle="60" pitchMinAngle="0" yawattachment="PassengerTop" pitchattachment="PassengerTop" />
-		<Velocity>40</Velocity>
+		<Velocity>50</Velocity>
 		<TurnRate>450</TurnRate>
 		<Hitpoints>2500</Hitpoints>
 		<AttackGradeDPS>125</AttackGradeDPS>

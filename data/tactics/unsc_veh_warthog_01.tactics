@@ -3,7 +3,7 @@
 	<Weapon>
 		<Name>Machinegun</Name>
 		<AttackRate>0.25</AttackRate>
-		<DamagePerSecond>119.699997</DamagePerSecond>
+		<DamagePerSecond>120</DamagePerSecond>
 		<WeaponType>AASmallArms</WeaponType>
 		<Projectile>fx_proj_machinegun_01</Projectile>
 		<ImpactEffect size="Small">unsc_rifle_01</ImpactEffect>
@@ -26,7 +26,7 @@
 	<Weapon>
 		<Name>GaussCannon</Name>
 		<AttackRate>0.25</AttackRate>
-		<DamagePerSecond>119.699997</DamagePerSecond>
+		<DamagePerSecond>180</DamagePerSecond>
 		<WeaponType>GaussCannon</WeaponType>
 		<Projectile>fx_proj_gaussCannon_01</Projectile>
 		<ImpactEffect size="medium">unsc_lightcannon_01</ImpactEffect>
@@ -48,7 +48,7 @@
 	<Weapon>
 		<Name>GrenadeLauncher</Name>
 		<AttackRate>3</AttackRate>
-		<DamagePerSecond>30</DamagePerSecond>
+		<DamagePerSecond>40</DamagePerSecond>
 		<WeaponType>Grenade</WeaponType>
 		<Projectile>fx_proj_autoGrenade_01</Projectile>
 		<ImpactEffect size="Medium">unsc_grenade_01</ImpactEffect>
