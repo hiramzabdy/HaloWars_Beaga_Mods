@@ -3,7 +3,7 @@
 	<Weapon>
 		<Name>Machinegun</Name>
 		<AttackRate>0.25</AttackRate>
-		<DamagePerSecond>140</DamagePerSecond>
+		<DamagePerSecond>300</DamagePerSecond>
 		<WeaponType>SmallArms</WeaponType>
 		<Projectile>fx_proj_machineGun_01</Projectile>
 		<ImpactEffect size="Medium">unsc_rifle_01</ImpactEffect>
@@ -25,7 +25,7 @@
 	<Weapon>
 		<Name>Cannon</Name>
 		<AttackRate>3</AttackRate>
-		<DamagePerSecond>140</DamagePerSecond>
+		<DamagePerSecond>300</DamagePerSecond>
 		<WeaponType>Explosive</WeaponType>
 		<Projectile>fx_proj_cannon_02</Projectile>
 		<ImpactEffect size="Medium">tankshell_02</ImpactEffect>
@@ -52,6 +52,7 @@
 		<TargetPriority type="GroundVehicle">10</TargetPriority>
 		<TargetPriority type="TurretBuilding">5</TargetPriority>
 		<TargetPriority type="Infantry">3</TargetPriority>
+		<TargetPriority type="Flying">0</TargetPriority>
 		<TargetPriority type="Building">1</TargetPriority>
 		<Dodgeable />
 		<Deflectable />
@@ -59,7 +60,7 @@
 	<Weapon>
 		<Name>specialAttack</Name>
 		<AttackRate>30</AttackRate>
-		<DamagePerSecond>2000</DamagePerSecond>
+		<DamagePerSecond>4000</DamagePerSecond>
 		<UseDPSasDPA />
 		<WeaponType>SmallArms</WeaponType>
 		<Projectile>fx_proj_canistershell_01</Projectile>
