@@ -339,7 +339,7 @@
 				<Data type="sound" name="HudStopEnvSound">hud_carpetbomb_confirmed</Data>
 			</BaseDataLevel>
 			<DataLevel level="0">
-				<Data type="int" name="MaxBombs">60</Data>
+				<Data type="int" name="MaxBombs">50</Data>
 				<Data type="float" name="MaxBombOffset">16</Data>
 				<Data type="float" name="BombSpacing">14</Data>
 				<Data type="float" name="LengthMultiplier">60</Data>
@@ -363,7 +363,7 @@
 				<Data type="float" name="WedgeMinOffset">4</Data>
 			</DataLevel>
 			<DataLevel level="3">
-				<Data type="int" name="MaxBombs">50</Data>
+				<Data type="int" name="MaxBombs">60</Data>
 				<Data type="float" name="MaxBombOffset">16</Data>
 				<Data type="float" name="BombSpacing">14</Data>
 				<Data type="float" name="LengthMultiplier">60</Data>

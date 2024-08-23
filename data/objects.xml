@@ -6945,7 +6945,7 @@
 		<CombatValue>36</CombatValue>
 		<LOS>80</LOS>
 		<Pop Type="Unit">12</Pop>
-		<Bounty>60</Bounty>
+		<Bounty>80</Bounty>
 		<Veterancy Level="1" XP="80" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1.2" WeaponRange="1" DamageTaken="0.9" />
 		<Veterancy Level="2" XP="160" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1.2" WeaponRange="1" DamageTaken="0.8" />
 		<Veterancy Level="3" XP="320" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1.2" WeaponRange="1" DamageTaken="0.7" />
