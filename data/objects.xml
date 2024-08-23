@@ -6773,7 +6773,7 @@
 		<Velocity>40</Velocity>
 		<ReverseSpeed>20.0f</ReverseSpeed>
 		<TurnRate>120</TurnRate>
-		<Hitpoints>5000</Hitpoints>
+		<Hitpoints>10000</Hitpoints>
 		<AttackGradeDPS>0</AttackGradeDPS>
 		<CombatValue>10</CombatValue>
 		<LOS>55</LOS>

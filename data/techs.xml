@@ -2503,10 +2503,10 @@
 			<Effect type="Data" amount="4" subtype="Techlevel" allactions="1" relativity="Absolute">
 				<Target type="ProtoSquad">cpgn_air_hawk_01</Target>
 			</Effect>
-			<Effect type="Data" amount="2.25" subtype="Damage" allactions="1" relativity="Percent">
+			<Effect type="Data" amount="1" subtype="Damage" allactions="1" relativity="Percent">
 				<Target type="ProtoUnit">unsc_air_hawk_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.72000003" subtype="Hitpoints" relativity="Percent">
+			<Effect type="Data" amount="1" subtype="Hitpoints" relativity="Percent">
 				<Target type="ProtoUnit">unsc_air_hawk_01</Target>
 			</Effect>
 		</Effects>

@@ -3,7 +3,7 @@
 	<Weapon>
 		<Name>Minigun</Name>
 		<AttackRate>0.5</AttackRate>
-		<DamagePerSecond>800</DamagePerSecond>
+		<DamagePerSecond>600</DamagePerSecond>
 		<WeaponType>SmallArms</WeaponType>
 		<Projectile>fx_proj_rotaryMG_01</Projectile>
 		<ImpactEffect size="Medium">unsc_rifle_01</ImpactEffect>

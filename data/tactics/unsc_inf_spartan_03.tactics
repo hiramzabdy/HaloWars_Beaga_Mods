@@ -3,7 +3,7 @@
 	<Weapon>
 		<Name>Laser</Name>
 		<AttackRate>0.5</AttackRate>
-		<DamagePerSecond>1600</DamagePerSecond>
+		<DamagePerSecond>900</DamagePerSecond>
 		<WeaponType>SmallArms</WeaponType>
 		<Projectile>fx_proj_spartanlaser_01</Projectile>
 		<ImpactEffect size="Medium">unsc_spartanlaser_01</ImpactEffect>
