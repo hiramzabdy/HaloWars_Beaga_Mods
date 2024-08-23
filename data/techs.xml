@@ -4086,6 +4086,12 @@
 			<Effect type="Data" amount="0" subtype="ActionEnable" action="ShieldAction1" relativity="Absolute">
 				<Target type="ProtoUnit">cov_inf_prophet_01</Target>
 			</Effect>
+			<Effect type="Data" amount="1.2" subtype="Shieldpoints" relativity="Percent">
+				<Target type="ProtoUnit">cov_inf_prophet_01</Target>
+			</Effect>
+			<Effect type="Data" amount="1.2" subtype="Shieldpoints" relativity="Percent">
+				<Target type="ProtoUnit">cov_inf_prophet_02</Target>
+			</Effect>
 		</Effects>
 	</Tech>
 	<Tech name="cov_prophet_upgrade2" type="Normal">
@@ -4114,6 +4120,12 @@
 			<Effect type="Data" amount="1" subtype="ActionEnable" action="SpawnSentinel" relativity="Absolute">
 				<Target type="ProtoUnit">cov_inf_prophet_01</Target>
 			</Effect>
+			<Effect type="Data" amount="1.5" subtype="Damage" allactions="1" relativity="Percent">
+				<Target type="ProtoUnit">cov_inf_prophet_01</Target>
+			</Effect>
+			<Effect type="Data" amount="1.5" subtype="Damage" allactions="1" relativity="Percent">
+				<Target type="ProtoUnit">cov_inf_prophet_02</Target>
+			</Effect>
 		</Effects>
 	</Tech>
 	<Tech name="cov_prophet_upgrade3" type="Normal">
@@ -4134,6 +4146,9 @@
 				<Target type="ProtoSquad">cov_inf_prophet_01</Target>
 			</Effect>
 			<Effect type="Data" amount="1.2" subtype="Damage" allactions="1" relativity="Percent">
+				<Target type="ProtoUnit">cov_inf_prophet_02</Target>
+			</Effect>
+			<Effect type="Data" amount="1.2" subtype="Shieldpoints" allactions="1" relativity="Percent">
 				<Target type="ProtoUnit">cov_inf_prophet_02</Target>
 			</Effect>
 			<Effect type="TransformProtoUnit" FromType="cov_inf_prophet_01" ToType="cov_inf_prophet_02" />
