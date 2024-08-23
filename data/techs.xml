@@ -4068,16 +4068,16 @@
 			<Effect type="Data" amount="0" subtype="ActionEnable" action="plasmaCannonAttackAction" relativity="Absolute">
 				<Target type="ProtoUnit">cov_inf_prophet_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.95000005" subtype="Damage" allactions="1" relativity="Percent">
+			<Effect type="Data" amount="2" subtype="Damage" allactions="1" relativity="Percent">
 				<Target type="ProtoUnit">cov_inf_prophet_01</Target>
 			</Effect>
-			<Effect type="Data" amount="2.42499995" subtype="Shieldpoints" relativity="Percent">
+			<Effect type="Data" amount="1.2" subtype="Shieldpoints" relativity="Percent">
 				<Target type="ProtoUnit">cov_inf_prophet_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.95000005" subtype="Damage" allactions="1" relativity="Percent">
+			<Effect type="Data" amount="2" subtype="Damage" allactions="1" relativity="Percent">
 				<Target type="ProtoUnit">cov_inf_prophet_02</Target>
 			</Effect>
-			<Effect type="Data" amount="2.42499995" subtype="Shieldpoints" relativity="Percent">
+			<Effect type="Data" amount="1.2" subtype="Shieldpoints" relativity="Percent">
 				<Target type="ProtoUnit">cov_inf_prophet_02</Target>
 			</Effect>
 			<Effect type="Data" amount="1" subtype="ActionEnable" action="ShieldAction2" relativity="Absolute">
@@ -4105,10 +4105,16 @@
 			<Effect type="Data" amount="1" subtype="Techlevel" allactions="1" relativity="Absolute">
 				<Target type="ProtoSquad">cov_inf_prophet_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.85000002" subtype="Shieldpoints" relativity="Percent">
+			<Effect type="Data" amount="1.25" subtype="Shieldpoints" relativity="Percent">
 				<Target type="ProtoUnit">cov_inf_prophet_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.85000002" subtype="Shieldpoints" relativity="Percent">
+			<Effect type="Data" amount="1.25" subtype="Shieldpoints" relativity="Percent">
+				<Target type="ProtoUnit">cov_inf_prophet_02</Target>
+			</Effect>
+			<Effect type="Data" amount="1.5" subtype="Damage" allactions="1" relativity="Percent">
+				<Target type="ProtoUnit">cov_inf_prophet_01</Target>
+			</Effect>
+			<Effect type="Data" amount="1.5" subtype="Damage" allactions="1" relativity="Percent">
 				<Target type="ProtoUnit">cov_inf_prophet_02</Target>
 			</Effect>
 			<Effect type="Data" amount="1" subtype="ActionEnable" action="SpawnSentinel" relativity="Absolute">
@@ -4133,7 +4139,16 @@
 			<Effect type="Data" amount="1" subtype="Techlevel" allactions="1" relativity="Absolute">
 				<Target type="ProtoSquad">cov_inf_prophet_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.625" subtype="Damage" allactions="1" relativity="Percent">
+			<Effect type="Data" amount="1.2" subtype="Damage" allactions="1" relativity="Percent">
+				<Target type="ProtoUnit">cov_inf_prophet_01</Target>
+			</Effect>
+			<Effect type="Data" amount="1.2" subtype="Damage" allactions="1" relativity="Percent">
+				<Target type="ProtoUnit">cov_inf_prophet_02</Target>
+			</Effect>
+			<Effect type="Data" amount="1.5" subtype="Shieldpoints" relativity="Percent">
+				<Target type="ProtoUnit">cov_inf_prophet_01</Target>
+			</Effect>
+			<Effect type="Data" amount="1.5" subtype="Shieldpoints" relativity="Percent">
 				<Target type="ProtoUnit">cov_inf_prophet_02</Target>
 			</Effect>
 			<Effect type="TransformProtoUnit" FromType="cov_inf_prophet_01" ToType="cov_inf_prophet_02" />
@@ -4154,7 +4169,7 @@
 			<Effect type="Data" subtype="PowerLevel" power="CovLeaderGlassing" amount="1" relativity="Absolute">
 				<Target type="Player" />
 			</Effect>
-			<Effect type="Data" amount="1.45000005" subtype="Damage" allactions="1" relativity="Percent">
+			<Effect type="Data" amount="1.5" subtype="Damage" allactions="1" relativity="Percent">
 				<Target type="ProtoUnit">pow_proj_cleansing_01</Target>
 			</Effect>
 		</Effects>
@@ -4176,7 +4191,7 @@
 			<Effect type="Data" subtype="PowerLevel" power="CovLeaderGlassing" amount="1" relativity="Absolute">
 				<Target type="Player" />
 			</Effect>
-			<Effect type="Data" amount="1.45000005" subtype="Damage" allactions="1" relativity="Percent">
+			<Effect type="Data" amount="1.5" subtype="Damage" allactions="1" relativity="Percent">
 				<Target type="ProtoUnit">pow_proj_cleansing_01</Target>
 			</Effect>
 		</Effects>
@@ -4198,7 +4213,7 @@
 			<Effect type="Data" subtype="PowerLevel" power="CovLeaderGlassing" amount="1" relativity="Absolute">
 				<Target type="Player" />
 			</Effect>
-			<Effect type="Data" amount="1.45000005" subtype="Damage" allactions="1" relativity="Percent">
+			<Effect type="Data" amount="1.5" subtype="Damage" allactions="1" relativity="Percent">
 				<Target type="ProtoUnit">pow_proj_cleansing_01</Target>
 			</Effect>
 		</Effects>
@@ -4224,10 +4239,10 @@
 			<Effect type="Data" amount="1" subtype="ActionEnable" action="StunHammerAttackAction" relativity="Absolute">
 				<Target type="ProtoUnit">cov_inf_bruteChief_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.95000005" subtype="Damage" allactions="1" relativity="Percent">
+			<Effect type="Data" amount="2" subtype="Damage" allactions="1" relativity="Percent">
 				<Target type="ProtoUnit">cov_inf_bruteChief_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.42499995" subtype="Hitpoints" relativity="Percent">
+			<Effect type="Data" amount="1.2" subtype="Hitpoints" relativity="Percent">
 				<Target type="ProtoUnit">cov_inf_bruteChief_01</Target>
 			</Effect>
 			<Effect type="Data" amount="0" subtype="ActionEnable" action="HammerAttackAction" relativity="Absolute">
@@ -4236,10 +4251,10 @@
 			<Effect type="Data" amount="1" subtype="ActionEnable" action="StunHammerAttackAction" relativity="Absolute">
 				<Target type="ProtoUnit">cov_inf_bruteChief_03</Target>
 			</Effect>
-			<Effect type="Data" amount="1.95000005" subtype="Damage" allactions="1" relativity="Percent">
+			<Effect type="Data" amount="2" subtype="Damage" allactions="1" relativity="Percent">
 				<Target type="ProtoUnit">cov_inf_bruteChief_03</Target>
 			</Effect>
-			<Effect type="Data" amount="1.42499995" subtype="Hitpoints" relativity="Percent">
+			<Effect type="Data" amount="1.2" subtype="Hitpoints" relativity="Percent">
 				<Target type="ProtoUnit">cov_inf_bruteChief_03</Target>
 			</Effect>
 		</Effects>
@@ -4262,10 +4277,10 @@
 			<Effect type="Data" amount="1" subtype="Techlevel" allactions="1" relativity="Absolute">
 				<Target type="ProtoSquad">cov_inf_bruteChief_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.73000002" subtype="Damage" allactions="1" relativity="Percent">
+			<Effect type="Data" amount="1.5" subtype="Damage" allactions="1" relativity="Percent">
 				<Target type="ProtoUnit">cov_inf_bruteChief_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.42499995" subtype="Hitpoints" relativity="Percent">
+			<Effect type="Data" amount="1.25" subtype="Hitpoints" relativity="Percent">
 				<Target type="ProtoUnit">cov_inf_bruteChief_01</Target>
 			</Effect>
 			<Effect type="Data" amount="1" subtype="ActionEnable" action="Charge" relativity="Absolute">
@@ -4302,10 +4317,10 @@
 			<Effect type="Data" amount="1" subtype="ActionEnable" action="AreaStunHammerAttackAction" relativity="Absolute">
 				<Target type="ProtoUnit">cov_inf_bruteChief_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.625" subtype="Damage" allactions="1" relativity="Percent">
+			<Effect type="Data" amount="1.2" subtype="Damage" allactions="1" relativity="Percent">
 				<Target type="ProtoUnit">cov_inf_bruteChief_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.42499995" subtype="Hitpoints" relativity="Percent">
+			<Effect type="Data" amount="1.5" subtype="Hitpoints" relativity="Percent">
 				<Target type="ProtoUnit">cov_inf_bruteChief_01</Target>
 			</Effect>
 		</Effects>
@@ -4321,13 +4336,13 @@
 		<Icon>ui\flash\HUD\hud_menu\hud_menu_icons\final_cov\placeholder</Icon>
 		<ResearchCompleteSound>play_vog_tech_vortex</ResearchCompleteSound>
 		<Effects>
-			<Effect type="Data" amount="1.39999998" subtype="Damage" allactions="1" relativity="Percent">
+			<Effect type="Data" amount="1.4" subtype="Damage" allactions="1" relativity="Percent">
 				<Target type="ProtoUnit">pow_proj_wave_lightning_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.39999998" subtype="Damage" allactions="1" relativity="Percent">
+			<Effect type="Data" amount="1.4" subtype="Damage" allactions="1" relativity="Percent">
 				<Target type="ProtoUnit">pow_proj_wave_debris_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.39999998" subtype="Damage" allactions="1" relativity="Percent">
+			<Effect type="Data" amount="1.4" subtype="Damage" allactions="1" relativity="Percent">
 				<Target type="ProtoUnit">pow_proj_wave_explode_01</Target>
 			</Effect>
 			<Effect type="Data" subtype="PowerLevel" power="CovLeaderWave" amount="1" relativity="Absolute">
@@ -4349,13 +4364,13 @@
 			<TechStatus status="Active">cov_gravityWave_upgrade1</TechStatus>
 		</Prereqs>
 		<Effects>
-			<Effect type="Data" amount="1.39999998" subtype="Damage" allactions="1" relativity="Percent">
+			<Effect type="Data" amount="1.4" subtype="Damage" allactions="1" relativity="Percent">
 				<Target type="ProtoUnit">pow_proj_wave_lightning_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.39999998" subtype="Damage" allactions="1" relativity="Percent">
+			<Effect type="Data" amount="1.4" subtype="Damage" allactions="1" relativity="Percent">
 				<Target type="ProtoUnit">pow_proj_wave_debris_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.39999998" subtype="Damage" allactions="1" relativity="Percent">
+			<Effect type="Data" amount="1.4" subtype="Damage" allactions="1" relativity="Percent">
 				<Target type="ProtoUnit">pow_proj_wave_explode_01</Target>
 			</Effect>
 			<Effect type="Data" subtype="PowerLevel" power="CovLeaderWave" amount="1" relativity="Absolute">
@@ -4377,13 +4392,13 @@
 			<TechStatus status="Active">cov_gravityWave_upgrade2</TechStatus>
 		</Prereqs>
 		<Effects>
-			<Effect type="Data" amount="1.39999998" subtype="Damage" allactions="1" relativity="Percent">
+			<Effect type="Data" amount="1.4" subtype="Damage" allactions="1" relativity="Percent">
 				<Target type="ProtoUnit">pow_proj_wave_lightning_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.39999998" subtype="Damage" allactions="1" relativity="Percent">
+			<Effect type="Data" amount="1.4" subtype="Damage" allactions="1" relativity="Percent">
 				<Target type="ProtoUnit">pow_proj_wave_debris_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.39999998" subtype="Damage" allactions="1" relativity="Percent">
+			<Effect type="Data" amount="1.4" subtype="Damage" allactions="1" relativity="Percent">
 				<Target type="ProtoUnit">pow_proj_wave_explode_01</Target>
 			</Effect>
 			<Effect type="Data" subtype="PowerLevel" power="CovLeaderWave" amount="1" relativity="Absolute">
@@ -4408,10 +4423,10 @@
 			<Effect type="Data" amount="2" subtype="Damage" action="DualSword" relativity="Percent">
 				<Target type="ProtoUnit">cov_inf_arbiter_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.5" subtype="Hitpoints" relativity="Percent">
+			<Effect type="Data" amount="1.2" subtype="Hitpoints" relativity="Percent">
 				<Target type="ProtoUnit">cov_inf_arbiter_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.5" subtype="Shieldpoints" relativity="Percent">
+			<Effect type="Data" amount="1.2" subtype="Shieldpoints" relativity="Percent">
 				<Target type="ProtoUnit">cov_inf_arbiter_01</Target>
 			</Effect>
 			<Effect type="Data" amount="1" subtype="ActionEnable" action="FiendishReturn" relativity="Absolute">
@@ -4420,26 +4435,15 @@
 			<Effect type="Data" amount="2" subtype="Damage" action="DualSword" relativity="Percent">
 				<Target type="ProtoUnit">cov_inf_arbiter_02</Target>
 			</Effect>
-			<Effect type="Data" amount="1.5" subtype="Hitpoints" relativity="Percent">
+			<Effect type="Data" amount="1.2" subtype="Hitpoints" relativity="Percent">
 				<Target type="ProtoUnit">cov_inf_arbiter_02</Target>
 			</Effect>
-			<Effect type="Data" amount="1.5" subtype="Shieldpoints" relativity="Percent">
+			<Effect type="Data" amount="1.2" subtype="Shieldpoints" relativity="Percent">
 				<Target type="ProtoUnit">cov_inf_arbiter_02</Target>
 			</Effect>
 			<Effect type="Data" amount="1" subtype="ActionEnable" action="FiendishReturn" relativity="Absolute">
 				<Target type="ProtoUnit">cov_inf_arbiter_02</Target>
 			</Effect>
-			<Effect type="Data" hpbar="Cov_HealthShield" subtype="HPBar" relativity="Absolute">
-				<Target type="ProtoSquad">cov_inf_arbiter_01</Target>
-			</Effect>
-			<Effect type="Data" amount="20000" subtype="Shieldpoints" relativity="Absolute">
-				<Target type="ProtoUnit">cov_inf_arbiter_01</Target>
-			</Effect>
-			<Effect type="Data" hpbar="Cov_HealthShield" subtype="HPBar" relativity="Absolute">
-				<Target type="ProtoSquad">cov_inf_arbiter_02</Target>
-			</Effect>
-			<Effect type="Data" amount="20000" subtype="Shieldpoints" relativity="Absolute">
-				<Target type="ProtoUnit">cov_inf_arbiter_02</Target>
 			</Effect>
 		</Effects>
 	</Tech>
@@ -4464,10 +4468,10 @@
 			<Effect type="Data" amount="1.5" subtype="Damage" action="DualSword" relativity="Percent">
 				<Target type="ProtoUnit">cov_inf_arbiter_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.5" subtype="Hitpoints" relativity="Percent">
+			<Effect type="Data" amount="1.25" subtype="Hitpoints" relativity="Percent">
 				<Target type="ProtoUnit">cov_inf_arbiter_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.5" subtype="Shieldpoints" relativity="Percent">
+			<Effect type="Data" amount="1.25" subtype="Shieldpoints" relativity="Percent">
 				<Target type="ProtoUnit">cov_inf_arbiter_01</Target>
 			</Effect>
 		</Effects>
@@ -4495,10 +4499,10 @@
 			<Effect type="Data" amount="1" subtype="ActionEnable" action="Cloak" relativity="Absolute">
 				<Target type="ProtoUnit">cov_inf_arbiter_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.2" subtype="Hitpoints" relativity="Percent">
+			<Effect type="Data" amount="1.5" subtype="Hitpoints" relativity="Percent">
 				<Target type="ProtoUnit">cov_inf_arbiter_01</Target>
 			</Effect>
-			<Effect type="Data" amount="1.2" subtype="Shieldpoints" relativity="Percent">
+			<Effect type="Data" amount="1.5" subtype="Shieldpoints" relativity="Percent">
 				<Target type="ProtoUnit">cov_inf_arbiter_01</Target>
 			</Effect>
 		</Effects>
