@@ -6411,7 +6411,6 @@
 		<ObjectType>GroundVehicle</ObjectType>
 		<ObjectType>Unit</ObjectType>
 		<ObjectType>CyclopsRepairable</ObjectType>
-		<ObjectType>SpartanBoard</ObjectType>
 		<ObjectType>CanCryo</ObjectType>
 		<ObjectType>CanBeProtected</ObjectType>
 		<ObjectType>TowTruck</ObjectType>
@@ -6488,7 +6487,6 @@
 		<ObjectType>GroundVehicle</ObjectType>
 		<ObjectType>Unit</ObjectType>
 		<ObjectType>CyclopsRepairable</ObjectType>
-		<ObjectType>SpartanBoard</ObjectType>
 		<ObjectType>TowTruck</ObjectType>
 		<ObjectType>CanCryo</ObjectType>
 		<ObjectType>CanBeProtected</ObjectType>
