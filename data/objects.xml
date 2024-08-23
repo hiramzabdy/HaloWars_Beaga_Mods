@@ -4951,7 +4951,7 @@
 		<Hardpoint name="AddOnTurret" autocenter="true" yawrate="360" pitchrate="180" pitchMinAngle="-80" pitchMaxAngle="90" yawattachment="turret" pitchattachment="AddOnGun" />
 		<Hardpoint name="Turret" autocenter="true" yawrate="360" pitchrate="180" pitchMinAngle="-80" pitchMaxAngle="90" yawattachment="turret" pitchattachment="gun" />
 		<MovementType>Land</MovementType>
-		<Hitpoints>10000</Hitpoints>
+		<Hitpoints>20000</Hitpoints>
 		<AttackGradeDPS>262</AttackGradeDPS>
 		<CombatValue>14</CombatValue>
 		<LOS>80</LOS>
@@ -5021,7 +5021,7 @@
 		<Hardpoint name="AddOnTurret" autocenter="true" yawrate="360" pitchrate="180" pitchMinAngle="-80" pitchMaxAngle="90" yawattachment="turret" pitchattachment="AddOnGun" />
 		<Hardpoint name="Turret" autocenter="true" yawrate="360" pitchrate="180" pitchMinAngle="-80" pitchMaxAngle="90" yawattachment="turret" pitchattachment="gun" />
 		<MovementType>Land</MovementType>
-		<Hitpoints>10000</Hitpoints>
+		<Hitpoints>20000</Hitpoints>
 		<AttackGradeDPS>262</AttackGradeDPS>
 		<CombatValue>14</CombatValue>
 		<LOS>80</LOS>
@@ -5091,7 +5091,7 @@
 		<Hardpoint name="AddOnTurret" autocenter="true" yawrate="360" pitchrate="180" pitchMinAngle="-80" pitchMaxAngle="90" yawattachment="turret" pitchattachment="AddOnGun" />
 		<Hardpoint name="Turret" autocenter="true" yawrate="360" pitchrate="180" pitchMinAngle="-80" pitchMaxAngle="90" yawattachment="turret" pitchattachment="gun" />
 		<MovementType>Land</MovementType>
-		<Hitpoints>10000</Hitpoints>
+		<Hitpoints>20000</Hitpoints>
 		<AttackGradeDPS>262</AttackGradeDPS>
 		<CombatValue>14</CombatValue>
 		<LOS>80</LOS>
@@ -6938,11 +6938,11 @@
 		<Hardpoint name="RightCannonTurret" autocenter="true" combined="true" yawrate="90" yawmaxangle="60" yawattachment="CannonRight" />
 		<Hardpoint name="LeftMissileTurret" autocenter="true" combined="true" yawrate="180" yawattachment="MissleLeft" />
 		<Hardpoint name="RightMissileTurret" autocenter="true" combined="true" yawrate="180" yawattachment="MissleRight" />
-		<Hitpoints>30000</Hitpoints>
+		<Hitpoints>100000</Hitpoints>
 		<AttackGradeDPS>0</AttackGradeDPS>
 		<CombatValue>36</CombatValue>
 		<LOS>80</LOS>
-		<Pop Type="Unit">12</Pop>
+		<Pop Type="Unit">16</Pop>
 		<Bounty>80</Bounty>
 		<Veterancy Level="1" XP="80" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1.2" WeaponRange="1" DamageTaken="0.9" />
 		<Veterancy Level="2" XP="160" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1.2" WeaponRange="1" DamageTaken="0.8" />
@@ -6951,7 +6951,7 @@
 		<Veterancy Level="5" XP="0" Damage="2" Velocity="1" Accuracy="1.20000005" WorkRate="2" WeaponRange="1" DamageTaken="0.5" />
 		<LevelUpEffect>fx_unitLevelUp</LevelUpEffect>
 		<Tactics>unsc_air_vulture_01.tactics</Tactics>
-		<NumStasisFieldsToStop>3</NumStasisFieldsToStop>
+		<NumStasisFieldsToStop>10</NumStasisFieldsToStop>
 		<RepairPoints>800</RepairPoints>
 		<ObstructionRadiusX>10</ObstructionRadiusX>
 		<ObstructionRadiusY>4</ObstructionRadiusY>
@@ -8075,7 +8075,7 @@
 		<Hardpoint name="AddOnTurret" autocenter="true" yawrate="360" pitchrate="180" pitchMinAngle="-30" pitchMaxAngle="90" yawattachment="turret" pitchattachment="AddOnGun" />
 		<Hardpoint name="Turret" autocenter="true" yawrate="360" pitchrate="180" pitchMinAngle="-30" pitchMaxAngle="90" yawattachment="turret" pitchattachment="gun" />
 		<MovementType>Land</MovementType>
-		<Hitpoints>10000</Hitpoints>
+		<Hitpoints>20000</Hitpoints>
 		<AttackGradeDPS>262</AttackGradeDPS>
 		<CombatValue>12</CombatValue>
 		<LOS>80</LOS>
@@ -8139,7 +8139,7 @@
 		<Hardpoint name="AddOnTurret" autocenter="true" yawrate="360" pitchrate="180" pitchMinAngle="-30" pitchMaxAngle="90" yawattachment="turret" pitchattachment="AddOnGun" />
 		<Hardpoint name="Turret" autocenter="true" yawrate="360" pitchrate="180" pitchMinAngle="-30" pitchMaxAngle="90" yawattachment="turret" pitchattachment="gun" />
 		<MovementType>Land</MovementType>
-		<Hitpoints>10000</Hitpoints>
+		<Hitpoints>20000</Hitpoints>
 		<AttackGradeDPS>262</AttackGradeDPS>
 		<CombatValue>14</CombatValue>
 		<LOS>80</LOS>
@@ -8203,7 +8203,7 @@
 		<Hardpoint name="AddOnTurret" autocenter="true" yawrate="360" pitchrate="180" pitchMinAngle="-30" pitchMaxAngle="90" yawattachment="turret" pitchattachment="AddOnGun" />
 		<Hardpoint name="Turret" autocenter="true" yawrate="360" pitchrate="180" pitchMinAngle="-30" pitchMaxAngle="90" yawattachment="turret" pitchattachment="gun" />
 		<MovementType>Land</MovementType>
-		<Hitpoints>10000</Hitpoints>
+		<Hitpoints>20000</Hitpoints>
 		<AttackGradeDPS>262</AttackGradeDPS>
 		<CombatValue>14</CombatValue>
 		<LOS>80</LOS>
