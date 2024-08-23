@@ -4111,12 +4111,6 @@
 			<Effect type="Data" amount="1.25" subtype="Shieldpoints" relativity="Percent">
 				<Target type="ProtoUnit">cov_inf_prophet_02</Target>
 			</Effect>
-			<Effect type="Data" amount="1.5" subtype="Damage" allactions="1" relativity="Percent">
-				<Target type="ProtoUnit">cov_inf_prophet_01</Target>
-			</Effect>
-			<Effect type="Data" amount="1.5" subtype="Damage" allactions="1" relativity="Percent">
-				<Target type="ProtoUnit">cov_inf_prophet_02</Target>
-			</Effect>
 			<Effect type="Data" amount="1" subtype="ActionEnable" action="SpawnSentinel" relativity="Absolute">
 				<Target type="ProtoUnit">cov_inf_prophet_01</Target>
 			</Effect>
@@ -4140,15 +4134,6 @@
 				<Target type="ProtoSquad">cov_inf_prophet_01</Target>
 			</Effect>
 			<Effect type="Data" amount="1.2" subtype="Damage" allactions="1" relativity="Percent">
-				<Target type="ProtoUnit">cov_inf_prophet_01</Target>
-			</Effect>
-			<Effect type="Data" amount="1.2" subtype="Damage" allactions="1" relativity="Percent">
-				<Target type="ProtoUnit">cov_inf_prophet_02</Target>
-			</Effect>
-			<Effect type="Data" amount="1.5" subtype="Shieldpoints" relativity="Percent">
-				<Target type="ProtoUnit">cov_inf_prophet_01</Target>
-			</Effect>
-			<Effect type="Data" amount="1.5" subtype="Shieldpoints" relativity="Percent">
 				<Target type="ProtoUnit">cov_inf_prophet_02</Target>
 			</Effect>
 			<Effect type="TransformProtoUnit" FromType="cov_inf_prophet_01" ToType="cov_inf_prophet_02" />
@@ -4443,7 +4428,6 @@
 			</Effect>
 			<Effect type="Data" amount="1" subtype="ActionEnable" action="FiendishReturn" relativity="Absolute">
 				<Target type="ProtoUnit">cov_inf_arbiter_02</Target>
-			</Effect>
 			</Effect>
 		</Effects>
 	</Tech>
