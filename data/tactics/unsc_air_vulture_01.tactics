@@ -3,11 +3,11 @@
 	<Weapon>
 		<Name>LeftMissileLauncher</Name>
 		<AttackRate>3</AttackRate>
-		<DamagePerSecond>200</DamagePerSecond>
+		<DamagePerSecond>240</DamagePerSecond>
 		<WeaponType>AntiAir</WeaponType>
 		<Projectile>fx_proj_missile_01</Projectile>
 		<ImpactEffect size="Medium">Tankshell</ImpactEffect>
-		<MaxRange>90</MaxRange>
+		<MaxRange>100</MaxRange>
 		<Hardpoint>LeftMissileTurret</Hardpoint>
 		<TargetPriority type="GroundVehicle">10</TargetPriority>
 		<TargetPriority type="Flying">10</TargetPriority>
@@ -19,11 +19,11 @@
 	<Weapon>
 		<Name>RightMissileLauncher</Name>
 		<AttackRate>3</AttackRate>
-		<DamagePerSecond>200</DamagePerSecond>
+		<DamagePerSecond>240</DamagePerSecond>
 		<WeaponType>AntiAir</WeaponType>
 		<Projectile>fx_proj_missile_01</Projectile>
 		<ImpactEffect size="Medium">Tankshell</ImpactEffect>
-		<MaxRange>90</MaxRange>
+		<MaxRange>100</MaxRange>
 		<Hardpoint>RightMissileTurret</Hardpoint>
 		<TargetPriority type="GroundVehicle">10</TargetPriority>
 		<TargetPriority type="Flying">10</TargetPriority>
@@ -35,12 +35,12 @@
 	<Weapon>
 		<Name>LeftCannon</Name>
 		<AttackRate>3</AttackRate>
-		<DamagePerSecond>600</DamagePerSecond>
+		<DamagePerSecond>620</DamagePerSecond>
 		<WeaponType>Explosive</WeaponType>
 		<Projectile>fx_proj_cannon_01</Projectile>
 		<ImpactEffect size="Medium">Tankshell</ImpactEffect>
 		<MaxVelocityLead>20</MaxVelocityLead>
-		<MaxRange>90</MaxRange>
+		<MaxRange>100</MaxRange>
 		<Accuracy>0.200000003</Accuracy>
 		<MaxDeviation>7</MaxDeviation>
 		<MovingAccuracy>0.100000001</MovingAccuracy>
@@ -67,12 +67,12 @@
 	<Weapon>
 		<Name>RightCannon</Name>
 		<AttackRate>3</AttackRate>
-		<DamagePerSecond>600</DamagePerSecond>
+		<DamagePerSecond>620</DamagePerSecond>
 		<WeaponType>Explosive</WeaponType>
 		<Projectile>fx_proj_cannon_01</Projectile>
 		<ImpactEffect size="Medium">Tankshell</ImpactEffect>
 		<MaxVelocityLead>20</MaxVelocityLead>
-		<MaxRange>90</MaxRange>
+		<MaxRange>100</MaxRange>
 		<Accuracy>0.200000003</Accuracy>
 		<MaxDeviation>7</MaxDeviation>
 		<MovingAccuracy>0.100000001</MovingAccuracy>
@@ -241,7 +241,6 @@
 		</TargetRule>
 		<TargetRule>
 			<Relation>Enemy</Relation>
-
 			<Action>RightCannonAttackAction</Action>
 		</TargetRule>
 		<TargetRule>
@@ -251,7 +250,6 @@
 		</TargetRule>
 		<TargetRule>
 			<Relation>Enemy</Relation>
-
 			<Action>LeftCannonAttackAction</Action>
 		</TargetRule>
 		<TargetRule>
