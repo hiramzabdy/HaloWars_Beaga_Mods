@@ -1242,7 +1242,7 @@
 		<PrereqTextID>242</PrereqTextID>
 		<RoleTextID>501</RoleTextID>
 		<BuildPoints>26</BuildPoints>
-		<Cost resourcetype="Supplies">350</Cost>
+		<Cost resourcetype="Supplies">500</Cost>
 		<Cost resourcetype="Power">1</Cost>
 		<SubSelectSort>6500</SubSelectSort>
 		<LeashDistance>20</LeashDistance>
