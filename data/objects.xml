@@ -10838,7 +10838,7 @@
 		<MovementType>Land</MovementType>
 		<Velocity>15</Velocity>
 		<TurnRate>180</TurnRate>
-		<Shieldpoints>5000</Shieldpoints>
+		<Shieldpoints>10000</Shieldpoints>
 		<Hitpoints>2000</Hitpoints>
 		<AttackGradeDPS>252</AttackGradeDPS>
 		<Hardpoint name="Turret" autocenter="true" yawrate="90" pitchrate="90" pitchMinAngle="-30" pitchMaxAngle="75" yawattachment="Turret" pitchattachment="Turret" />

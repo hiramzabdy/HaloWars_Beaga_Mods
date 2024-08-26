@@ -38,7 +38,7 @@
 		<MaxRange>120</MaxRange>
 		<Hardpoint>Turret</Hardpoint>
 		<EnableHeightBonusDamage />
-		<AOERadius>8</AOERadius>
+		<AOERadius>60</AOERadius>
 		<AOEPrimaryTargetFactor>0</AOEPrimaryTargetFactor>
 		<AOEDistanceFactor>0.5</AOEDistanceFactor>
 		<AOEDamageFactor>0.75</AOEDamageFactor>
