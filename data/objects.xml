@@ -4830,7 +4830,6 @@
 		<Command Type="Research" Position="6">unsc_turret_upgrade2</Command>
 		<Command Type="Research" Position="1">unsc_tech_adrenaline</Command>
 		<Command Type="Research" Position="7">unsc_tech_recruitTraining</Command>
-		<Command Type="Research" Position="5">unsc_tech_reinforcements</Command>
 		<Command Type="Kill" Position="4" />
 		<Sound Type="Create">play_vog_building_fieldarmory</Sound>
 		<Sound Type="Death">play_fx_vehicle_death_generic</Sound>
@@ -6359,11 +6358,11 @@
 		<Pop Type="Unit">2</Pop>
 		<CombatValue>16</CombatValue>
 		<Bounty>12</Bounty>
-		<Veterancy Level="1" XP="40" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
-		<Veterancy Level="2" XP="80" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="160" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="320" Damage="1.4" Velocity="1" Accuracy="1.4" WorkRate="1" WeaponRange="1" DamageTaken="0.6" />
-		<Veterancy Level="5" XP="640" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="1" XP="10" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
+		<Veterancy Level="2" XP="20" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
+		<Veterancy Level="3" XP="30" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="40" Damage="1.4" Velocity="1" Accuracy="1.4" WorkRate="1" WeaponRange="1" DamageTaken="0.6" />
+		<Veterancy Level="5" XP="50" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="3" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUp</LevelUpEffect>
 		<Tactics>unsc_veh_elephant_01.tactics</Tactics>
 		<RepairPoints>300</RepairPoints>
@@ -6449,11 +6448,11 @@
 		<Pop Type="Unit">2</Pop>
 		<CombatValue>16</CombatValue>
 		<Bounty>12</Bounty>
-		<Veterancy Level="1" XP="40" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
-		<Veterancy Level="2" XP="80" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="160" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="320" Damage="1.4" Velocity="1" Accuracy="1.4" WorkRate="1" WeaponRange="1" DamageTaken="0.6" />
-		<Veterancy Level="5" XP="640" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="1" XP="10" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
+		<Veterancy Level="2" XP="20" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
+		<Veterancy Level="3" XP="30" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="40" Damage="1.4" Velocity="1" Accuracy="1.4" WorkRate="1" WeaponRange="1" DamageTaken="0.6" />
+		<Veterancy Level="5" XP="50" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="3" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUp</LevelUpEffect>
 		<Tactics>unsc_veh_elephant_02.tactics</Tactics>
 		<RepairPoints>300</RepairPoints>
@@ -8557,7 +8556,6 @@
 		<Command Type="Research" Position="6">cov_turret_upgrade1</Command>
 		<Command Type="Research" Position="6">cov_turret_upgrade2</Command>
 		<Command Type="Research" Position="3">cov_tech_shieldRecharge</Command>
-		<Command Type="Research" Position="5">cov_tech_followers</Command>
 		<Command Type="Kill" Position="4" />
 		<ChildObjects>
 			<Object Type="OneTimeSpawnSquad">cov_inf_arbiter_01</Object>
@@ -8660,7 +8658,6 @@
 		<Command Type="Research" Position="6">cov_turret_upgrade1</Command>
 		<Command Type="Research" Position="6">cov_turret_upgrade2</Command>
 		<Command Type="Research" Position="3">cov_tech_shieldRecharge</Command>
-		<Command Type="Research" Position="5">cov_tech_followers</Command>
 		<Command Type="Kill" Position="4" />
 		<ChildObjects>
 			<Object Type="OneTimeSpawnSquad">cov_inf_arbiter_01</Object>
@@ -8757,7 +8754,6 @@
 		<Command Type="Research" Position="6">cov_turret_upgrade1</Command>
 		<Command Type="Research" Position="6">cov_turret_upgrade2</Command>
 		<Command Type="Research" Position="3">cov_tech_shieldRecharge</Command>
-		<Command Type="Research" Position="5">cov_tech_followers</Command>
 		<Command Type="Kill" Position="4" />
 		<ChildObjects>
 			<Object Type="OneTimeSpawnSquad">cov_inf_arbiter_01</Object>
