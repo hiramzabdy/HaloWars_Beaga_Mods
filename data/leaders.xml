@@ -12,7 +12,7 @@
 		<FlashImg>orbital</FlashImg>
 		<FlashPortrait>img://art\ui\flash\shared\textures\pregame\leaderImages\cutter.ddx</FlashPortrait>
 		<UIControlBackground>img://art\ui\flash\shared\textures\leaders\LeaderPict_cutter.ddx</UIControlBackground>
-		<Resource Type="Supplies">1000</Resource>
+		<Resource Type="Supplies">2000</Resource>
 		<Resource Type="CampaignFoo">0</Resource>
 		<Resource Type="Collectable">0</Resource>
 		<Resource Type="Power">0</Resource>
@@ -23,7 +23,7 @@
 		<RepairDelay>20</RepairDelay>
 		<RepairCost Type="Supplies">35</RepairCost>
 		<RepairTime>30</RepairTime>
-		<Pop Type="Unit" Max="50">50</Pop>
+		<Pop Type="Unit" Max="60">60</Pop>
 		<Pop Type="Spartan" Max="3">3</Pop>
 	</Leader>
 	<Leader Name="Forge" Icon="ui\game\icon\unsc\leader\Sergeant Forge" LeaderPickerOrder="3" StatsID="2" DefaultPlayerSlotFlags="0x2">
@@ -35,7 +35,7 @@
 		<FlashImg>14thdivision</FlashImg>
 		<FlashPortrait>img://art\ui\flash\shared\textures\pregame\leaderImages\forge.ddx</FlashPortrait>
 		<UIControlBackground>img://art\ui\flash\shared\textures\leaders\LeaderPict_forge.ddx</UIControlBackground>
-		<Resource Type="Supplies">1000</Resource>
+		<Resource Type="Supplies">2000</Resource>
 		<Resource Type="Collectable">0</Resource>
 		<Resource Type="CampaignFoo">0</Resource>
 		<Resource Type="Power">0</Resource>
@@ -46,7 +46,7 @@
 		<RepairDelay>20</RepairDelay>
 		<RepairCost Type="Supplies">35</RepairCost>
 		<RepairTime>30</RepairTime>
-		<Pop Type="Unit" Max="50">50</Pop>
+		<Pop Type="Unit" Max="60">60</Pop>
 		<Pop Type="Spartan" Max="3">3</Pop>
 	</Leader>
 	<Leader Name="Anders" Icon="ui\game\icon\unsc\leader\Serina" Alpha="0" LeaderPickerOrder="4" StatsID="3" DefaultPlayerSlotFlags="0x4">
@@ -58,7 +58,7 @@
 		<FlashImg>oni</FlashImg>
 		<FlashPortrait>img://art\ui\flash\shared\textures\pregame\leaderImages\Anders.ddx</FlashPortrait>
 		<UIControlBackground>img://art\ui\flash\shared\textures\leaders\LeaderPict_anders.ddx</UIControlBackground>
-		<Resource Type="Supplies">1000</Resource>
+		<Resource Type="Supplies">2000</Resource>
 		<Resource Type="Collectable">0</Resource>
 		<Resource Type="CampaignFoo">0</Resource>
 		<Resource Type="Power">0</Resource>
@@ -69,7 +69,7 @@
 		<RepairDelay>20</RepairDelay>
 		<RepairCost Type="Supplies">35</RepairCost>
 		<RepairTime>30</RepairTime>
-		<Pop Type="Unit" Max="50">50</Pop>
+		<Pop Type="Unit" Max="60">60</Pop>
 		<Pop Type="Spartan" Max="3">3</Pop>
 	</Leader>
 	<Leader Name="Random UNSC" LeaderPickerOrder="1" Random="true">
