@@ -241,6 +241,7 @@
 		</TargetRule>
 		<TargetRule>
 			<Relation>Enemy</Relation>
+			<TargetType>NonFlying</TargetType>
 			<Action>RightCannonAttackAction</Action>
 		</TargetRule>
 		<TargetRule>
@@ -250,6 +251,7 @@
 		</TargetRule>
 		<TargetRule>
 			<Relation>Enemy</Relation>
+			<TargetType>NonFlying</TargetType>
 			<Action>LeftCannonAttackAction</Action>
 		</TargetRule>
 		<TargetRule>
