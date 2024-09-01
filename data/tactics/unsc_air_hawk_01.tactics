@@ -2,7 +2,7 @@
 <TacticData>
 	<Weapon>
 		<Name>Laser</Name>
-		<AttackRate>6</AttackRate>
+		<AttackRate>1</AttackRate>
 		<DamagePerSecond>250</DamagePerSecond>
 		<WeaponType>Missile</WeaponType>
 		<Projectile>fx_proj_hawkLaser_01</Projectile>

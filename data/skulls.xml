@@ -75,7 +75,7 @@
 		<DisplayImageOn>ui\flash\shared\textures\skulls\RebelLeader_off</DisplayImageOn>
 		<DisplayImageOff>ui\flash\shared\textures\skulls\RebelLeader_off</DisplayImageOff>
 		<DisplayImageLocked>ui\flash\shared\textures\skulls\skull_locked</DisplayImageLocked>
-		<Effect value="1" target="NonPlayerUnits">Veterancy</Effect>
+		<Effect value="3" target="NonPlayerUnits">Veterancy</Effect>
 		<Effect value="1.20000005">Score</Effect>
 	</Skull>
 	<Skull name="Catch" objectdbid="3972">
