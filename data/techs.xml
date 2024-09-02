@@ -6527,7 +6527,6 @@
 	<Tech name="skull_09" type="Normal">
 		<Status>OBTAINABLE</Status>
 		<Effects />
-		<Effects>
 		<Flag>HiddenFromStats</Flag>
 	</Tech>
 	<Tech name="skull_10" type="Normal">
