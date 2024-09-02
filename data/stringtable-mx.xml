@@ -3288,7 +3288,7 @@
 		<String _locID="25015" category="UI" subtitle="false">Todas las unidades del jugador tienen un 50% más de puntos de vida. La puntuación final disminuirá.</String>
 		<String _locID="25016" category="UI" subtitle="false">5% de probabilidad de que cualquier unidad que no pertenezca al jugador explote al morir infligiendo daños explosivos en el área de efecto. La puntuación final disminuirá.</String>
 		<String _locID="25017" category="UI" subtitle="false">Todas las unidades del jugador entrenan un 50% más rápido. La puntuación final disminuirá.</String>
-		<String _locID="25018" category="UI" subtitle="false">Los suministros llegan un 25% más rápido. La puntuación final disminuirá.</String>
+		<String _locID="25018" category="UI" subtitle="false">Si el Andraste activa esta calavera, tendrá que hacer una danza homosensual para que le paguen extra.</String>
 		<String _locID="25019" category="UI" subtitle="false">Todos los poderes del jugador se recargan en la mitad de tiempo. La puntuación final disminuirá.</String>
 		<String _locID="25020" category="Campaign" scenario="9" subtitle="false">Esta nueva amenaza es más letal e inteligente de lo pensaba.</String>
 		<String _locID="25021" category="UI" subtitle="false">Descripción de calavera</String>

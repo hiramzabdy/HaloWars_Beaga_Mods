@@ -3288,7 +3288,7 @@
 		<String _locID="25015" category="UI" subtitle="false">All player units have 50% more hitpoints. Final score will decrease.</String>
 		<String _locID="25016" category="UI" subtitle="false">5% chance any non-player unit blows up upon death with explosive area of effect damage. Final score will decrease.</String>
 		<String _locID="25017" category="UI" subtitle="false">All player units train 50% faster. Final score will decrease.</String>
-		<String _locID="25018" category="UI" subtitle="false">Supplies come in 25% faster. Final score will decrease.</String>
+		<String _locID="25018" category="UI" subtitle="false">If Andraste activates this skull, he will have to do a sensual dance in order to obtain more supplies</String>
 		<String _locID="25019" category="UI" subtitle="false">All player powers recharge in half the time. Final score will decrease.</String>
 		<String _locID="25020" category="Campaign" scenario="9" subtitle="false">This new threat is more deadly and smarter than I initially thought.</String>
 		<String _locID="25021" category="UI" subtitle="false">Skull Description</String>
