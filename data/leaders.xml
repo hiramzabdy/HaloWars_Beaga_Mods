@@ -24,7 +24,7 @@
 		<RepairCost Type="Supplies">35</RepairCost>
 		<RepairTime>30</RepairTime>
 		<Pop Type="Unit" Max="60">60</Pop>
-		<Pop Type="Spartan" Max="3">3</Pop>
+		<Pop Type="Spartan" Max="5">5</Pop>
 	</Leader>
 	<Leader Name="Forge" Icon="ui\game\icon\unsc\leader\Sergeant Forge" LeaderPickerOrder="3" StatsID="2" DefaultPlayerSlotFlags="0x2">
 		<Civ>UNSC</Civ>
@@ -47,7 +47,7 @@
 		<RepairCost Type="Supplies">35</RepairCost>
 		<RepairTime>30</RepairTime>
 		<Pop Type="Unit" Max="60">60</Pop>
-		<Pop Type="Spartan" Max="3">3</Pop>
+		<Pop Type="Spartan" Max="5">5</Pop>
 	</Leader>
 	<Leader Name="Anders" Icon="ui\game\icon\unsc\leader\Serina" Alpha="0" LeaderPickerOrder="4" StatsID="3" DefaultPlayerSlotFlags="0x4">
 		<Civ>UNSC</Civ>
@@ -70,7 +70,7 @@
 		<RepairCost Type="Supplies">35</RepairCost>
 		<RepairTime>30</RepairTime>
 		<Pop Type="Unit" Max="60">60</Pop>
-		<Pop Type="Spartan" Max="3">3</Pop>
+		<Pop Type="Spartan" Max="5">5</Pop>
 	</Leader>
 	<Leader Name="Random UNSC" LeaderPickerOrder="1" Random="true">
 		<Civ>UNSC</Civ>
@@ -101,7 +101,7 @@
 		<RepairCost Type="Supplies">35</RepairCost>
 		<RepairTime>30</RepairTime>
 		<ReverseHotDropCost Type="Supplies">100</ReverseHotDropCost>
-		<Pop Type="Unit" Max="120">120</Pop>
+		<Pop Type="Unit" Max="200">200</Pop>
 		<Pop Type="Leader" Max="1">1</Pop>
 		<Pop Type="Temple" Max="1">1</Pop>
 	</Leader>
@@ -126,7 +126,7 @@
 		<RepairCost Type="Supplies">35</RepairCost>
 		<RepairTime>30</RepairTime>
 		<ReverseHotDropCost Type="Supplies">100</ReverseHotDropCost>
-		<Pop Type="Unit" Max="120">120</Pop>
+		<Pop Type="Unit" Max="200">200</Pop>
 		<Pop Type="Temple" Max="1">1</Pop>
 		<Pop Type="Leader" Max="1">1</Pop>
 	</Leader>
@@ -151,7 +151,7 @@
 		<RepairCost Type="Supplies">35</RepairCost>
 		<RepairTime>30</RepairTime>
 		<ReverseHotDropCost Type="Supplies">10</ReverseHotDropCost>
-		<Pop Type="Unit" Max="120">120</Pop>
+		<Pop Type="Unit" Max="200">200</Pop>
 		<Pop Type="Leader" Max="1">1</Pop>
 		<Pop Type="Temple" Max="1">1</Pop>
 	</Leader>

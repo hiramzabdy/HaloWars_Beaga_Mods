@@ -6930,8 +6930,8 @@
 		<MovementType>Air</MovementType>
 		<Velocity>16</Velocity>
 		<TurnRate>60</TurnRate>
-		<Hardpoint name="LeftCannonTurret" autocenter="true" combined="true" yawrate="90" yawmaxangle="90" yawattachment="CannonLeft" />
-		<Hardpoint name="RightCannonTurret" autocenter="true" combined="true" yawrate="90" yawmaxangle="90" yawattachment="CannonRight" />
+		<Hardpoint name="LeftCannonTurret" autocenter="true" combined="true" yawrate="90" yawmaxangle="120" yawattachment="CannonLeft" />
+		<Hardpoint name="RightCannonTurret" autocenter="true" combined="true" yawrate="90" yawmaxangle="120" yawattachment="CannonRight" />
 		<Hardpoint name="LeftMissileTurret" autocenter="true" combined="true" yawrate="180" yawattachment="MissleLeft" />
 		<Hardpoint name="RightMissileTurret" autocenter="true" combined="true" yawrate="180" yawattachment="MissleRight" />
 		<Hitpoints>100000</Hitpoints>
