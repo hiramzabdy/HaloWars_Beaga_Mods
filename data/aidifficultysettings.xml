@@ -70,7 +70,7 @@
 			<DataPoint Input="0" Output="1" Comment="On easy, AI gets 50% normal supplies" />
 			<DataPoint Input="0.330000013" Output="1.5" Comment="At diff 0.33, non-cheating (normal) supplies" />
 			<DataPoint Input="0.670000017" Output="1.75" Comment="At diff 0.67, non-cheating (normal) supplies" />
-			<DataPoint Input="1" Output="2" Comment="On legendary, AI gets 133% normal supplies" />
+			<DataPoint Input="1" Output="2.5" Comment="On legendary, AI gets 133% normal supplies" />
 			<DataPoint Input="2" Output="2.5" Comment="On hyper-legendary, AI gets 233% normal supplies" />
 		</PiecewiseFunc>
 	</AIDifficultySetting>

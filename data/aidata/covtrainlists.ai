@@ -7,23 +7,23 @@
 		</Row>
 		<Row>
 			<c>cov_inf_prophet_01</c>
-			<c>1</c>
+			<c>3</c>
 		</Row>
 		<Row>
 			<c>cov_inf_brute_01</c>
-			<c>1</c>
+			<c>10</c>
 		</Row>
 		<Row>
 			<c>cov_inf_eliteCommando_01</c>
-			<c>1</c>
+			<c>10</c>
 		</Row>
 		<Row>
 			<c>cov_inf_suicideGrunt_01</c>
-			<c>1</c>
+			<c>10</c>
 		</Row>
 		<Row>
 			<c>cov_inf_gruntHorde_01</c>
-			<c>1</c>
+			<c>10</c>
 		</Row>
 		<Row>
 			<c>cov_inf_grunt_01</c>
@@ -31,7 +31,7 @@
 		</Row>
 		<Row>
 			<c>cov_inf_hunter_01</c>
-			<c>2</c>
+			<c>20</c>
 		</Row>
 		<Row>
 			<c>cov_veh_ghost_01</c>
@@ -39,7 +39,7 @@
 		</Row>
 		<Row>
 			<c>cov_inf_hunter_01</c>
-			<c>2</c>
+			<c>20</c>
 		</Row>
 		<Row>
 			<c>cov_veh_bruteChopper_01</c>
@@ -47,31 +47,31 @@
 		</Row>
 		<Row>
 			<c>cov_veh_wraith_01</c>
-			<c>6</c>
+			<c>60</c>
 		</Row>
 		<Row>
 			<c>cov_veh_locust_01</c>
-			<c>3</c>
+			<c>30</c>
 		</Row>
 		<Row>
 			<c>cov_air_banshee_01</c>
-			<c>1</c>
+			<c>10</c>
 		</Row>
 		<Row>
 			<c>cov_air_vampire_01</c>
-			<c>1</c>
+			<c>10</c>
 		</Row>
 		<Row>
 			<c>cov_inf_engineer_01</c>
-			<c>2</c>
+			<c>20</c>
 		</Row>
 		<Row>
 			<c>cov_inf_bruteChief_01</c>
-			<c>1</c>
+			<c>3</c>
 		</Row>
 		<Row>
 			<c>cov_inf_arbiter_01</c>
-			<c>1</c>
+			<c>3</c>
 		</Row>
 	</Table>
 	<Table Name="CovMix_2" Type="SquadBuildList">
@@ -81,23 +81,23 @@
 		</Row>
 		<Row>
 			<c>cov_inf_prophet_01</c>
-			<c>1</c>
+			<c>3</c>
 		</Row>
 		<Row>
 			<c>cov_inf_brute_01</c>
-			<c>1</c>
+			<c>10</c>
 		</Row>
 		<Row>
 			<c>cov_inf_eliteCommando_01</c>
-			<c>1</c>
+			<c>10</c>
 		</Row>
 		<Row>
 			<c>cov_inf_suicideGrunt_01</c>
-			<c>1</c>
+			<c>10</c>
 		</Row>
 		<Row>
 			<c>cov_inf_gruntHorde_01</c>
-			<c>1</c>
+			<c>10</c>
 		</Row>
 		<Row>
 			<c>cov_inf_grunt_01</c>
@@ -105,7 +105,7 @@
 		</Row>
 		<Row>
 			<c>cov_inf_hunter_01</c>
-			<c>4</c>
+			<c>40</c>
 		</Row>
 		<Row>
 			<c>cov_veh_ghost_01</c>
@@ -113,7 +113,7 @@
 		</Row>
 		<Row>
 			<c>cov_inf_hunter_01</c>
-			<c>4</c>
+			<c>40</c>
 		</Row>
 		<Row>
 			<c>cov_veh_bruteChopper_01</c>
@@ -121,31 +121,31 @@
 		</Row>
 		<Row>
 			<c>cov_veh_wraith_01</c>
-			<c>1</c>
+			<c>10</c>
 		</Row>
 		<Row>
 			<c>cov_veh_locust_01</c>
-			<c>1</c>
+			<c>10</c>
 		</Row>
 		<Row>
 			<c>cov_air_banshee_01</c>
-			<c>8</c>
+			<c>80</c>
 		</Row>
 		<Row>
 			<c>cov_air_vampire_01</c>
-			<c>1</c>
+			<c>10</c>
 		</Row>
 		<Row>
 			<c>cov_inf_engineer_01</c>
-			<c>2</c>
+			<c>20</c>
 		</Row>
 		<Row>
 			<c>cov_inf_bruteChief_01</c>
-			<c>1</c>
+			<c>3</c>
 		</Row>
 		<Row>
 			<c>cov_inf_arbiter_01</c>
-			<c>1</c>
+			<c>3</c>
 		</Row>
 	</Table>
 	<Table Name="CovMix_3" Type="SquadBuildList">
@@ -155,23 +155,23 @@
 		</Row>
 		<Row>
 			<c>cov_inf_prophet_01</c>
-			<c>1</c>
+			<c>3</c>
 		</Row>
 		<Row>
 			<c>cov_inf_brute_01</c>
-			<c>1</c>
+			<c>10</c>
 		</Row>
 		<Row>
 			<c>cov_inf_eliteCommando_01</c>
-			<c>1</c>
+			<c>10</c>
 		</Row>
 		<Row>
 			<c>cov_inf_suicideGrunt_01</c>
-			<c>1</c>
+			<c>10</c>
 		</Row>
 		<Row>
 			<c>cov_inf_gruntHorde_01</c>
-			<c>1</c>
+			<c>10</c>
 		</Row>
 		<Row>
 			<c>cov_inf_grunt_01</c>
@@ -179,7 +179,7 @@
 		</Row>
 		<Row>
 			<c>cov_inf_hunter_01</c>
-			<c>2</c>
+			<c>20</c>
 		</Row>
 		<Row>
 			<c>cov_veh_ghost_01</c>
@@ -187,7 +187,7 @@
 		</Row>
 		<Row>
 			<c>cov_inf_hunter_01</c>
-			<c>2</c>
+			<c>20</c>
 		</Row>
 		<Row>
 			<c>cov_veh_bruteChopper_01</c>
@@ -195,31 +195,31 @@
 		</Row>
 		<Row>
 			<c>cov_veh_wraith_01</c>
-			<c>1</c>
+			<c>10</c>
 		</Row>
 		<Row>
 			<c>cov_veh_locust_01</c>
-			<c>5</c>
+			<c>50</c>
 		</Row>
 		<Row>
 			<c>cov_air_banshee_01</c>
-			<c>3</c>
+			<c>30</c>
 		</Row>
 		<Row>
 			<c>cov_air_vampire_01</c>
-			<c>1</c>
+			<c>10</c>
 		</Row>
 		<Row>
 			<c>cov_inf_engineer_01</c>
-			<c>2</c>
+			<c>20</c>
 		</Row>
 		<Row>
 			<c>cov_inf_bruteChief_01</c>
-			<c>1</c>
+			<c>3</c>
 		</Row>
 		<Row>
 			<c>cov_inf_arbiter_01</c>
-			<c>1</c>
+			<c>3</c>
 		</Row>
 	</Table>
 	<Table Name="CovProphetElites" Type="SquadBuildList">
@@ -229,15 +229,15 @@
 		</Row>
 		<Row>
 			<c>cov_inf_prophet_01</c>
-			<c>1</c>
+			<c>3</c>
 		</Row>
 		<Row>
 			<c>cov_inf_brute_01</c>
-			<c>1</c>
+			<c>10</c>
 		</Row>
 		<Row>
 			<c>cov_inf_eliteCommando_01</c>
-			<c>10</c>
+			<c>100</c>
 		</Row>
 		<Row>
 			<c>cov_inf_suicideGrunt_01</c>
@@ -303,27 +303,27 @@
 		</Row>
 		<Row>
 			<c>cov_inf_prophet_01</c>
-			<c>1</c>
-		</Row>
-		<Row>
-			<c>cov_inf_jackal_01</c>
-			<c>5</c>
-		</Row>
-		<Row>
-			<c>cov_inf_brute_01</c>
-			<c>1</c>
-		</Row>
-		<Row>
-			<c>cov_inf_eliteCommando_01</c>
 			<c>3</c>
 		</Row>
 		<Row>
+			<c>cov_inf_jackal_01</c>
+			<c>50</c>
+		</Row>
+		<Row>
+			<c>cov_inf_brute_01</c>
+			<c>10</c>
+		</Row>
+		<Row>
+			<c>cov_inf_eliteCommando_01</c>
+			<c>30</c>
+		</Row>
+		<Row>
 			<c>cov_inf_suicideGrunt_01</c>
-			<c>1</c>
+			<c>10</c>
 		</Row>
 		<Row>
 			<c>cov_inf_gruntHorde_01</c>
-			<c>1</c>
+			<c>10</c>
 		</Row>
 		<Row>
 			<c>cov_inf_grunt_01</c>
@@ -331,7 +331,7 @@
 		</Row>
 		<Row>
 			<c>cov_inf_hunter_01</c>
-			<c>4</c>
+			<c>40</c>
 		</Row>
 		<Row>
 			<c>cov_veh_ghost_01</c>
@@ -339,7 +339,7 @@
 		</Row>
 		<Row>
 			<c>cov_inf_hunter_01</c>
-			<c>4</c>
+			<c>40</c>
 		</Row>
 		<Row>
 			<c>cov_veh_bruteChopper_01</c>
@@ -347,45 +347,45 @@
 		</Row>
 		<Row>
 			<c>cov_veh_wraith_01</c>
-			<c>1</c>
+			<c>10</c>
 		</Row>
 		<Row>
 			<c>cov_veh_locust_01</c>
-			<c>1</c>
+			<c>10</c>
 		</Row>
 		<Row>
 			<c>cov_air_banshee_01</c>
-			<c>8</c>
+			<c>80</c>
 		</Row>
 		<Row>
 			<c>cov_air_vampire_01</c>
-			<c>1</c>
+			<c>10</c>
 		</Row>
 		<Row>
 			<c>cov_inf_engineer_01</c>
-			<c>2</c>
+			<c>20</c>
 		</Row>
 		<Row>
 			<c>cov_inf_bruteChief_01</c>
-			<c>1</c>
+			<c>3</c>
 		</Row>
 		<Row>
 			<c>cov_inf_arbiter_01</c>
-			<c>1</c>
+			<c>3</c>
 		</Row>
 	</Table>
 	<Table Name="CovGeneral_2" Type="SquadBuildList">
 		<Row>
 			<c>cov_inf_prophet_01</c>
-			<c>5</c>
+			<c>3</c>
 		</Row>
 		<Row>
 			<c>cov_veh_wraith_01</c>
-			<c>4</c>
+			<c>40</c>
 		</Row>
 		<Row>
 			<c>cov_inf_hunter_01</c>
-			<c>6</c>
+			<c>60</c>
 		</Row>
 		<Row>
 			<c>cov_inf_grunt_01</c>
@@ -397,11 +397,11 @@
 		</Row>
 		<Row>
 			<c>cov_inf_hunter_01</c>
-			<c>8</c>
+			<c>80</c>
 		</Row>
 		<Row>
 			<c>cov_air_banshee_01</c>
-			<c>5</c>
+			<c>50</c>
 		</Row>
 		<Row>
 			<c>cov_veh_ghost_01</c>
@@ -409,7 +409,7 @@
 		</Row>
 		<Row>
 			<c>cov_veh_wraith_01</c>
-			<c>10</c>
+			<c>100</c>
 		</Row>
 	</Table>
 	<Table Name="CovGeneral_3" Type="SquadBuildList">
@@ -419,27 +419,27 @@
 		</Row>
 		<Row>
 			<c>cov_inf_prophet_01</c>
-			<c>1</c>
-		</Row>
-		<Row>
-			<c>cov_inf_eliteCommando_01</c>
 			<c>3</c>
 		</Row>
 		<Row>
+			<c>cov_inf_eliteCommando_01</c>
+			<c>30</c>
+		</Row>
+		<Row>
 			<c>cov_veh_wraith_01</c>
-			<c>6</c>
+			<c>60</c>
 		</Row>
 		<Row>
 			<c>cov_veh_ghost_01</c>
-			<c>2</c>
+			<c>20</c>
 		</Row>
 		<Row>
 			<c>cov_inf_engineer_01</c>
-			<c>1</c>
+			<c>10</c>
 		</Row>
 		<Row>
 			<c>cov_inf_hunter_01</c>
-			<c>4</c>
+			<c>40</c>
 		</Row>
 		<Row>
 			<c>cov_inf_grunt_01</c>
@@ -447,27 +447,27 @@
 		</Row>
 		<Row>
 			<c>cov_inf_jackal_01</c>
-			<c>1</c>
+			<c>10</c>
 		</Row>
 		<Row>
 			<c>cov_inf_brute_01</c>
-			<c>2</c>
+			<c>20</c>
 		</Row>
 		<Row>
 			<c>cov_air_banshee_01</c>
-			<c>8</c>
+			<c>80</c>
 		</Row>
 		<Row>
 			<c>cov_inf_eliteCommando_01</c>
-			<c>16</c>
+			<c>160</c>
 		</Row>
 		<Row>
 			<c>cov_inf_hunter_01</c>
-			<c>1</c>
+			<c>20</c>
 		</Row>
 		<Row>
 			<c>cov_inf_eliteCommando_01</c>
-			<c>25</c>
+			<c>50</c>
 		</Row>
 	</Table>
 </Tables>

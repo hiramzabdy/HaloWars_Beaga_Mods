@@ -89,7 +89,7 @@
 		<FlashImg>arbiter</FlashImg>
 		<FlashPortrait>img://art\ui\flash\shared\textures\pregame\leaderImages\arbiter.ddx</FlashPortrait>
 		<UIControlBackground>img://art\ui\flash\shared\textures\leaders\LeaderPict_arbiter.ddx</UIControlBackground>
-		<Resource Type="Supplies">1000</Resource>
+		<Resource Type="Supplies">2000</Resource>
 		<Resource Type="Collectable">0</Resource>
 		<Resource Type="CampaignFoo">0</Resource>
 		<Resource Type="Power">0</Resource>
@@ -101,9 +101,9 @@
 		<RepairCost Type="Supplies">35</RepairCost>
 		<RepairTime>30</RepairTime>
 		<ReverseHotDropCost Type="Supplies">100</ReverseHotDropCost>
-		<Pop Type="Unit" Max="200">200</Pop>
-		<Pop Type="Leader" Max="1">1</Pop>
-		<Pop Type="Temple" Max="1">1</Pop>
+		<Pop Type="Unit" Max="500">500</Pop>
+		<Pop Type="Leader" Max="3">3</Pop>
+		<Pop Type="Temple" Max="3">3</Pop>
 	</Leader>
 	<Leader Name="Brute Chieftain" Icon="ui\game\icon\covenant\leader\Brute General" Alpha="0" LeaderPickerOrder="7" StatsID="5" DefaultPlayerSlotFlags="0x10">
 		<Civ>Covenant</Civ>
@@ -114,7 +114,7 @@
 		<FlashImg>bruteleader</FlashImg>
 		<FlashPortrait>img://art\ui\flash\shared\textures\pregame\leaderImages\brute.ddx</FlashPortrait>
 		<UIControlBackground>img://art\ui\flash\shared\textures\leaders\LeaderPict_brutechief.ddx</UIControlBackground>
-		<Resource Type="Supplies">1000</Resource>
+		<Resource Type="Supplies">2000</Resource>
 		<Resource Type="Collectable">0</Resource>
 		<Resource Type="CampaignFoo">0</Resource>
 		<Resource Type="Power">0</Resource>
@@ -126,9 +126,9 @@
 		<RepairCost Type="Supplies">35</RepairCost>
 		<RepairTime>30</RepairTime>
 		<ReverseHotDropCost Type="Supplies">100</ReverseHotDropCost>
-		<Pop Type="Unit" Max="200">200</Pop>
-		<Pop Type="Temple" Max="1">1</Pop>
-		<Pop Type="Leader" Max="1">1</Pop>
+		<Pop Type="Unit" Max="500">500</Pop>
+		<Pop Type="Temple" Max="3">3</Pop>
+		<Pop Type="Leader" Max="3">3</Pop>
 	</Leader>
 	<Leader Name="Prophet of Mercy" Icon="ui\game\icon\covenant\leader\Elite General" Alpha="0" LeaderPickerOrder="7" StatsID="6" DefaultPlayerSlotFlags="0x20">
 		<Civ>Covenant</Civ>
@@ -139,7 +139,7 @@
 		<FlashImg>prophet</FlashImg>
 		<FlashPortrait>img://art\ui\flash\shared\textures\pregame\leaderImages\prophet.ddx</FlashPortrait>
 		<UIControlBackground>img://art\ui\flash\shared\textures\leaders\LeaderPict_prophet.ddx</UIControlBackground>
-		<Resource Type="Supplies">1000</Resource>
+		<Resource Type="Supplies">2000</Resource>
 		<Resource Type="Collectable">0</Resource>
 		<Resource Type="CampaignFoo">0</Resource>
 		<Resource Type="Power">1</Resource>
@@ -151,9 +151,9 @@
 		<RepairCost Type="Supplies">35</RepairCost>
 		<RepairTime>30</RepairTime>
 		<ReverseHotDropCost Type="Supplies">10</ReverseHotDropCost>
-		<Pop Type="Unit" Max="200">200</Pop>
-		<Pop Type="Leader" Max="1">1</Pop>
-		<Pop Type="Temple" Max="1">1</Pop>
+		<Pop Type="Unit" Max="500">500</Pop>
+		<Pop Type="Leader" Max="3">3</Pop>
+		<Pop Type="Temple" Max="3">3</Pop>
 	</Leader>
 	<Leader Name="Random Covenant" LeaderPickerOrder="8" Random="true">
 		<Civ>Covenant</Civ>
