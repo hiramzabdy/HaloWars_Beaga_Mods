@@ -5738,11 +5738,11 @@
 		<Pop Type="Spartan">1</Pop>
 		<Bounty>40</Bounty>
 		<RamDodgeFactor>1</RamDodgeFactor>
-		<Veterancy Level="1" XP="20" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
-		<Veterancy Level="2" XP="40" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="80" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="160" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
-		<Veterancy Level="5" XP="320" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
+		<Veterancy Level="1" XP="10" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
+		<Veterancy Level="2" XP="20" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
+		<Veterancy Level="3" XP="40" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="80" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="5" XP="160" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<Tactics>unsc_inf_spartan_01.tactics</Tactics>
 		<RepairPoints>25</RepairPoints>
@@ -5833,11 +5833,11 @@
 		<Pop Type="Spartan">1</Pop>
 		<Bounty>40</Bounty>
 		<RamDodgeFactor>1</RamDodgeFactor>
-		<Veterancy Level="1" XP="20" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
-		<Veterancy Level="2" XP="40" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="80" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="160" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
-		<Veterancy Level="5" XP="320" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
+		<Veterancy Level="1" XP="10" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
+		<Veterancy Level="2" XP="20" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
+		<Veterancy Level="3" XP="40" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="80" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="5" XP="160" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<Tactics>unsc_inf_spartan_02.tactics</Tactics>
 		<RepairPoints>25</RepairPoints>
@@ -5927,11 +5927,11 @@
 		<Pop Type="Spartan">1</Pop>
 		<Bounty>40</Bounty>
 		<RamDodgeFactor>1</RamDodgeFactor>
-		<Veterancy Level="1" XP="20" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
-		<Veterancy Level="2" XP="40" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="80" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="160" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
-		<Veterancy Level="5" XP="320" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
+		<Veterancy Level="1" XP="10" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
+		<Veterancy Level="2" XP="20" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
+		<Veterancy Level="3" XP="40" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="80" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="5" XP="160" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<Tactics>unsc_inf_spartan_03.tactics</Tactics>
 		<RepairPoints>25</RepairPoints>
@@ -9142,8 +9142,8 @@
 		<Bounty>1</Bounty>
 		<Veterancy Level="1" XP="1" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
 		<Veterancy Level="2" XP="2" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="4" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="8" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="3" XP="3" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="4" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
 		<Veterancy Level="5" XP="0" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<AmmoMax>230</AmmoMax>
@@ -9222,8 +9222,8 @@
 		<Bounty>0.800000012</Bounty>
 		<Veterancy Level="1" XP="1" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
 		<Veterancy Level="2" XP="2" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="4" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="8" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="3" XP="3" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="4" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
 		<Veterancy Level="5" XP="0" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<Tactics>cov_inf_grunt_01.tactics</Tactics>
@@ -9298,8 +9298,8 @@
 		<SingleBoneIK>Bip01 Spine1</SingleBoneIK>
 		<Veterancy Level="1" XP="1" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
 		<Veterancy Level="2" XP="2" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="4" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="8" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="3" XP="3" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="4" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
 		<Veterancy Level="5" XP="0" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<Tactics>cov_inf_grunt_01.tactics</Tactics>
@@ -9375,8 +9375,8 @@
 		<Bounty>0.800000012</Bounty>
 		<Veterancy Level="1" XP="1" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
 		<Veterancy Level="2" XP="2" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="4" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="8" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="3" XP="3" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="4" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
 		<Veterancy Level="5" XP="0" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<Tactics>cov_inf_needlerGrunt_01.tactics</Tactics>
@@ -9449,8 +9449,8 @@
 		<SingleBoneIK>Bip01 Spine1</SingleBoneIK>
 		<Veterancy Level="1" XP="1" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
 		<Veterancy Level="2" XP="2" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="4" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="8" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="3" XP="3" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="4" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
 		<Veterancy Level="5" XP="0" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<Tactics>cov_inf_needlerGrunt_01.tactics</Tactics>
@@ -9523,8 +9523,8 @@
 		<SingleBoneIK>Bip01 Spine1</SingleBoneIK>
 		<Veterancy Level="1" XP="1" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
 		<Veterancy Level="2" XP="2" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="4" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="8" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="3" XP="3" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="4" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
 		<Veterancy Level="5" XP="0" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<Tactics>cov_inf_needlerGrunt_01.tactics</Tactics>
@@ -9601,8 +9601,8 @@
 		<RamDodgeFactor>0.5</RamDodgeFactor>
 		<Veterancy Level="1" XP="1" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
 		<Veterancy Level="2" XP="2" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="4" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="8" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="3" XP="3" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="4" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
 		<Veterancy Level="5" XP="0" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<AmmoMax>1</AmmoMax>
@@ -9675,10 +9675,10 @@
 		<LOS>55</LOS>
 		<Pop Type="Unit">1</Pop>
 		<Bounty>5</Bounty>
-		<Veterancy Level="1" XP="2" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
-		<Veterancy Level="2" XP="4" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="8" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="16" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="1" XP="1" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
+		<Veterancy Level="2" XP="2" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
+		<Veterancy Level="3" XP="3" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="4" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
 		<Veterancy Level="5" XP="0" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<SubSelectSort>4003</SubSelectSort>
@@ -9759,10 +9759,10 @@
 		<SingleBoneIK>Bip01 Spine</SingleBoneIK>
 		<Pop Type="Unit">0.5</Pop>
 		<Bounty>3</Bounty>
-		<Veterancy Level="1" XP="4" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
-		<Veterancy Level="2" XP="8" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="16" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="32" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="1" XP="2" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
+		<Veterancy Level="2" XP="4" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
+		<Veterancy Level="3" XP="8" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="16" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
 		<Veterancy Level="5" XP="0" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<Tactics>cov_inf_brute_01.tactics</Tactics>
@@ -9830,10 +9830,10 @@
 		<Hardpoint name="Torso" autocenter="true" singleboneik="true" relativeToUnit="true" yawrate="360" yawMaxAngle="90" yawattachment="Bip01 Spine" />
 		<SingleBoneIK>Bip01 Spine</SingleBoneIK>
 		<Bounty>1.60000002</Bounty>
-		<Veterancy Level="1" XP="2" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
-		<Veterancy Level="2" XP="4" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="8" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="16" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="1" XP="1" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
+		<Veterancy Level="2" XP="2" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
+		<Veterancy Level="3" XP="4" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="8" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
 		<Veterancy Level="5" XP="0" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<Tactics>cov_inf_bruteLeader_01.tactics</Tactics>
@@ -9906,10 +9906,10 @@
 		<SingleBoneIK>Bip01 Spine</SingleBoneIK>
 		<Pop Type="Unit">0.5</Pop>
 		<Bounty>2</Bounty>
-		<Veterancy Level="1" XP="4" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
-		<Veterancy Level="2" XP="8" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="16" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="32" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="1" XP="1" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
+		<Veterancy Level="2" XP="2" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
+		<Veterancy Level="3" XP="4" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="8" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
 		<Veterancy Level="5" XP="0" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<Tactics>cov_inf_jackal_01.tactics</Tactics>
@@ -9978,10 +9978,10 @@
 		<SingleBoneIK>Bip01 Spine</SingleBoneIK>
 		<Pop Type="Unit">1</Pop>
 		<Bounty>5</Bounty>
-		<Veterancy Level="1" XP="10" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
-		<Veterancy Level="2" XP="20" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="40" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="80" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="1" XP="4" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
+		<Veterancy Level="2" XP="8" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
+		<Veterancy Level="3" XP="16" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="32" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
 		<Veterancy Level="5" XP="0" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<Tactics>cov_inf_hunter_01.tactics</Tactics>
@@ -10048,11 +10048,11 @@
 		<LOS>55</LOS>
 		<Pop Type="Leader">1</Pop>
 		<Bounty>80</Bounty>
-		<Veterancy Level="1" XP="40" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
-		<Veterancy Level="2" XP="80" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="160" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="320" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
-		<Veterancy Level="5" XP="640" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
+		<Veterancy Level="1" XP="20" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
+		<Veterancy Level="2" XP="40" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
+		<Veterancy Level="3" XP="80" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="160" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="5" XP="320" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<AmmoMax>120</AmmoMax>
 		<AmmoRegenRate>1</AmmoRegenRate>
@@ -10129,11 +10129,11 @@
 		<LOS>55</LOS>
 		<Pop Type="Leader">1</Pop>
 		<Bounty>80</Bounty>
-		<Veterancy Level="1" XP="40" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
-		<Veterancy Level="2" XP="80" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="160" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="320" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
-		<Veterancy Level="5" XP="640" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
+		<Veterancy Level="1" XP="20" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
+		<Veterancy Level="2" XP="40" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
+		<Veterancy Level="3" XP="80" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="160" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="5" XP="320" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<AmmoMax>120</AmmoMax>
 		<AmmoRegenRate>1</AmmoRegenRate>
@@ -10207,11 +10207,11 @@
 		<Hardpoint name="Torso" autocenter="true" singleboneik="true" relativeToUnit="true" yawrate="360" yawMaxAngle="45" yawattachment="Bip01 Spine" />
 		<LOS>55</LOS>
 		<Pop Type="Leader">1</Pop>
-		<Veterancy Level="1" XP="40" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
-		<Veterancy Level="2" XP="80" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="160" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="320" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
-		<Veterancy Level="5" XP="640" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
+		<Veterancy Level="1" XP="20" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
+		<Veterancy Level="2" XP="40" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
+		<Veterancy Level="3" XP="80" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="160" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="5" XP="320" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<AmmoMax>120</AmmoMax>
 		<AmmoRegenRate>1</AmmoRegenRate>
@@ -10282,11 +10282,11 @@
 		<LOS>55</LOS>
 		<Pop Type="Leader">1</Pop>
 		<Bounty>80</Bounty>
-		<Veterancy Level="1" XP="40" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
-		<Veterancy Level="2" XP="80" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="160" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="320" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
-		<Veterancy Level="5" XP="640" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
+		<Veterancy Level="1" XP="20" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
+		<Veterancy Level="2" XP="40" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
+		<Veterancy Level="3" XP="80" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="160" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="5" XP="320" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<AmmoMax>120</AmmoMax>
 		<AmmoRegenRate>1</AmmoRegenRate>
@@ -10357,11 +10357,11 @@
 		<LOS>55</LOS>
 		<Pop Type="Leader">1</Pop>
 		<Bounty>80</Bounty>
-		<Veterancy Level="1" XP="40" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
-		<Veterancy Level="2" XP="80" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="160" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="320" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
-		<Veterancy Level="5" XP="640" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
+		<Veterancy Level="1" XP="20" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
+		<Veterancy Level="2" XP="40" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
+		<Veterancy Level="3" XP="80" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="160" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="5" XP="320" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<AmmoMax>120</AmmoMax>
 		<AmmoRegenRate>1</AmmoRegenRate>
@@ -10429,11 +10429,11 @@
 		<Shieldpoints>12000</Shieldpoints>
 		<AttackGradeDPS>740</AttackGradeDPS>
 		<CombatValue>30</CombatValue>
-		<Veterancy Level="1" XP="40" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
-		<Veterancy Level="2" XP="80" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="160" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="320" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
-		<Veterancy Level="5" XP="640" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
+		<Veterancy Level="1" XP="20" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
+		<Veterancy Level="2" XP="40" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
+		<Veterancy Level="3" XP="80" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="160" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="5" XP="320" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<LOS>70</LOS>
 		<Pop Type="Leader">1</Pop>
@@ -10507,11 +10507,11 @@
 		<Shieldpoints>12000</Shieldpoints>
 		<AttackGradeDPS>740</AttackGradeDPS>
 		<CombatValue>30</CombatValue>
-		<Veterancy Level="1" XP="40" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
-		<Veterancy Level="2" XP="80" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="160" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="320" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
-		<Veterancy Level="5" XP="640" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
+		<Veterancy Level="1" XP="20" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
+		<Veterancy Level="2" XP="40" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
+		<Veterancy Level="3" XP="80" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="160" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="5" XP="320" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<LOS>70</LOS>
 		<Pop Type="Leader">1</Pop>
@@ -10689,10 +10689,10 @@
 		<LOS>55</LOS>
 		<Pop Type="Unit">3</Pop>
 		<Bounty>14</Bounty>
-		<Veterancy Level="1" XP="30" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
-		<Veterancy Level="2" XP="60" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="120" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="240" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="1" XP="10" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
+		<Veterancy Level="2" XP="20" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
+		<Veterancy Level="3" XP="40" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="80" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
 		<Veterancy Level="5" XP="0" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUp</LevelUpEffect>
 		<AmmoMax>60</AmmoMax>
@@ -10767,10 +10767,10 @@
 		<LOS>55</LOS>
 		<Pop Type="Unit">3</Pop>
 		<Bounty>14</Bounty>
-		<Veterancy Level="1" XP="30" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
-		<Veterancy Level="2" XP="60" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="120" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="240" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="1" XP="10" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
+		<Veterancy Level="2" XP="20" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
+		<Veterancy Level="3" XP="40" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="80" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
 		<Veterancy Level="5" XP="0" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUp</LevelUpEffect>
 		<AmmoMax>60</AmmoMax>
@@ -10842,10 +10842,10 @@
 		<LOS>55</LOS>
 		<Pop Type="Unit">3</Pop>
 		<Bounty>12</Bounty>
-		<Veterancy Level="1" XP="30" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
-		<Veterancy Level="2" XP="60" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="120" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="240" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="1" XP="10" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
+		<Veterancy Level="2" XP="20" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
+		<Veterancy Level="3" XP="40" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="80" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
 		<Veterancy Level="5" XP="0" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUp</LevelUpEffect>
 		<Tactics>cov_veh_locust_01.tactics</Tactics>
@@ -10916,10 +10916,10 @@
 		<LOS>75</LOS>
 		<Pop Type="Unit">1</Pop>
 		<Bounty>4</Bounty>
-		<Veterancy Level="1" XP="5" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
-		<Veterancy Level="2" XP="10" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="20" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="40" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="1" XP="1" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
+		<Veterancy Level="2" XP="2" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
+		<Veterancy Level="3" XP="4" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="8" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
 		<Veterancy Level="5" XP="0" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<AmmoMax>610</AmmoMax>
@@ -10993,11 +10993,11 @@
 		<Hitpoints>120000</Hitpoints>
 		<AttackGradeDPS>0</AttackGradeDPS>
 		<CombatValue>120</CombatValue>
-		<Veterancy Level="1" XP="80" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
-		<Veterancy Level="2" XP="160" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="320" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="640" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
-		<Veterancy Level="5" XP="1280" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
+		<Veterancy Level="1" XP="20" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
+		<Veterancy Level="2" XP="40" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
+		<Veterancy Level="3" XP="80" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="160" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="5" XP="320" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpHigh</LevelUpEffect>
 		<LOS>80</LOS>
 		<Pop Type="Unit">20</Pop>
@@ -11078,10 +11078,10 @@
 		<Bounty>8</Bounty>
 		<AmmoMax>1000</AmmoMax>
 		<AmmoRegenRate>50</AmmoRegenRate>
-		<Veterancy Level="1" XP="5" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
-		<Veterancy Level="2" XP="10" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="20" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="40" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="1" XP="1" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
+		<Veterancy Level="2" XP="2" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
+		<Veterancy Level="3" XP="4" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="8" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
 		<Veterancy Level="5" XP="0" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<Tactics>cov_veh_bruteChopper_01.tactics</Tactics>
@@ -11153,10 +11153,10 @@
 		<Pop Type="Unit">2</Pop>
 		<Bounty>8</Bounty>
 		<AbilityCommand>CovBoost</AbilityCommand>
-		<Veterancy Level="1" XP="10" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
-		<Veterancy Level="2" XP="20" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="40" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="80" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="1" XP="2" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
+		<Veterancy Level="2" XP="4" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
+		<Veterancy Level="3" XP="8" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="16" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
 		<Veterancy Level="5" XP="0" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<AmmoMax>850</AmmoMax>
@@ -11228,10 +11228,10 @@
 		<Hardpoint name="StasisBeam" autocenter="true" yawmaxangle="40" yawrate="120" yawattachment="StasisBeam" />
 		<Pop Type="Unit">2</Pop>
 		<Bounty>10</Bounty>
-		<Veterancy Level="1" XP="10" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
-		<Veterancy Level="2" XP="20" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
-		<Veterancy Level="3" XP="40" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
-		<Veterancy Level="4" XP="80" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
+		<Veterancy Level="1" XP="2" Damage="1.1" Velocity="1" Accuracy="1.1" WorkRate="1" WeaponRange="1" DamageTaken="0.9" />
+		<Veterancy Level="2" XP="4" Damage="1.2" Velocity="1" Accuracy="1.2" WorkRate="1" WeaponRange="1" DamageTaken="0.8" />
+		<Veterancy Level="3" XP="8" Damage="1.3" Velocity="1" Accuracy="1.3" WorkRate="1" WeaponRange="1" DamageTaken="0.7" />
+		<Veterancy Level="4" XP="16" Damage="1.5" Velocity="1" Accuracy="1.5" WorkRate="1" WeaponRange="1" DamageTaken="0.5" />
 		<Veterancy Level="5" XP="0" Damage="2" Velocity="1" Accuracy="2" WorkRate="1" WeaponRange="1" DamageTaken="0.1" />
 		<LevelUpEffect>fx_unitLevelUpLow</LevelUpEffect>
 		<AmmoMax>30</AmmoMax>
