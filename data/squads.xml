@@ -1404,7 +1404,7 @@
 		<RolloverTextID>3053</RolloverTextID>
 		<PrereqTextID>244</PrereqTextID>
 		<RoleTextID>520</RoleTextID>
-		<BuildPoints>60</BuildPoints>
+		<BuildPoints>30</BuildPoints>
 		<Cost resourcetype="Supplies">300</Cost>
 		<SubSelectSort>2000</SubSelectSort>
 		<LeashDistance>80</LeashDistance>
@@ -1462,7 +1462,7 @@
 		<RolloverTextID>23529</RolloverTextID>
 		<PrereqTextID>244</PrereqTextID>
 		<RoleTextID>520</RoleTextID>
-		<BuildPoints>60</BuildPoints>
+		<BuildPoints>30</BuildPoints>
 		<Cost resourcetype="Supplies">300</Cost>
 		<SubSelectSort>2000</SubSelectSort>
 		<LeashDistance>80</LeashDistance>
@@ -1520,7 +1520,7 @@
 		<RolloverTextID>22638</RolloverTextID>
 		<PrereqTextID>244</PrereqTextID>
 		<RoleTextID>520</RoleTextID>
-		<BuildPoints>60</BuildPoints>
+		<BuildPoints>30</BuildPoints>
 		<Cost resourcetype="Supplies">300</Cost>
 		<SubSelectSort>2000</SubSelectSort>
 		<LeashDistance>35</LeashDistance>
@@ -1532,7 +1532,7 @@
 		<AbilityRecoveryBar Centered="UNSC_Ability_Centered">UNSC_Ability</AbilityRecoveryBar>
 		<VeterancyBar Centered="UNSC_Star_Centered">UNSC_Star</VeterancyBar>
 		<Units>
-			<Unit count="1" role="normal">cov_inf_prophet_01</Unit>
+			<Unit count="3" role="normal">cov_inf_prophet_01</Unit>
 		</Units>
 		<Sound Type="MoveChatter" World="Harvest">play_cov_batchat_prophet_world_harvest_moving</Sound>
 		<Sound Type="MoveChatter" World="Arcadia">play_cov_batchat_prophet_world_arcadia_moving</Sound>
